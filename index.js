@@ -104,7 +104,7 @@ const loop = async (head_index, search, gongzhonghao, browser, page, keyword) =>
 
   let messages2$ = await newPage.$$(messages2)
   for (let msg of messages2$) {
-    let headline = (await newPage.evaluate(e => e.textContent, msg)).replace(/\s/g, '')
+    let headline = (await newPage.evaluate(e => e.textContent, msg)).replace(/\s/g, '').replace(/\|/g, '\\\|')
     let article_url = 'http://mp.weixin.qq.com' + await newPage.evaluate(e => e.getAttribute('hrefs'), msg)
     let entry = `[${headline}](${article_url})\n`
     lists.push(entry)
