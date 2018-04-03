@@ -99,8 +99,8 @@ const loop = async (head_index, search, gongzhonghao, browser, page, keyword) =>
 
   let url = newPage.url()
 
-  head_index.push(`[${title}](#${title}) [:link:](${url})\n`)
-  let lists = [`## ${title} \n ---`]
+  head_index.push(`[${title}](#${title.toLowerCase()}) [:link:](${url})\n`)
+  let lists = [`## ${title.toLowerCase()} \n ---`]
 
   let messages2$ = await newPage.$$(messages2)
   for (let msg of messages2$) {
