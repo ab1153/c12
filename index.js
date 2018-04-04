@@ -13,9 +13,8 @@ const s_gongzhonghao1 = '#scroll-header > form > div > input.swz2'
 const first_result1 = '.news-box li > div > div.txt-box > p.tit > a'
 
 const messages2 = 'h4[class="weui_media_title"]'
-// const messages3 = 'div[class="weui_media_bd"]'
 
-const gongzhonghao_list = [
+let gongzhonghao_list = [
   '机器之心',
   '量子位',
   '泡泡机器人',
@@ -38,7 +37,7 @@ const gongzhonghao_list = [
   'DroneDev',
   '微软研究院AI头条',
   '人工智能和机器人研究院'
-]
+];
 
 const newPagePromise = (browser) => {
   return new Promise((resolve) => {
@@ -69,7 +68,13 @@ const loop = async (head_index, search, gongzhonghao, browser, page, keyword) =>
   await first_result1$.click()
 
 
-  const newPage = await newPagePromise(browser);
+  let newPage = await newPagePromise(browser);
+  newPage.on('dialog', async dialog => {
+    console.log(dialog.message());
+    await dialog.dismiss();
+    await newPage.reload();
+  });
+
   await newPage.bringToFront();
 
   await newPage.reload({
@@ -78,24 +83,32 @@ const loop = async (head_index, search, gongzhonghao, browser, page, keyword) =>
 
   let title = await newPage.title()
 
-  while (title.replace(/\s/g, '') == '请输入验证码') {
-    prompt.start();
-    prompt.get(['captcha'], async (err, result) => {
-      if (err) {
-        await newPage.reload({
-          waitUntil: 'load'
-        })
-      }
-      else {
-        let input$ = await newPage.$('#input')
-        input$.type(result.captcha)
-        await newPage.keyboard.press('Enter');
-        await newPage.waitForNavigation();
-        title = await newPage.title()
-      }
+  const prompt_captcha = async () => {
+    return new Promise((resolve, reject) => {
+      prompt.get('captcha', async (err, result) => {
+        if (err) reject(err);
+        else {
+          resolve(result.captcha);
+        }
+      });
     })
   }
 
+  while (title == '请输入验证码') {
+    prompt.start();
+    let captcha_result = await prompt_captcha();
+    let input$ = await newPage.$('#input')
+    await input$.type(captcha_result)
+
+    let enter_input$ = await newPage.$('#bt')
+
+    await enter_input$.click()
+
+    await newPage.reload()
+
+    title = await newPage.title();
+    console.log(`new title: ${title}`)
+  }
 
   let url = newPage.url()
 
@@ -112,14 +125,16 @@ const loop = async (head_index, search, gongzhonghao, browser, page, keyword) =>
 
   newPage.close()
 
-  return new Promise((resolve, reject) => {
-    resolve(lists)
-  })
+  return lists;
 }
 
 const main = async () => {
+  let headless = true
+  if (process.argv[2] == 'head') {
+    headless = false
+  }
   const browser = await puppeteer.launch({
-    headless: false
+    headless: headless
   });
 
   let pages = await browser.pages();
@@ -130,9 +145,10 @@ const main = async () => {
   let head_index = []
   let all_lines = []
 
-  for (let [index, keyword] of gongzhonghao_list.entries()) {
+  for (let i = 0; i < gongzhonghao_list.length; i++) {
     let lines, search, gongzhonghao
-    if (index == 0) {
+    let keyword = gongzhonghao_list[i];
+    if (i == 0) {
       search = input_search
       gongzhonghao = s_gongzhonghao
     } else {
@@ -149,5 +165,8 @@ const main = async () => {
   fs.writeFileSync('index.md', markdown_content, 'utf8')
   browser.close();
 }
+
+process.on('SIGINT', () => {
+})
 
 main()
