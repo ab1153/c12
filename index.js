@@ -107,7 +107,7 @@ const loop = async (head_index, search, gongzhonghao, browser, page, keyword) =>
     await newPage.reload()
 
     title = await newPage.title();
-    console.log(`new title: ${title}`)
+    console.log(`${title}`)
   }
 
   let url = newPage.url()
