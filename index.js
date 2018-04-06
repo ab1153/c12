@@ -28,7 +28,6 @@ let gongzhonghao_list = [
   '优达学城Udacity',
   'tensorflowers',
   '宇辰网无人机资讯',
-  '智能制造',
   '新智驾',
   '环球科学',
   'AI科技评论',
