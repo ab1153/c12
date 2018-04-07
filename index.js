@@ -15,27 +15,26 @@ const first_result1 = '.news-box li > div > div.txt-box > p.tit > a'
 const messages2 = 'h4[class="weui_media_title"]'
 
 let gongzhonghao_list = [
+  '泡泡机器人',
   '机器之心',
   '量子位',
-  '泡泡机器人',
-  '车云',
   '智东西',
-  'Xtecher',
   '新智元',
   '将门创投',
   'AI研习社',
-  '车东西',
   '优达学城Udacity',
   'tensorflowers',
   '宇辰网无人机资讯',
   '新智驾',
-  '环球科学',
   'AI科技评论',
   '谷歌开发者',
   'Python开发者',
   'DroneDev',
   '微软研究院AI头条',
-  '人工智能和机器人研究院'
+  '人工智能和机器人研究院',
+  '环球科学',
+  '车东西',
+  '车云',
 ];
 
 const newPagePromise = (browser) => {
