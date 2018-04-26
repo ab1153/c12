@@ -20,7 +20,6 @@ let gongzhonghao_list = [
   '量子位',
   '智东西',
   '新智元',
-  '将门创投',
   'AI研习社',
   '优达学城Udacity',
   'tensorflowers',
