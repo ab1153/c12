@@ -30,7 +30,6 @@ let gongzhonghao_list = [
   'Python开发者',
   'DroneDev',
   '微软研究院AI头条',
-  '环球科学',
   '车东西',
   '车云',
 ];
