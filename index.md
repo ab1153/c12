@@ -1,971 +1,893 @@
-[泡泡机器人SLAM](#泡泡机器人slam) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525419338&ver=1&signature=eGs9ot2JXRlpb*rXJ4nM6Mfucaq2nByZTunt5a5Up*HydxXSfD-dPxLInYQsdsPIZjl2uAGG2pai0YcjapsdoA==)
+[泡泡机器人SLAM](#泡泡机器人slam) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525525980&ver=1&signature=eGs9ot2JXRlpb*rXJ4nM6Mfucaq2nByZTunt5a5Up*HydxXSfD-dPxLInYQsdsPIX5kyIQXoRP9u8rLma2aFWQ==)
 
-[机器之心](#机器之心) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525419344&ver=1&signature=K2wxpB9JUneBwtsAUzRAKK6NXcK2XYK2Bi-lab7Xv-JZefR3wii2P*wBbSULGYkvqrDy-L3I9t0q1LAB7unnEQ==)
+[机器之心](#机器之心) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525525986&ver=1&signature=K2wxpB9JUneBwtsAUzRAKK6NXcK2XYK2Bi-lab7Xv-JZefR3wii2P*wBbSULGYkvi2BVe4ObfePjIheRu8n7Qg==)
 
-[量子位](#量子位) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525419350&ver=1&signature=h-cAW7RBvqu8wRZsUWutClx-jVbAj*rinovjnpsxMLh8bHYJiZOUd9JP6guyrjVaL407l1sZnnIX3gQi6u6ahA==)
+[量子位](#量子位) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525525992&ver=1&signature=h-cAW7RBvqu8wRZsUWutClx-jVbAj*rinovjnpsxMLh8bHYJiZOUd9JP6guyrjVaMM1nHXNLgNTSQbrEq3mCVQ==)
 
-[智东西](#智东西) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525419354&ver=1&signature=w-8EMwmzAju6aiw4aj80Fpu4pWCO92wbBC*KZNmbwE*yZL32mbsQPAwKtg*zjrWBwXJOLA*pT6dhy4UR*Xx8OA==)
+[智东西](#智东西) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525525996&ver=1&signature=w-8EMwmzAju6aiw4aj80Fpu4pWCO92wbBC*KZNmbwE*yZL32mbsQPAwKtg*zjrWBL23LSAqglyj4XAjVLukedA==)
 
-[新智元](#新智元) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525419358&ver=1&signature=fOENhBUrEM6XcuNRY3ue306JhgArSpPZiBMBVjqYHd*xfutftWr9GolL67h2iiwJGY4f8f0qCzkmMly0TvRR6w==)
+[新智元](#新智元) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525526000&ver=1&signature=fOENhBUrEM6XcuNRY3ue306JhgArSpPZiBMBVjqYHd*xfutftWr9GolL67h2iiwJRUMLUaO*awcZx3HEethJHA==)
 
-[AI研习社](#ai研习社) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525419363&ver=1&signature=aUNwHWQsGRCuXs3DeogFfBWGz8hL9xkpi3YCst8blamflkI7wQ0PKUdvM9DRJmM5FDinx*WG88wdu3m4ZVbnyA==)
+[优达学城Udacity](#优达学城udacity) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525526006&ver=1&signature=qjkVFBCU7PvRCK0KfYcaXXl7A3WwymwiHiLcVX-DHdf-AXzCzemjzwgtQj4v4XfKy8aqCHj1fepPimoDMBezCQ==)
 
-[优达学城Udacity](#优达学城udacity) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525419385&ver=1&signature=qjkVFBCU7PvRCK0KfYcaXXl7A3WwymwiHiLcVX-DHdf-AXzCzemjzwgtQj4v4XfKy9GoH6-A4AHUCdyAwyFBvg==)
+[TensorFlow](#tensorflow) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525526011&ver=1&signature=fNXxsl8-UpjHi3n4iEtMKkWV0zGPtVLvYsiJ7pvQ6ZNifFXF5tFICnu9BfYJgqZQl8aI*sLBLUPvbXqdxoHzrA==)
 
-[TensorFlow](#tensorflow) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525419389&ver=1&signature=fNXxsl8-UpjHi3n4iEtMKkWV0zGPtVLvYsiJ7pvQ6ZNifFXF5tFICnu9BfYJgqZQKl45LzrEOEOidO4SoaiuAg==)
+[宇辰网无人机资讯](#宇辰网无人机资讯) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525526015&ver=1&signature=FkCiP0XlLbuqnfeLb2jcPelu*cMfgHmUQpWNQEirRchlqEhWAk9txeKnWmolKSUP9ofSFuNd7IL4gWqzvlArYQ==)
 
-[宇辰网无人机资讯](#宇辰网无人机资讯) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525419393&ver=1&signature=FkCiP0XlLbuqnfeLb2jcPelu*cMfgHmUQpWNQEirRchlqEhWAk9txeKnWmolKSUP1lvT7peKciAgcXT*nZzpTg==)
+[新智驾](#新智驾) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525526019&ver=1&signature=BrLlYaWNCI-Wbk5xCwGqwK036xeqyQz62abU9C1-v3IHOzXc7pJdnNbzoy0WTQby3g3zgc-LhEw*aDvFfEL04g==)
 
-[新智驾](#新智驾) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525419397&ver=1&signature=BrLlYaWNCI-Wbk5xCwGqwK036xeqyQz62abU9C1-v3IHOzXc7pJdnNbzoy0WTQbyoCpKEukab1JOIORLPAJ8xg==)
+[AI科技评论](#ai科技评论) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525526024&ver=1&signature=Y6rOsgS-EJJmHu4PdEA4AaqfzPjlEcMCAQ3RW8yixZUSvhQtdFy4J7kvf4044WTxUSjXC7aqw5u4k0hkfpuLoQ==)
 
-[AI科技评论](#ai科技评论) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525419401&ver=1&signature=Y6rOsgS-EJJmHu4PdEA4AaqfzPjlEcMCAQ3RW8yixZUSvhQtdFy4J7kvf4044WTxXMo2I5hx2x-3Vw1n0RwxCw==)
+[谷歌开发者](#谷歌开发者) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525526028&ver=1&signature=mplfSjLkCJPzhHH33jRHTdSRFWFKUY1B9dVOQLb7iYvOHWlC6rKnq4VR4-ueMBeaTxCgLPYQHYRi8qiea5KZ2g==)
 
-[谷歌开发者](#谷歌开发者) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525419405&ver=1&signature=mplfSjLkCJPzhHH33jRHTdSRFWFKUY1B9dVOQLb7iYvOHWlC6rKnq4VR4-ueMBeaIQjIlU*zzl6UasjYvyUDGQ==)
+[Python开发者](#python开发者) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525526033&ver=1&signature=TQ4Qya7gl94apqLCNkFNSrJGqwLjqxPJKWkefqoDFRbty*9d7Nxb0*lqqsLuyprRTwapXDTwHf9qyoQVSemfHA==)
 
-[Python开发者](#python开发者) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525419409&ver=1&signature=TQ4Qya7gl94apqLCNkFNSrJGqwLjqxPJKWkefqoDFRbty*9d7Nxb0*lqqsLuyprRjry2iW*FRqkh1HXlF1jpGA==)
+[DroneDev](#dronedev) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525526038&ver=1&signature=rrfxgUBX3hh4RhZbRRL6uaWqSy-P7qsAJfKnEaLirh5o5XO76nMdbBQ*Ebhum5BxiB-sPLu4VkMMuz5Z876cew==)
 
-[DroneDev](#dronedev) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525419414&ver=1&signature=rrfxgUBX3hh4RhZbRRL6uaWqSy-P7qsAJfKnEaLirh5o5XO76nMdbBQ*Ebhum5BxB7tDm1cODpIIb3cg5sz6*w==)
+[微软研究院AI头条](#微软研究院ai头条) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525526043&ver=1&signature=y-Q5e*EYCz8z8CeIq2VOhFBxhcLXXJZQcOiCerXv5kjRINLYUxaBY18DJuB4k671nandABKer5jpBU3NB68-JA==)
 
-[微软研究院AI头条](#微软研究院ai头条) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525419418&ver=1&signature=y-Q5e*EYCz8z8CeIq2VOhFBxhcLXXJZQcOiCerXv5kjRINLYUxaBY18DJuB4k671bjGb*e2YQHotWByvAcvZOw==)
+[车东西](#车东西) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525526048&ver=1&signature=5bJuV54kbklWpD*5y5gHAhaVtGI3IaOSAwxRXOOu7kYXITxO0Esvz*FWJ-wxoJIwU2Z6xUm1AcliAIfsxBa*Gw==)
 
-[车东西](#车东西) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525419422&ver=1&signature=5bJuV54kbklWpD*5y5gHAhaVtGI3IaOSAwxRXOOu7kYXITxO0Esvz*FWJ-wxoJIw-j0C41qVWmUKU*0tjLkdGA==)
-
-[车云](#车云) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525419426&ver=1&signature=ATmkzMNX-YvjRbYblELE-K73f7fcTp3CjQTc8xK81xB9Sz1DizuOdblS2S-9IHOgQA3u2QRz1GpLIoiHAmcf5A==)
+[车云](#车云) [:link:](http://mp.weixin.qq.com/profile?src=3&timestamp=1525526052&ver=1&signature=ATmkzMNX-YvjRbYblELE-K73f7fcTp3CjQTc8xK81xB9Sz1DizuOdblS2S-9IHOgzESaQORmVWwnmosQwZW71A==)
 
 ## 泡泡机器人slam 
  ---
-[原创【泡泡一分钟】基于空间划分的紧凑型闭环检测方法](http://mp.weixin.qq.com/s?timestamp=1525419341&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BsndsRk2B04G8TqePmr-BWPJ-JZUCkNtMPsEb3ecgQ9Dd6khqZx82EqOg6rpCuozYrxQi48i-gbtHHXmbOuLAlpBGpFeeDeE9AaLI8OvftidmKs8wTC1osnkJuLVfX8Z2WRCCzB5wtOPLYB78bF36Y=)
+[原创【泡泡一分钟】利用相对位姿信息进行辅助学习的视觉定位和里程估计方法](http://mp.weixin.qq.com/s?timestamp=1525525984&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuqVLZBFFidYMAH3u8drh2VnGyiCycqbphDoIsM7D5*Dzfj54Ycw75bfvBQxqnWmArE99m4vwZEHK7cfvME5neghyhB8fuLdBc4zNXDan-145sc7RS4zeWWflGamJJcJZNeMyEBJQhJ84795jyPh4-U=)
 
-[原创【泡泡机器人公开课】第九十一课：3DDeepLearningandapplications-张家辉](http://mp.weixin.qq.com/s?timestamp=1525419341&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BsndsRk2B04G8TqePmr-BWPJ-JZUCkNtMPsEb3ecgQ9Dd6khqZx82EqOg6rpCuozS6cm2a5fWSi0bdxU4Hj5VPdaRMQ4HIKzLnbbEki9I5G3BiuAppKubwh*OedvPj0VpGW1d4K5oG3Dz1P1FOL0ek=)
+[原创【泡泡一分钟】基于空间划分的紧凑型闭环检测方法](http://mp.weixin.qq.com/s?timestamp=1525525984&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuqVLZBFFidYMAH3u8drh2VnGyiCycqbphDoIsM7D5*Dzfj54Ycw75bfvBQxqnWmAjpr0S-73vkfUJJ9rsz7au0jtDyomi2OVN2MgrCqb1ceRBbj-BUf0CtZ*vJN2XvIGBSoSd3*TI7Y6wvfFQjBbUY=)
 
-[原创【泡泡一分钟】基于三维点云地图与立体相机的车辆定位](http://mp.weixin.qq.com/s?timestamp=1525419341&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BsndsRk2B04G8TqePmr-BWPJ-JZUCkNtMPsEb3ecgQ9Dd6khqZx82EqOg6rpCuozS6cm2a5fWSi0bdxU4Hj5VOxxwqqSWQtzqmaq2dmK3M8wObDhRoGT1jpHCXLIY2eUv*fWpJ1rh2bWofTA20opqQ=)
+[原创【泡泡机器人公开课】第九十一课：3DDeepLearningandapplications-张家辉](http://mp.weixin.qq.com/s?timestamp=1525525984&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuqVLZBFFidYMAH3u8drh2VnGyiCycqbphDoIsM7D5*Dzfj54Ycw75bfvBQxqnWmAuTlBCgPIrzy2OIxHCAFwwpH11q4cz4ZouAQQvO1l9IXwtoU2hjD*CIvbxVkRP6E4OGww5CrXR5v3Eiu7X-GWV4=)
 
-[原创【泡泡新闻社】来自国外初创公司的新技术有望解决自动驾驶中的晕车症；Voyage开源的自动驾驶汽车安全测试方法；苹果最新回收机器人](http://mp.weixin.qq.com/s?timestamp=1525419341&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BsndsRk2B04G8TqePmr-BWPJ-JZUCkNtMPsEb3ecgQ9Dd6khqZx82EqOg6rpCuozYe5nxHn4jLh3UdB92VxuvIx6ZbwK7V8xO9MRN1NmbdIZmzRt6W*MoGo458QL62xr71HcOEotAv-dmOsffDkdpQ=)
+[原创【泡泡一分钟】基于三维点云地图与立体相机的车辆定位](http://mp.weixin.qq.com/s?timestamp=1525525984&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuqVLZBFFidYMAH3u8drh2VnGyiCycqbphDoIsM7D5*Dzfj54Ycw75bfvBQxqnWmAuTlBCgPIrzy2OIxHCAFwwqTfm8Fpfs4t*ijFb0muw-cFpmzedhQPEjB41x0btij03nyXhhL9LHbRbV4Cl8H*iY=)
 
-[原创【泡泡一分钟】自主着陆点检测：无先验知识的自主飞机的视觉着陆地点检测](http://mp.weixin.qq.com/s?timestamp=1525419341&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BsndsRk2B04G8TqePmr-BWPJ-JZUCkNtMPsEb3ecgQ9Dd6khqZx82EqOg6rpCuozYe5nxHn4jLh3UdB92VxuvL*-2QiteGZLRKuST6VqA1NM5lUkyq*GVKkMV8EcgiXVFS3g75LV7qY1X9Ii9UVxcw=)
+[原创【泡泡新闻社】来自国外初创公司的新技术有望解决自动驾驶中的晕车症；Voyage开源的自动驾驶汽车安全测试方法；苹果最新回收机器人](http://mp.weixin.qq.com/s?timestamp=1525525984&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuqVLZBFFidYMAH3u8drh2VnGyiCycqbphDoIsM7D5*Dzfj54Ycw75bfvBQxqnWmAl0gl6gsq7wOunX35alAGO8xLEJT7UtVNnF2QUlWaMLdENSenkeSZSoENZF8mDSOXeJjWSsVbgGDQIrheInyUO4=)
 
-[原创【泡泡一分钟】基于场景流传播的动态街道场景的语义建图和目标检测](http://mp.weixin.qq.com/s?timestamp=1525419341&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BsndsRk2B04G8TqePmr-BWPJ-JZUCkNtMPsEb3ecgQ9Dd6khqZx82EqOg6rpCuozf7dQvjCsT*UuVxE0YLPB8E9pv9u-8iF95klASurTgRPWXzK75Cj*lxi6xL4HU7WcuHRjvsDDTkBCeXNQK2ljnI=)
+[原创【泡泡一分钟】自主着陆点检测：无先验知识的自主飞机的视觉着陆地点检测](http://mp.weixin.qq.com/s?timestamp=1525525984&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuqVLZBFFidYMAH3u8drh2VnGyiCycqbphDoIsM7D5*Dzfj54Ycw75bfvBQxqnWmAl0gl6gsq7wOunX35alAGO8BLNm*G5CG4V*ZdG8WwqxV*oJU3n9O*nu1UCn-w*PjERnvkceLyy7s4*X-5Qw9JKg=)
 
-[高仙机器人招聘\|如果你也是实力派，欢迎加入！](http://mp.weixin.qq.com/s?timestamp=1525419341&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BsndsRk2B04G8TqePmr-BWPJ-JZUCkNtMPsEb3ecgQ9Dd6khqZx82EqOg6rpCuozf7dQvjCsT*UuVxE0YLPB8EYsGv9WJY47qTWsVmA-9CMm6YeJM3ey5dlpdo53jYgshSncy0V*KEmMxIHAgrRdzc=)
+[原创【泡泡一分钟】基于场景流传播的动态街道场景的语义建图和目标检测](http://mp.weixin.qq.com/s?timestamp=1525525984&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuqVLZBFFidYMAH3u8drh2VnGyiCycqbphDoIsM7D5*Dzfj54Ycw75bfvBQxqnWmAtXTDvy6N3H4pNgYf4E8qkKIOh4pCVmzG6VrkjBWadX-hQ*8iPdB0PKttBkiXnlDQKfgz6oT8QMJVYh5EPJqg1A=)
 
-[原创【泡泡一分钟】时间一致性局部颜色直方图法的实时单目3D目标位姿估计（ICCV2017-14）](http://mp.weixin.qq.com/s?timestamp=1525419341&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BsndsRk2B04G8TqePmr-BWPJ-JZUCkNtMPsEb3ecgQ9Dd6khqZx82EqOg6rpCuozaTvFMH*Ov3PCkXhZVp8uvqs9z57XGmHuDlhjEslt4QS3GGHyWH6BEtQowbYjidSsiOjcSrxddtw0oEFahpqCQk=)
+[高仙机器人招聘\|如果你也是实力派，欢迎加入！](http://mp.weixin.qq.com/s?timestamp=1525525984&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuqVLZBFFidYMAH3u8drh2VnGyiCycqbphDoIsM7D5*Dzfj54Ycw75bfvBQxqnWmAtXTDvy6N3H4pNgYf4E8qkJmnComUT3yicX8FuTOOoGsSkkHQxfcZZFt8Rjz5bvwPGZyXNO9F2TbI1QKql2-omQ=)
 
-[原创【泡泡一分钟】通过使用高fps结构光的帧内运动编码的时间形态超分辨率(iccv2017-13)](http://mp.weixin.qq.com/s?timestamp=1525419341&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BsndsRk2B04G8TqePmr-BWPJ-JZUCkNtMPsEb3ecgQ9Dd6khqZx82EqOg6rpCuozVjcxwrEQhLhZyalCKiMNhdQlT2f62Tt*pq5WBiGj2tT792J8skjLOL8wpaHle8odqc2wdR7HlrEeb*pEz3dvZ8=)
+[原创【泡泡一分钟】时间一致性局部颜色直方图法的实时单目3D目标位姿估计（ICCV2017-14）](http://mp.weixin.qq.com/s?timestamp=1525525984&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuqVLZBFFidYMAH3u8drh2VnGyiCycqbphDoIsM7D5*Dzfj54Ycw75bfvBQxqnWmAlc1RUPSS6pu2P6xTRqoZttKLB3xsFWAZCjahv35x2VVXbPddiXXe2mYbURo5zNGdJCvixAI0ExlSNPSYPKohgs=)
 
-[原创【泡泡一分钟】具有深度特征梯度的自适应跟踪学习策略（ICCV2017-12）](http://mp.weixin.qq.com/s?timestamp=1525419341&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BsndsRk2B04G8TqePmr-BWPJ-JZUCkNtMPsEb3ecgQ9Dd6khqZx82EqOg6rpCuozTJYWrhjdnOO8l7bxJyNp6ILnSBl10pqSleu6XBAEuAfyZdO-z8oOvy6eCnNbMp8s7Tu42xI2AacpMifWRNrQcM=)
+[原创【泡泡一分钟】通过使用高fps结构光的帧内运动编码的时间形态超分辨率(iccv2017-13)](http://mp.weixin.qq.com/s?timestamp=1525525984&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuqVLZBFFidYMAH3u8drh2VnGyiCycqbphDoIsM7D5*Dzfj54Ycw75bfvBQxqnWmAjzJkwfae3HLOZAiYYb9cw292ApxPDGixw2OcFVbo7leCynJLyw2YJYvkYPw7U4uAiAuwSUuoWw5ci0e*wYM9ys=)
 
-[原创【泡泡一分钟】时间镶嵌：一种统一的视频分析方法（ICCV2017-11）](http://mp.weixin.qq.com/s?timestamp=1525419341&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BsndsRk2B04G8TqePmr-BWPJ-JZUCkNtMPsEb3ecgQ9Dd6khqZx82EqOg6rpCuozeCNaZHfe3748rcCJYUz6qbUmYT4Ugfeh9axaThDHyoo41VWqvZUhsfPyVvX2Fbwy8Gb80gugFwtu0ECWxgMzSE=)
+[原创【泡泡一分钟】具有深度特征梯度的自适应跟踪学习策略（ICCV2017-12）](http://mp.weixin.qq.com/s?timestamp=1525525984&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuqVLZBFFidYMAH3u8drh2VnGyiCycqbphDoIsM7D5*Dzfj54Ycw75bfvBQxqnWmAt5NPgOCqvN9GP6XJc*3rXYel09mfX*3Wd0BqwmAKbLArdxeXT9gv*14Uk5x0BErbDO--QBgR50pjm3aWze-p2c=)
 
-[原创【泡泡新闻周报】Apollo2.5实现限定区域内高速自动驾驶；美国陆军正在建造3D打印的柔性机器人](http://mp.weixin.qq.com/s?timestamp=1525419341&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BsndsRk2B04G8TqePmr-BWPJ-JZUCkNtMPsEb3ecgQ9Dd6khqZx82EqOg6rpCuozV29DSRfjSsyupjE7WgGtJXQqxDvuG4s0pRHFtTmkke3QnwDtFbvuEWS7yFfj4L5KrDF2kPiyTGUJlMdcb0WnBA=)
+[原创【泡泡一分钟】时间镶嵌：一种统一的视频分析方法（ICCV2017-11）](http://mp.weixin.qq.com/s?timestamp=1525525984&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuqVLZBFFidYMAH3u8drh2VnGyiCycqbphDoIsM7D5*Dzfj54Ycw75bfvBQxqnWmAmlsHePXZ8HclfgYTToIlsqG3-coW*BWFnZ*uCRI60U3POVwCcFqcdEwzSOUcVIb6-DbT1ml*wm51ezywPx5ECk=)
 
-[原创【泡泡一分钟】基于深度神经网络全局结构和局部几何推理的高精度形状缺失补全(ICCV2017-10)](http://mp.weixin.qq.com/s?timestamp=1525419341&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BsndsRk2B04G8TqePmr-BWPJ-JZUCkNtMPsEb3ecgQ9Dd6khqZx82EqOg6rpCuozV29DSRfjSsyupjE7WgGtJVQiFR4G4GHFpdSX7gtUKFrf7w7Pl41yQuMZAb0CsJ2ey5arzUQQ1yrVwFkDk35o9c=)
+[原创【泡泡新闻周报】Apollo2.5实现限定区域内高速自动驾驶；美国陆军正在建造3D打印的柔性机器人](http://mp.weixin.qq.com/s?timestamp=1525525984&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuqVLZBFFidYMAH3u8drh2VnGyiCycqbphDoIsM7D5*Dzfj54Ycw75bfvBQxqnWmAqB3lturdRt3EwDQQRaLc8qwUl1OO7yxGM7sbRdMiv9NgHIfrIE7jH*0fFbwfa1-f8Z494JPz*e6NFhyi0SadBY=)
 
-[原创【泡泡一分钟】稀疏消去法求解计算机视觉中的最优化问题（ICCV2017-9）](http://mp.weixin.qq.com/s?timestamp=1525419341&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BsndsRk2B04G8TqePmr-BWPJ-JZUCkNtMPsEb3ecgQ9Dd6khqZx82EqOg6rpCuozeld-n7IQCLfvAt2LEyi6V9liURAFza7hPRcqd4F4gyMzpQsa912OhydDX*L5QpQN5*BurHZtxQiiArXsaToE8k=)
+[原创【泡泡一分钟】基于深度神经网络全局结构和局部几何推理的高精度形状缺失补全(ICCV2017-10)](http://mp.weixin.qq.com/s?timestamp=1525525984&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuqVLZBFFidYMAH3u8drh2VnGyiCycqbphDoIsM7D5*Dzfj54Ycw75bfvBQxqnWmAqB3lturdRt3EwDQQRaLc8oXv573waoxsYGaf5jv2rJePh9FdSyv-cI*gyJEt1lI7I5cr7Cd698NDX*MINV5baY=)
 
 ## 机器之心 
  ---
-[CMU机器学习系主任ManuelaVeloso加入摩根大通，华尔街金融巨头的AI投资](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyZq0k--Oa46ViVLt9hnrVSsT2BWPEFPUdSoxtIwD7q93s0u1iGURle9gScGgftQwvl*JfWHu2w4i0Txrr32ueu8=)
+[论强化学习和概率推断的等价性：一种全新概率模型](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqM1aBywNjFHmgPDSk4sc8mhs8XYsoe99X9Sl20kfFU19tVo85ZvMf1urOp*g5QZjEtXYqOdY7X5qCnPUwUOG31s=)
 
-[原创专访\|阿里巴巴「鹿班」算法技术负责人星瞳：用可控视觉生成引擎完成智能设计](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyZq0k--Oa46ViVLt9hnrVSvs-QBdk43imYUIAlilJMpv3YRUzfkghRbwLM9XZA4HyMLWdBpB*dVLvlgtiRYeISc=)
+[前沿\|连发Science、NaturePhysics：谷歌展示量子霸权实现蓝图](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqM1aBywNjFHmgPDSk4sc8mhoGliXf5MQczu-mo*VZ3tjsief-fJTG3N6kJ6g-HpxqKXeNA3KvbjPn0qgO4q*WIU=)
 
-[教程\|如何使用DeepFake实现视频换脸](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyZq0k--Oa46ViVLt9hnrVSuipb8BGsAFn5LPP*ogPKkNFqA-wWcRKhQaVkTB6JjrSoV-zlsnw98gyjlLDHLsLIs=)
+[入门\|极致的优化：智能手机是如何处理大型神经网络的](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqM1aBywNjFHmgPDSk4sc8mjv2wqVRXovLzRWjLP0L3okmiOHsT6ZkutGOuyNHmyGHFQzaqzcLlNzmeLI7WmVyVE=)
 
-[业界\|谷歌、百度等联合发布机器学习新基准MLPerf，旨在促进AI发展和公众参与](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyZq0k--Oa46ViVLt9hnrVSvlIPqMsr2SVo8q8XwuUlM1Q2uPjNCs2eZEX3D7eXaCwVfUX0L6n8aDtBWLXGPvtUQ=)
+[CVPR2018\|密歇根大学&谷歌提出TAL-Net：将FasterR-CNN泛化至视频动作定位中](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqM1aBywNjFHmgPDSk4sc8mjdNjc6YlcCU46z8u8G2nvD3KiwaBRmPzIHIvdrnkwjGUNA9S0*OIlmZB1I1D3Ck9Y=)
 
-[学界\|牛津大学提出神经网络新训练法：用低秩结构增强网络压缩和对抗稳健性](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyZq0k--Oa46ViVLt9hnrVSv2yiGgBTbLIXbyV1OhyYOO0Bi2e91W1GnOko19P4RqvI2tUOYVhTx6h*QZ*tsycaE=)
+[CMU机器学习系主任ManuelaVeloso加入摩根大通，华尔街金融巨头的AI投资](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqAy2GylzE*33KfYotEy74-sVqdrafHZFSwM4nW6mohMaOIDjETbeK68cwkQVAJkNwRaWMCKBrEfS4gZe1kAxHjQ=)
 
-[原创刚刚，寒武纪发布了首款云端AI芯片MLU100：进军服务器市场](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyXnkBmae6JVAKaaDQVVxMxqap1kjiAn2lE2rP-Y7Umh2lSUn5GgB5fyWlhFFg3SfsIyZTDL3RmBLqBoXtHtab9k=)
+[原创专访\|阿里巴巴「鹿班」算法技术负责人星瞳：用可控视觉生成引擎完成智能设计](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqAy2GylzE*33KfYotEy74-sev3NsiTwXoZrB0wLTt61g6iP6T3Tpfz5wBYtowkCMzr17-2zlnR61bmh2eNwfxwI=)
 
-[独家\|优必选宣布完成8.2亿美元C轮融资,估值50亿美元后，我们专访了CEO周剑](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyXnkBmae6JVAKaaDQVVxMxpE4qRz18mKkCoRTNhKZ084zC8bVT4wxRnzjmDYn40PlKccn4lvSl8xQv1p4hM*QZw=)
+[教程\|如何使用DeepFake实现视频换脸](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqAy2GylzE*33KfYotEy74-v7F7Q1v24gl5AnWP29qIbRMk4wW0h9BPS7bs2cL9s4Ln9f4q5xLlY4b4HsowQ9wTI=)
 
-[业界\|无缝整合PyTorch0.4与Caffe2，PyTorch1.0即将问世](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyXnkBmae6JVAKaaDQVVxMxqSSUX5*XwGimYNuGctiTbvBsZNviJjWdeaZtIUQ9aTzQMZzF*2jca28Oue0Qvuz0I=)
+[业界\|谷歌、百度等联合发布机器学习新基准MLPerf，旨在促进AI发展和公众参与](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqAy2GylzE*33KfYotEy74-tmW0nflP6wHNx6I-EuRgrjiwPyyBRgM-EmRvuHT9ZE2GPbztJMqk5dFc98tz2Z6R0=)
 
-[学界\|最大规模数据集、最优图像识别准确率！Facebook利用hashtag解决训练数据难题](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyXnkBmae6JVAKaaDQVVxMxorwVqUKr8FIeMDUy8LTN09TuVpGSzS*2bXCw-UuygkTQ9qUNr9ZFPyt4XENMSoTIs=)
+[学界\|牛津大学提出神经网络新训练法：用低秩结构增强网络压缩和对抗稳健性](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqAy2GylzE*33KfYotEy74-tC-UJCwV3dmQ*3F3-bcVwJBXHmSsZNIfP37XFKKCcx33*YdzcCGxUhAOLOC1Ab2TU=)
 
-[活动\|敲黑板！深圳站也将迎来百度深度学习公开课](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyXnkBmae6JVAKaaDQVVxMxpNa5kUWqooeU5dcVMgU6evL1yz*zKvyeuDyWYIFXpseYCInaeX87GHvWIKPtI*ULg=)
+[原创刚刚，寒武纪发布了首款云端AI芯片MLU100：进军服务器市场](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqOOIlHSlDRsEoWq7o7M8whciRfhzqv7gWgVTyemOJ406ds-fI1F20VC5B2j-*WnFAS0-q41o6f6RJO*v9ek*aQ8=)
 
-[你的论文能否中顶会？这篇分析同行评审结果的论文可帮助你](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EybdDV-yPk6frDktZc*VJ2pL2auAtvb4Uu4Ndt5TX3bfqltqMLBqAxXL6FZTkJxBSZYRKnPNlLCU4Vco9lEe5nvc=)
+[独家\|优必选宣布完成8.2亿美元C轮融资,估值50亿美元后，我们专访了CEO周剑](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqOOIlHSlDRsEoWq7o7M8whdM*BuQ5Fsd70htoDl9BQDm32a8bBKo2QlpI2MMPit7ZB8z15fhpzkK5z2CO63jIRs=)
 
-[业界\|微软提出基于程序图简化程序分析，直接从源代码中学习](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EybdDV-yPk6frDktZc*VJ2pKyjVl79OnwyR2WVZ5VZUt92uOJfohoLCRvgk*vyc4ykv-*YnRWERBLU8aka5O0diQ=)
+[业界\|无缝整合PyTorch0.4与Caffe2，PyTorch1.0即将问世](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqOOIlHSlDRsEoWq7o7M8whc0pmjPXwtaajIvwWi6cpzMK7oaGblXMIwxMTilpWcO8856mWjIwiVjCQ74wAAHzkM=)
 
-[教程\|用摄像头和Tensorflow.js在浏览器上实现目标检测](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EybdDV-yPk6frDktZc*VJ2pI*UhVYv04xt14*WLd8UZtV4LGqxXaTkgcOnQorBDksJtCmq1QvgG127Y3wuH0lNwQ=)
+[学界\|最大规模数据集、最优图像识别准确率！Facebook利用hashtag解决训练数据难题](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqOOIlHSlDRsEoWq7o7M8wheRfmwvD5F0e3JJXCCDvhJZvGkgXCicp-9nzev-Xk9hk11XY00GqPRpobdy6GanuYg=)
 
-[CVPR2018\|Spotlight论文：解耦神经网络DCNet，性能优于标准CNN](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EybdDV-yPk6frDktZc*VJ2pK*IqFJu39yyiQhK59Mg-dskyL0wkZnAbCBtWD8KRnukKUi7MaHiH2zBL1TzhmLbmQ=)
+[活动\|敲黑板！深圳站也将迎来百度深度学习公开课](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqOOIlHSlDRsEoWq7o7M8whfYE5RQ219mLHjOZpfSrrKCLj*C2KSrVpwaVZtySefneooTJvq1wPppfpTbsHCAwOs=)
 
-[如何写一手漂亮的模型：面向对象编程的设计原则综述](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EydC*s90LYma6XBUj0*wxRSLZoebmLFVC4mGkj8ZGCVkcQIr89EGiHJSUAo*EASGctYpsayttMKzs3P28aovuX0c=)
+[你的论文能否中顶会？这篇分析同行评审结果的论文可帮助你](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqHLPgIazhcIIIBOGXK2Two5DkTkxV90uVq-8I-S24PWkbHVxkyFWb9XhzHyedpf1m*2*faG58mO4PAJ25dutUwU=)
 
-[深度\|生物神经网络基础：从尖峰放电神经元谈起](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EydC*s90LYma6XBUj0*wxRSLlcu4P-NIi6g3PC6pYworU38Gl-c2WS92ZcR6D-1oNImbL0qUNfVZHtxH7KTVGPiw=)
+[业界\|微软提出基于程序图简化程序分析，直接从源代码中学习](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqHLPgIazhcIIIBOGXK2Two41QTqtiUW81-B2cuG0vCFqVbbJIgUJa3g5kCWMwoIcTuXBWmj1rseRjrp4m4G7lMA=)
 
-[专栏\|监督&强化学习模型在金融市场的应用](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EydC*s90LYma6XBUj0*wxRSK2vYTz-VnytZ*M3ludq3KH-QfXsG7iI1DI9Ue0CNhMIK3VQGHO-0N95ODng3aLZ5E=)
+[教程\|用摄像头和Tensorflow.js在浏览器上实现目标检测](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqHLPgIazhcIIIBOGXK2Two5GIeNPyeR*93IirUZBVolDBoIACE436bMG4Je9OGkuRHJdSWKWRxe989JlHEkTPw8=)
 
-[学界\|DeepMind论文：CNN的变形稳定性和池化无关，滤波器平滑度才是关键](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EydC*s90LYma6XBUj0*wxRSI9-xobtMKMv6Gqw2oshZu*nPaKc36**qkDXNnv5g6ZI*Fyl1yRt*se9tp1fXmlYHU=)
+[CVPR2018\|Spotlight论文：解耦神经网络DCNet，性能优于标准CNN](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqHLPgIazhcIIIBOGXK2Two5g-OLfyJSI3dj*S6NGc8reN10z*qHOkC73K1zdQ-Q2vBBGx8O-1Ytq0G7UI4IJxKc=)
 
-[从基础概念到数学公式，这是一份520页的机器学习笔记（图文并茂）](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyUua2tOqo7lQ0gjlR9kv5bSsWMrR4S8-d3f-9IpVsYuSbF2H2Jc6BeN46G62t684xfbGdCurI4dz1iNboJ6nUuQ=)
+[如何写一手漂亮的模型：面向对象编程的设计原则综述](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqJsHlTaG8q-eBVmFKPEx2kLX9ceCv60*LLEiYsT0yIZwH0pEwFXD-yPooZjPpDfzbttZMa1krsTBgvd*ixAvKoM=)
 
-[教程\|如何利用GoogleColab免费训练StarCraftII](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyUua2tOqo7lQ0gjlR9kv5bSV0cwL6jmRwlZJnVo4KgYNHumWzeaUS2cEflkzVWMwwweLYGxTIdSKVyFOZueHTWQ=)
+[深度\|生物神经网络基础：从尖峰放电神经元谈起](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqJsHlTaG8q-eBVmFKPEx2kJkDYvQHEPZJFNHhLu8SW4pCSa22ZqRjXdk1jexlYMShNIfXK4O8TXUo0A0Olt8UIw=)
 
-[入门\|10个例子带你了解机器学习中的线性代数](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyUua2tOqo7lQ0gjlR9kv5bQ57rUI7VI97sZnBSeBNfLBsWkZVprBe-cLu8AGuGDZoQGcwPNHuaNbVQ-XNZBkheM=)
+[专栏\|监督&强化学习模型在金融市场的应用](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqJsHlTaG8q-eBVmFKPEx2kJm2LWeBjpBlSHK*KROEw8*Zp3mVka-3LcyMwQ8LyFOjNEOvQwIfiDm-nJfZveRsyI=)
 
-[ICLR2018\|Oral论文：zero-shot视觉模仿系统GSP，仅观察演示就学会执行任务](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyUua2tOqo7lQ0gjlR9kv5bQBgRqV72Mri1rzHPYpIfmASuB6rw*UOJDG55FTeXTTtrg8fOdLfhUbQ77QgDahcBw=)
+[学界\|DeepMind论文：CNN的变形稳定性和池化无关，滤波器平滑度才是关键](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqJsHlTaG8q-eBVmFKPEx2kIK5svrwfL2F0ldcbReIYulphNoJU--wkqFgs4z3lA8kbJkeLU9TYoF5uevTLIG4tY=)
 
-[抵制Nature机器智能期刊，维护学界开放：百名学者签署联合声明](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyVyfkY15Zh3rNdj8GLo1vEFygTizrpjChH5kiO5oD2iIYtta0o21PGN85e9Zej461kLx99h2WUDrDLTmhkwG6Pw=)
+[从基础概念到数学公式，这是一份520页的机器学习笔记（图文并茂）](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqPJHMSGiQLCUa6pmqqB3xJCkH*yJe07Us4HWbxdkucG4YUc1vyNsOe-VDAtoB0GjYIJaap8wKeU*xbDM5kqp*kQ=)
 
-[原创专访\|文因互联：从「金融数据」到「金融知识」](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyVyfkY15Zh3rNdj8GLo1vEFnZbZspjgLPlf7bx3vQuhz6PPHYCAZFDBOoVqbedqlNqdvLT1GPBDNdAD-fxOOdOM=)
+[教程\|如何利用GoogleColab免费训练StarCraftII](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqPJHMSGiQLCUa6pmqqB3xJCOrb7AxJtTHH-cBcOAGmcMaqi4sN5xokL9LOze*uA98x*8YSdm4X8-2wivihZ5FDI=)
 
-[入门\|机器学习第一课：决策树学习概述与实现](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyVyfkY15Zh3rNdj8GLo1vEFb0dmrcvVRLBwueaWUN3QdEJjhq-8Uva-epEiJfZJ0*yl7FJ*YRYZX49umXPQFmQ8=)
+[入门\|10个例子带你了解机器学习中的线性代数](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqPJHMSGiQLCUa6pmqqB3xJA-KiBm4R0-m7648vK3CYJeGlG0AfOeEOrTUwD9EAfq7PP835lExb0I2eE*mzFEDEk=)
 
-[学界\|FAIR新一代无监督机器翻译：模型更简洁，性能更优](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyVyfkY15Zh3rNdj8GLo1vEGvEMtPUV5v-QCP6A5qxdqlbeosoJo5BmsLODZi60TE84VmQlNZqLwHjMqNP-RNQss=)
+[ICLR2018\|Oral论文：zero-shot视觉模仿系统GSP，仅观察演示就学会执行任务](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqPJHMSGiQLCUa6pmqqB3xJCvB2FTzuCUV1QtkH71LiuxJawtttORTswrY3OMAXeQ19TY8dufmfsPZflx8*POxyU=)
 
-[「凡是过往，皆为序章。」64岁的RODNEYBROOKS谈人工智能的起源与发展](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyWS2rhINXfhiFDRFLlSnndfMQCzqhsUce9puud2mFhK*B*5BN*A0yr1CEtMpIIVQr75tTSvXKDSS8ZLPSg24IJ8=)
+[抵制Nature机器智能期刊，维护学界开放：百名学者签署联合声明](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqKHUp8tOfHCbkooCqVyZ2TfS5MVjSvSnHV3idCTvAAzWd3lMFCSAOo8R-AU233K-o5O3hcN380z-cwtm51Gxbs4=)
 
-[原创专访\|五一出游赏花，如何优雅地解释百度细粒度识别方案](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyWS2rhINXfhiFDRFLlSnndcjRV9UVFQV*m41h69-GljeVze*qxndSjCBrdtrFwQmZncq7GSgfRj-kG7wIxvxlB8=)
+[原创专访\|文因互联：从「金融数据」到「金融知识」](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqKHUp8tOfHCbkooCqVyZ2Tdb2jOMR4bs*OEkXUy*UyqPoblnytU50pOqNVxhxJYkpSHhPaMHDgStD8s7OA2URyM=)
 
-[专访\|吴明辉：明略数据成长为企业级大数据独角兽的秘密](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyWS2rhINXfhiFDRFLlSnndcB5XigLL1XFsqpcO*RO2az*UoU6ijQlYtZbWfUdpSwc8KHa7HA8w*YSxqnUTJlZBY=)
+[入门\|机器学习第一课：决策树学习概述与实现](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqKHUp8tOfHCbkooCqVyZ2TdlqJSpONJ43BC6OZL*cfY5q2V39zUxeEL-3DnBUTCxi3QgYnfyR7kgE-Cy1HasnLQ=)
 
-[业界\|人人都能用的深度学习：当前三大自动化深度学习平台简介](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyWS2rhINXfhiFDRFLlSnndchxx65YRZbvJUKj195pUAqB4U9PAV0PymYY7H8dT1rm5-*7udY*-xQgn6Q8wOVjQc=)
+[学界\|FAIR新一代无监督机器翻译：模型更简洁，性能更优](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqKHUp8tOfHCbkooCqVyZ2TclsxeYq0zLrY7CD*wPyGoaFYhYqW7fYWRudrFCmRSXaw*RccOyGffZu7rsXqBgIJE=)
 
-[ICLR2018\|阿里巴巴论文：基于交替方向法的循环神经网络多比特量化](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyWS2rhINXfhiFDRFLlSnnddC0On-5uIepJyfu9jR3Fl4Y-zMzQBMoOE3lXA96xiuFncBPaodS4OwyoXJGi6dQyc=)
+[「凡是过往，皆为序章。」64岁的RODNEYBROOKS谈人工智能的起源与发展](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqL5iHqAOdJ9J1-rXlwW6*8bd9tUEQjTiYisQiflihMT6zuQ4HvWXM2cmUhHY-rPlJS*FMhIjezTiUx3Yc-P3nWQ=)
 
-[从RCNN到SSD，这应该是最全的一份目标检测算法盘点](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyVL6H7atzVbtghzkrTD43CMrKWeDD7pWJsMe9t8cNhu1LQ8LOtGyiS6Kw6Ay*P4FCFHZ0fe98405cTdcsxGsabs=)
+[原创专访\|五一出游赏花，如何优雅地解释百度细粒度识别方案](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqL5iHqAOdJ9J1-rXlwW6*8bXzGVcz2zb9f72HrTQq1ZQDqUP-YizIxagzQ4bL9E9E68Z9JmORh1reU39c57Zo2c=)
 
-[原创专访\|英特尔刘茵茵：持续优化NLP服务，助推人工智能创新和落地](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyVL6H7atzVbtghzkrTD43CNqtxvg5mdRhvRSJvnmbvj3LCk1Bq9PksRXMeMRhGc8cIFzkGtoVsEom1zj*pxSprY=)
+[专访\|吴明辉：明略数据成长为企业级大数据独角兽的秘密](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqL5iHqAOdJ9J1-rXlwW6*8a3sNoUApKb7-gknhXKn58zSWP*M9mYYwi2RSD0O4NYdrtitcemsT2TAGF9EgpUDZk=)
 
-[业界\|ATEC蚂蚁人工智能大赛正式启动，我们从现场带来了MichaelI.Jordan和蚂蚁金服算法专家们的解题攻略](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyVL6H7atzVbtghzkrTD43CNWuTpj*YXpDfZU9xMOgkQEPUTUwEwXeMs-UjA18NWti1aUlXz4vxTVvnvU9wq9Jks=)
+[业界\|人人都能用的深度学习：当前三大自动化深度学习平台简介](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqL5iHqAOdJ9J1-rXlwW6*8bBkF-6md0ltnM744zKSgttt6pJkPt3okNvRwYoU3D3zvmcGUzeDjbtct-H1bk*EEU=)
 
-[专栏\|阿里妈妈基于TensorFlow做了哪些深度优化？TensorFlowRS架构解析](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyVL6H7atzVbtghzkrTD43CMdtTFJjQEZ3rIBB8bqGHZM2MCc3ZW6aUKx6ewVb-O6urmQOgoZ-h74FIOIXMN6TwY=)
+[ICLR2018\|阿里巴巴论文：基于交替方向法的循环神经网络多比特量化](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqL5iHqAOdJ9J1-rXlwW6*8Y5yvhoFuDlC55xo9q25WAbgjbxhWfgpvF-wMtDExZ1qHnMt11VoZA4O6cKJD1iUVk=)
 
-[学界\|神奇！只有遗忘门的LSTM性能优于标准LSTM](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyVL6H7atzVbtghzkrTD43COiTWaFzMkUBFoNMbq0ivSwPHXo6dRiloLM5FFOLg2*YV4Z97sNWQN*xCMR7o0LS-8=)
+[从RCNN到SSD，这应该是最全的一份目标检测算法盘点](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqGWBe4nwqLZLlOqxyf*37FyoxuFv6ztX9jdvmKYHCpx-M6s1kqZMfFy4X3NBYLcb1KrR96Gx2dkPPlQO5kW02mM=)
 
-[想要入坑机器学习？这是MIT在读博士的AI心得](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyS3gqBCs0ZVjY-EUKNjtBRxu*Nd-mwkj3BcuetT4ZM59UtMXuFD0xD0W6AJCv-tZyjeWyRaRgBeK8QOF*ecSXuA=)
+[原创专访\|英特尔刘茵茵：持续优化NLP服务，助推人工智能创新和落地](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqGWBe4nwqLZLlOqxyf*37Fx-FafD7nleAKG75PhsdzR00JyYyLKI*IPqIX2VSmABveELxu89lKSvSheko9otqVw=)
 
-[教程\|从零开始PyTorch项目：YOLOv3目标检测实现（下）](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyS3gqBCs0ZVjY-EUKNjtBRy*pYDrekIp812RPztHL7vHXPiMV-RnwPAxpWiaiAREmCUhOwT*GDoVdbyxeWCN9ZI=)
+[业界\|ATEC蚂蚁人工智能大赛正式启动，我们从现场带来了MichaelI.Jordan和蚂蚁金服算法专家们的解题攻略](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqGWBe4nwqLZLlOqxyf*37FwzJ*euM4l1ic6dUDaJwQB3zJB9bnS5nZx3fBilAb0Q6Wo1UjPyNX252hQDHjjgFD0=)
 
-[资源\|DMLC团队发布GluonCV和GluonNLP：两种简单易用的DL工具箱](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyS3gqBCs0ZVjY-EUKNjtBRzpMghpkR6uETMO7lPo15liTy-BpwjEq-EN4uHWekWTKRzQiJWJ8xFZVpPW95pi*Qg=)
+[专栏\|阿里妈妈基于TensorFlow做了哪些深度优化？TensorFlowRS架构解析](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqGWBe4nwqLZLlOqxyf*37FwHgh53xXbIXcSlU671jcPHEcVZIKzYPLsZ5s4PpdmgkggXT8f44mxCKu3oiLZOODA=)
 
-[CVPR2018\|Spotlight论文：北京大学计算机研究所提出深度跨媒体知识迁移方法](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyS3gqBCs0ZVjY-EUKNjtBRwRkJIZJApFnBJGjD7m2sFzfzEXSmVcefSSPNYM3COv0seYEdT3mwSaRIReL-Ckxe8=)
+[学界\|神奇！只有遗忘门的LSTM性能优于标准LSTM](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqGWBe4nwqLZLlOqxyf*37Fz8fxRKAT*L3YqVIGeGyUhlgaBJB1aeMq0h8CEkHgYijWtmrtRJXTtVYvKlPfdtFcw=)
 
-[报名\|大咖免费公开课：学生时代错过了AI专业，还来得及成为AI精英吗？](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyS3gqBCs0ZVjY-EUKNjtBRxZtaEwdJ3RkAHf1b*vka1QEWRDWHArzhLdYNIEqKAcqOuZtZNTgIDh-pj3SUclJqM=)
+[想要入坑机器学习？这是MIT在读博士的AI心得](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqDSs3s560lYaESmBWWtLCzEG2*w-UTWbFS302ZQNF7bf7tdXt70WT*Xe5pb1xhG3roQ105CCE7WscmlULdEkRlc=)
 
-[终于！大家心心念念的PyTorchWindows官方支持来了](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyawBhemoACQrpYnv5OGPDVc0kxVBbWl2vLMQnCtQ4Y*EG8VYAIDK5f*lIDyUBcE7NRa*KiBjhZ84sIIPYCFMYXU=)
+[教程\|从零开始PyTorch项目：YOLOv3目标检测实现（下）](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqDSs3s560lYaESmBWWtLCzGp11SAWXLzF3N84sdQCXwzzzP2MdVvKei8IiVjdUqdY08yvcUpumdvGNEAf9aM4qY=)
 
-[入门\|贝叶斯线性回归方法的解释和优点](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyawBhemoACQrpYnv5OGPDVeuj6XkBrNau7Gx9l-3u41rdRBdLX3z76BQ8Nx3OuACk69GlzEji6CNKNlCC5GQwjc=)
+[资源\|DMLC团队发布GluonCV和GluonNLP：两种简单易用的DL工具箱](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqDSs3s560lYaESmBWWtLCzEzSfyuBssF-0h84shkHQcJMmSx8Js09KRk7jYYQ0rk6GyTqH1TKE7gx7RE3ZVUNVE=)
 
-[ICASSP2018\|思必驰和上交大提出口语语义理解新方法：基于对抗多任务学习的半监督训练](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyawBhemoACQrpYnv5OGPDVd6yrndoxmhZDhUDBrjMHAhnVQ6TTFgphp1JhQSChUTsBn1oYcB8ab4bbobDWkR2fg=)
+[CVPR2018\|Spotlight论文：北京大学计算机研究所提出深度跨媒体知识迁移方法](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqDSs3s560lYaESmBWWtLCzE7Zg9Dr5je3xAI6lISxxz*XKB7uXPN8anDnJt0sLjAA8P5kEpxXvpMj36n3wKszi8=)
 
-[报名\|多大清华首届人工智能创新论坛：5月5日多伦多开幕](http://mp.weixin.qq.com/s?timestamp=1525419348&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BovDS6bwPbaPbDQjIQOvYgJqvKvW2g0KNVtgdQU8xHgs5b4obwb-d0DzESHdT3EyawBhemoACQrpYnv5OGPDVeZo2ueCFW1V3bRCjP3*lBggK5jdS9fPMfL3iwQAKubx6DuYoUmZbbVWn9okjefpdY=)
+[报名\|大咖免费公开课：学生时代错过了AI专业，还来得及成为AI精英吗？](http://mp.weixin.qq.com/s?timestamp=1525525990&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwiCnapug95-o2PKLylBDlRIgbtpqybaOSQ2cFk4lZ*0hf5xPDMi9qVYk8wwt6BVmqDSs3s560lYaESmBWWtLCzHqzwYALUq1ZyhOldrzAU1hi-qM6SjrfROVhFg0yr9vTbzFc05c-FUcv-1cvp1xdIU=)
 
 ## 量子位 
  ---
-[原创全球AI芯片企业排行：英伟达第1，华为第12（七家中国公司入围Top24）](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbEVJfuK6nzFwqMCOdGy64LPi6A24Pxhri9njcVHtTKXHkpTGvp9zTBHChkaUzfChq-R8kxXPh7SudDsbawq4zKI=)
+[原创Waymo无人车卷入严重事故！车身损毁严重，安全员受轻伤](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FK4WzgJAjVOL-nUOJPqA9feKjoPVkkj9asXuPspiNHYMVLTnSZbvBhLRpJfL9bSmLzDNybN*g*3V8SYrl10RO28=)
 
-[原创从应届技术男到百度VP，这是低调到没百科的吴海锋首次受访](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbEVJfuK6nzFwqMCOdGy64LNeo1aauq90n57ynEL4dB2SCSl-X4hY5yML-oBCmFxTAX*3GSX7TyGs*w3xx1tUpkw=)
+[原创“AI交警”正式上岗：专治行人闯红灯，深圳首日抓拍125宗](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FK4WzgJAjVOL-nUOJPqA9fe9jYzwF8Fq9qsclO64MtIc2I8TkW25L3h7Gfg8hfSM5ZQTJTdOfh5eKaZKtOAlSlE=)
 
-[原创又一北大系AI公司浮出水面，百炼智能宣布获千万元天使投资](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbEVJfuK6nzFwqMCOdGy64LM1gxQ8HFajJcRta93TesG24QZXkCr3Gobq8BcM5sLTz67*dGgCXYpOaB-BEFEX93o=)
+[亚马逊发力智能音箱商业模式，Alexa正式支持付费第三方应用](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FK4WzgJAjVOL-nUOJPqA9feMbq5YRRWDPNu-UDrvto02DM6XK-Vhu*VI-e3ve7hg3yUpkNUO-6N7WgPECo*2jHg=)
 
-[丰田要建专属自动驾驶测试场，再也不用共享了](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbEVJfuK6nzFwqMCOdGy64LN0nT05wFZUnSsAtfZxHkOkFq*g2mSi*9kH0UlWIg9ERoirgnQ0ymqrQMw6zBNmfII=)
+[Facebook又开两处AI实验室，在西雅图和匹兹堡招兵买马](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FK4WzgJAjVOL-nUOJPqA9ff60Xrbfq25zCnRyqCe3WE5Y7DfqM2eXHVTnYqsjzGJidaXuQwcHQh0ZyH*9k*n5bw=)
 
-[活动合作\|AINEXTCon硅谷AI技术峰会（北京分会）大咖来袭](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbEVJfuK6nzFwqMCOdGy64LMRts2k7kjZ4NaPQUfA9*FxQCMexEMbgsHNBuUUTYBXqODWsDc4S*6Cs8JF1l6TkC0=)
+[原创全球AI芯片企业排行：英伟达第1，华为第12（七家中国公司入围Top24）](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FFZumXI5MtpoSu0WViFUFTwCFGwTvLmNy4aUdGlHqIJSQ321dAIRDXsVk4Nin-c*x0DfLCyWSztTHI9YlhkGkvs=)
 
-[原创F8大动作：PyTorch1.0现身（Logo也换了），围棋AI开源](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbN9RKztX*ZzhZH8cKRsbD6-bYpRG90m*Vgeei0IK5ti-NNTC2JfP8UGHlQmum9ZhmApGJ1x6tUwl24-2lw2drqo=)
+[原创从应届技术男到百度VP，这是低调到没百科的吴海锋首次受访](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FFZumXI5MtpoSu0WViFUFTxpVYs0L2luM2j7TkGGrsIcDUwoSEWc4fQlesRusg2GgUVUjB1kRddHt3vpKfMSCLQ=)
 
-[原创特斯拉创下单季最大营收，但马斯克一句“Boring”让股价下跌4.7%](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbN9RKztX*ZzhZH8cKRsbD6-ggtg8n6gmpXFMIwpeMm1RNrdBnxGYGGwbKIg9yd7mJFBrxfbKaHtRaf5YzOClJqs=)
+[原创又一北大系AI公司浮出水面，百炼智能宣布获千万元天使投资](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FFZumXI5MtpoSu0WViFUFTxusQfipeixR23JvrJooVt*5bp67Vay0ZNN6FevjYa0js*OmgKwdoYypwc-1QiZjWU=)
 
-[芯片巨头ARM中国合资公司正式运营，中国芯迎来新突破？](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbN9RKztX*ZzhZH8cKRsbD69iDB0ADyz2lBF0T3mszkR1xhqgGbsCD3rZ4FARi48ul7a5aVnEy7ryResam8X1QKM=)
+[丰田要建专属自动驾驶测试场，再也不用共享了](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FFZumXI5MtpoSu0WViFUFTxRTkUfE2NgyHIULZAxtwojanGYKKtzse0H4aCrNpFZcm1mdkmY8CFMy4LrCiXZpvk=)
 
-[国产激光雷达厂商禾赛科技B轮融资2.5亿元，光速中国和百度领投](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbN9RKztX*ZzhZH8cKRsbD69IvysqYVuHWmocbgJ9QZM6ZTK-jJhRxtwwRDnvwZu0eCuTt1V*cxSWgnD1LVLmkFc=)
+[活动合作\|AINEXTCon硅谷AI技术峰会（北京分会）大咖来袭](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FFZumXI5MtpoSu0WViFUFTx07JfajGH8yMSkU6oXs5FqVNDDSTw1EjtYfvvW-Meyeespn9tdYxiIOlg*SIR8Isc=)
 
-[用GoogleColab，怎样让机器学习图表动起来？](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbN9RKztX*ZzhZH8cKRsbD69CPuYDh6VisAmIK9tTEcGyj89PRmWgkbxIHDWUp-wavxWlaZfJzpvDsE6qXWYzx4Y=)
+[原创F8大动作：PyTorch1.0现身（Logo也换了），围棋AI开源](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FMoSjFj1LRGGBkfepdeHmnnKHLTjIBksA9bYQNU5kk9EAYQ2vfXeloty-iQ8jCDDhop2hor8SSq1xpGy-YbmDR0=)
 
-[原创谁在帮李彦宏打赢转型仗？\|百度AI人才图鉴](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbCImKtqKO*D6WCXrgCoJjJZq1TVbYu6Ot17sfO935WPB3vHWlgMOeEL4fhXVt6ZYSD4P3DLThVTbDOiMNHS3pP0=)
+[原创特斯拉创下单季最大营收，但马斯克一句“Boring”让股价下跌4.7%](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FMoSjFj1LRGGBkfepdeHmnmd4M0J4w9BKlDqQAEhQEXTYe5ddaOE7rcZV0mVEWJONBvJyw-Cq4wyNSuc3JvzIEg=)
 
-[小扎展示Facebook十年产品路线图，跳票的智能音箱又有新爆料](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbCImKtqKO*D6WCXrgCoJjJZad6Amqo0yvhE**9pB4nrrzMORqqWEAGfZetXC7EJnzAJ20--zzsq9j5qu3MXpDqg=)
+[芯片巨头ARM中国合资公司正式运营，中国芯迎来新突破？](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FMoSjFj1LRGGBkfepdeHmnnLjmvor7z0JmyilseHcIs6kIb21Rs*PWS6gP4n8rgc6wbAeQzDySh5khpOz9WlzZQ=)
 
-[原创八家顶级无人车公司首次披露故障详情，从百度到Waymo](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbCImKtqKO*D6WCXrgCoJjJYLcDYODF2j1FAPMDNY2u4RLZ46n8Y13Hr31RkOHs09-l3ZrcEaw6t2gS6KH-xchFY=)
+[国产激光雷达厂商禾赛科技B轮融资2.5亿元，光速中国和百度领投](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FMoSjFj1LRGGBkfepdeHmnm*Tue5kTiVlygvzb9RthyoAAzKsdbeYSLex7if9Chov3S2*ZZr*7Gz5EU*7eXB0Og=)
 
-[原创破解梵蒂冈秘密档案，这个AI认识中世纪手写拉丁文](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbCImKtqKO*D6WCXrgCoJjJb5fQv6jDl-tHz3oTpq66DAocM9W4D-JWTrb4MY6jhBkq7CLGmpGfVPS4KVZ*jVDCw=)
+[用GoogleColab，怎样让机器学习图表动起来？](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FMoSjFj1LRGGBkfepdeHmnkT-zQLkb-iPMnGcPSJkiyov2izEp3ZsY9dxxM72BTEsU83FLflfci5DX*pFf-TmUI=)
 
-[前微软亚洲研究院副院长李世鹏加盟讯飞，任AI研究院联席院长](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbCImKtqKO*D6WCXrgCoJjJaiiqgt7fB41xqPod6fpk8SaJ*TU4RSNhZppdIdh7B3JzT7f3cbs2SxyuOcxTKu8T4=)
+[原创谁在帮李彦宏打赢转型仗？\|百度AI人才图鉴](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FC*SiYtKumthvTnuMvuMDWXP*9ocv5Kw8-YZ6upKjjSQzLZBJ0mV9S52lXjLS4sRc1-sMYPbEggy76v8FUuuUq8=)
 
-[吃瓜社报名\|竹间智能CTO翁嘉颀：如何打造主动式对话机器人](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbCImKtqKO*D6WCXrgCoJjJY8EEyNsrYcz-3pSdnEC6ep2tQ0j9kJUfKhcIfnpY2PXf1xRl6dffraUV9*5dVLzgc=)
+[小扎展示Facebook十年产品路线图，跳票的智能音箱又有新爆料](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FC*SiYtKumthvTnuMvuMDWWbZLda3Agc0KXaYkyV8SUbK-LoBQQuyKtyrnsoM3b-i2yCWwsRvMCJ*boZooCbn5I=)
 
-[原创当，程序员突然想画画，AI+机器人就该登场了](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbLZ0bIbV185n0ZjOAxcw56WdrgsYFJTrCv8yAzW9sxkW9713P1hQhPd1gvrxfwRcri9g3zDOuILRtkcvAPpGYrY=)
+[原创八家顶级无人车公司首次披露故障详情，从百度到Waymo](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FC*SiYtKumthvTnuMvuMDWVFkabn3qwlk22Ygb*nzRFBC1KLevdJijVtJFezQ*30T1qg7ug5t9B4D4dxC4vHCdA=)
 
-[Google开放最大目标检测数据集，还要为它举办AI挑战赛](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbLZ0bIbV185n0ZjOAxcw56Xp*cydvspMqNf-BImKpQPeXSnt9LUsLUFzC3iL7X2beedGGxwISfdDMOT*dwsDHs8=)
+[原创破解梵蒂冈秘密档案，这个AI认识中世纪手写拉丁文](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FC*SiYtKumthvTnuMvuMDWWW0HGSzyFhGjoTJefkGQRjUMT9YyXLXcqkv2UDBUTlJ*QaVPO86qWRljDfnB1XSis=)
 
-[喜欢赌球的你，可能被AI盯上了](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbLZ0bIbV185n0ZjOAxcw56Wzsg68oeKDLMyd44hd*E8*Vqfdr8oeHP2LiTG*1T0KkSUQSUHOgFNMsOoHIkz4yoQ=)
+[前微软亚洲研究院副院长李世鹏加盟讯飞，任AI研究院联席院长](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FC*SiYtKumthvTnuMvuMDWVk7Jkeb-7mZi5s76J4ZLDarrnpvRPmAvdZpzPWhN*vA*kCoxp8ltZcF96oT*TusY8=)
 
-[人工智能元老痛批IBM：沃森是个骗局，这根本不是认知](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbLZ0bIbV185n0ZjOAxcw56U7nsNFEuo5Q0WI38-3gXVfkC4Lpn33Zp9i9BTw0yXxrnGPt6ugc8Wn4pwsjYAPH60=)
+[吃瓜社报名\|竹间智能CTO翁嘉颀：如何打造主动式对话机器人](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FC*SiYtKumthvTnuMvuMDWWPWwZhqzAItUlIXOGQcZjj2Ni12a4MD4nVveTPbwpY0KE0Er5OhNt5LI*Aag45VvM=)
 
-[360首席科学家颜水成：人工智能杂谈\|北大AI公开课笔记](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbLZ0bIbV185n0ZjOAxcw56WUFPEHVmOQEPc*5eGT-rcZQC1r94b7PoHAqbqtjCgWBrzU6T4MD11BDO24tqOVFMk=)
+[原创当，程序员突然想画画，AI+机器人就该登场了](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FAWFcOhrKkVYpKq1gEtMQPIi5wYy7u9FheXyzu*KtUbaRR31EXmNhqTl6x7UXCC5hmZzN4XbWZmFUO*4uqmqlkc=)
 
-[原创《2001太空漫游》50周年：一部电影和一整个时代](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbGKP8f6uLzE4lYyfQdnsypyke9Dyz6xOesF3-idLKOLp95HI52WsAl6idifyrj-Bd1MTcHwm2E4PJ9sH63bk2kQ=)
+[Google开放最大目标检测数据集，还要为它举办AI挑战赛](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FAWFcOhrKkVYpKq1gEtMQPLw1xWH6UC1LshB3GiIvqst0tgKIWVQhO3hUlKViAHRWnNXWav5C-tbxmd318E0088=)
 
-[英国莽汉司机认罪：放任特斯拉自动驾驶，自己躺在副驾悠哉悠哉](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbGKP8f6uLzE4lYyfQdnsypzWaor9KPlFwVlFhPsiqGKwJid8h4fku-LNawBD*5NOVZkZWwQOY20u1kSPPbTR2i8=)
+[喜欢赌球的你，可能被AI盯上了](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FAWFcOhrKkVYpKq1gEtMQPLOrLGzcoSSOzJM7zwXztzki*c7Qz5CRJrmz-25gwJOt9eGE5dABE6vB-3IeFG9RXg=)
 
-[那个爆火的“梦中修炼”AI，你也能用Keras搭一个了](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbGKP8f6uLzE4lYyfQdnsypwuDZLrRFnsPWq5dlBEnejJotPlVMuYMx87xcyVYNsqnZwOEqCkW5AvXp3kndqDd5g=)
+[人工智能元老痛批IBM：沃森是个骗局，这根本不是认知](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FAWFcOhrKkVYpKq1gEtMQPLK-EXxdByLISiSExMprSYgI-**Bbzt5XuzsOgQ5JyyjoObSI2glmWu4Uq90XhAglY=)
 
-[原创Nature机器学习子刊被讽开历史倒车，JeffDean等数百学者签名抵制](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbEO6aBZQOrOSd*SrWv2IUSEKUPI68KgEvLSH9ji94b4zdvZo40Zb4pzDbVc-MzLVbRnoXlYGcR3c**4Ob7aU4V4=)
+[360首席科学家颜水成：人工智能杂谈\|北大AI公开课笔记](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FAWFcOhrKkVYpKq1gEtMQPIo3-Aa8xnmhEKUITf0A8-OHPufqcTp9c5mhtVc8e8IH*A05k3N8aUYSZmD-fZZ2uA=)
 
-[原创微信翻译团队课余也搞围棋AI：比腾讯绝艺更强，首次亮相就夺冠](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbEO6aBZQOrOSd*SrWv2IUSH1Qlmjwmp6-kaTgm6JzNM62q0YpcZ*3JwP8WBzgb4ge5sgXkNfEEo-XozSQhTEQNU=)
+[原创《2001太空漫游》50周年：一部电影和一整个时代](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FColmp5jby-UfBulRNkAk8i*-Iw4KztTgcv5mCY755qwyxvalC1Z6rp6i1AmHditqmdCMbAMiFaDCEsds8hS44k=)
 
-[李开复创业9年再看世界：中美科技成平行宇宙，VC也要+AI](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbEO6aBZQOrOSd*SrWv2IUSGzsK2Wcgw-sk0LcRg-AiOt8yFJOITkQ6Nxr8N8E0Hq4y4W5Guh6FharQ5ydF05dDA=)
+[英国莽汉司机认罪：放任特斯拉自动驾驶，自己躺在副驾悠哉悠哉](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FColmp5jby-UfBulRNkAk8iYS1Ibz8t5CHsLtYTrhh7GMx9Ztms4Ya2W8iZA6RBTjj*kU*sIM05y-AXZySsOsZk=)
 
-[CIA的海外间谍，要如何完美避开AI的监控？](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbEO6aBZQOrOSd*SrWv2IUSFVPM9W3llHXGjEHabBaMIxboK6wP4Whju6hPDW9S1Jj-xvZGxg*jFlZmtFvYRKywg=)
+[那个爆火的“梦中修炼”AI，你也能用Keras搭一个了](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FColmp5jby-UfBulRNkAk8jO1qIdfubsfqQvJkyAfm*lsIfWfyT-VJmQJBCEMonOjKyriMyROOV8lCr9TMMonH4=)
 
-[这有一个机器人，粉刷本领强](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbEO6aBZQOrOSd*SrWv2IUSHgNs7LEzvx*Nnd*dzcRqXm2TfJAqD56Fp9FZpG1beRI7GoS3zJi8b1HZ8jNGffNGI=)
+[原创Nature机器学习子刊被讽开历史倒车，JeffDean等数百学者签名抵制](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FMmo4kUnAaGTWQ1vWDCNlLAzaJ8oj4IPF3cvYz1a51FlOhhPLU*YWAPflLGkVteBaO7JCKNj2iV0dd3ofrZMMew=)
 
-[原创AI再乱围棋圈：“食言之战”柯洁落败；首例素人作弊引风波](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbGpWC7dJZLRTHA0yszerl81mywuasMFTyPS2kj4tbd91velK4ClzpR5TFXYym9Jc6YwopU30rZr5Wb5KMB*hxEg=)
+[原创微信翻译团队课余也搞围棋AI：比腾讯绝艺更强，首次亮相就夺冠](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FMmo4kUnAaGTWQ1vWDCNlLAxxurX7ZSxPwG-L5g5MLAfxMkcciqInqvzLCS1jUiiFfirgWaQQbNI8k671XVon2w=)
 
-[知乎要用AI打造智能社区，专治「答非所问」的瓦力机器人已上线](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbGpWC7dJZLRTHA0yszerl81eX1CTFSen57RweWgtTS4UB1sgKsWckdF6u*z2L9tESE9lXu4TwoopSkyNEyphQWg=)
+[李开复创业9年再看世界：中美科技成平行宇宙，VC也要+AI](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FMmo4kUnAaGTWQ1vWDCNlLBFpoa9dnUB9jEbIHw-EeJd09Y5H6aZxaGX*o3xkrTDbe75nqjoCY*CKW4Zccf-Uw4=)
 
-[有个AI陪你一起写代码，是种怎样的体验？\|附ICLR论文](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbGpWC7dJZLRTHA0yszerl82TZ9-OUlUrkSxgV9iI5TxpjYcO3i8EDvF7BhitdQI4HBgjl5SBwiPFCMXx7PT8RMg=)
+[CIA的海外间谍，要如何完美避开AI的监控？](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FMmo4kUnAaGTWQ1vWDCNlLAQP662ZKQlheQkwQyErUGmDqR8meKHE6-tiYOTeusG0OiJPHGWiO1znUgpQdElptQ=)
 
-[原创首部高中AI基础教材出版发布：汤晓鸥主编，40所重点中学引入](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbGpWC7dJZLRTHA0yszerl83YeG9*lCrOKnbXaNMQPukYMUbJ1rEp9jZyLSBdJcdbyGcjBHVoQRfDR0MdldBnfYc=)
+[这有一个机器人，粉刷本领强](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FMmo4kUnAaGTWQ1vWDCNlLCBasPlaShYJnjaRq0wYU8rc9Ax2uG9KjG0OdJ2Fh-NtGkBxfID1l2XBc9hJVwfNzA=)
 
-[路透社：美国打算限制英伟达等与中国人工智能界合作](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbGpWC7dJZLRTHA0yszerl80Gweh1XYLO8XDzkcjFEpojfoEL25g9Bc2jN27gW6h*7miOM3VNV2LWE5yC-y9Tscc=)
+[原创AI再乱围棋圈：“食言之战”柯洁落败；首例素人作弊引风波](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FMgo1r3SbbuNOOkL6x5LaFsIw3Reup7tKLtYhXU6SG6DKUafE9LV5bHArNsin45dofDBG*hbsUoEo4pMWFSUhsI=)
 
-[原创净利润大涨三倍、股价飙升，百度新上了一个秘密武器：强化学习](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbM**d3RJU-gTWmk4t1BZF6q5T*XCi3e0DtZUMzlV7vOp67OtLypWMz6ro2d6QrbBkdz40AWe7oKJo7qU77UbpTg=)
+[知乎要用AI打造智能社区，专治「答非所问」的瓦力机器人已上线](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FMgo1r3SbbuNOOkL6x5LaFucyqtRwamVsDqOWPLlxQRVhwOiV52rTDFiWtBoHE56rblVQYkyV9tkKpdzW3oDQbk=)
 
-[原创“懒癌”患者福音：是时候找一个AI帮你做家务了](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbM**d3RJU-gTWmk4t1BZF6rgFSOl2XicckBWM86EJNI9wyeeWys-ilOkwCsd2TWGhZ0jhxKEpnjGCubbzifi52I=)
+[有个AI陪你一起写代码，是种怎样的体验？\|附ICLR论文](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FMgo1r3SbbuNOOkL6x5LaFvecSYkm5TIkC5LidLUedhsoF*7irGzL2yFbwAjh8Bw2kNawmxsjcYfQG-deOFI8-k=)
 
-[原创芯片大神JimKeller从特斯拉离职，转投“宿敌”英特尔](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbM**d3RJU-gTWmk4t1BZF6pqP*tCfKibr6FRxNmYnXNfbXkJFOiSxbdwC6ycwEWQlcnDClQOONqEyZ94uEvu1Ak=)
+[原创首部高中AI基础教材出版发布：汤晓鸥主编，40所重点中学引入](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FMgo1r3SbbuNOOkL6x5LaFvcALrtOoauuMUAtpPIDCVwlhLMF6nRu1IxJBTtk-ENTqb9MQh6r8ALkJ8pTVHvfEQ=)
 
-[谷歌TPU2代有望取代英伟达GPU？测评结果显示…](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbM**d3RJU-gTWmk4t1BZF6qTcgNvXHg7mMTtF7xr5PphUxfMQsXzVcJoT1aljU28B*z19Si1KFmNnIHiRaD8kvQ=)
+[路透社：美国打算限制英伟达等与中国人工智能界合作](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FMgo1r3SbbuNOOkL6x5LaFt2qg1YAsQw24uMgDwwnrhdlW2YOmGC4*yXfbaVwwZRZw56Gh5F*cM2KNncjb4SxZ8=)
 
-[SwiftForTensorFlow终于开源，但先别急着用](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbM**d3RJU-gTWmk4t1BZF6poId8mhYYBchQ-bxyWLurr*4TIrkEgLbue-WkBYewts4ySHNdG5Zcrwa5Wk4H2IX0=)
+[原创净利润大涨三倍、股价飙升，百度新上了一个秘密武器：强化学习](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FNlk1LmzPf-wJGtcAW06*l62zr7qSvoebddOSH7BU4JaPRIQ7wzIDJzthLErRkBjLzy3MZAqEnodImKqBY8pn7Q=)
 
-[原创乔丹LeCun李开复隔空对话：我们对智能一无所知；AI研究的12大趋势](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbAR1sfNzPW6a1oz6UqI1366zSA3L3GY7vODoSRr25lJ*Mk1ob4DqtOua1ltsjpitSSURdmpsR3U38Pk*sZg4ln8=)
+[原创“懒癌”患者福音：是时候找一个AI帮你做家务了](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FNlk1LmzPf-wJGtcAW06*l6mCjX*W7LjKhaYqKMEJAcvbjsKsv5-yyYRDayICFy1eCrfJV9VLHb6CdXqF1pPVPs=)
 
-[萌新误入AI歧途怎么办？MIT博士小哥哥给你指条明路](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbAR1sfNzPW6a1oz6UqI1364EJJQQQKXNdqXhFGm5sRYzVugtzhv4jWcr3uAbbeltvvAUYbGNgprwzG7uzG4izME=)
+[原创芯片大神JimKeller从特斯拉离职，转投“宿敌”英特尔](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FNlk1LmzPf-wJGtcAW06*l4YxprQwbmVFlVz2ECLT9qY0gctkGVfx-SS4ALBaIycfglIn-XqsVyV8c*9hvPw9co=)
 
-[砸115亿元入局！后知后觉的欧洲重金建设AI，为赶中超美](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbAR1sfNzPW6a1oz6UqI13670coTKQwnCGUjOASuHFftCB8Uh9CTgmpQXfo0xVIAmU5AN2Y4qWuf9jA11O50cWCg=)
+[谷歌TPU2代有望取代英伟达GPU？测评结果显示…](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FNlk1LmzPf-wJGtcAW06*l4FFW1mun83-9WEMBV8bvxxJXqKJUQwO3O-TPrcaP2skJgglYQ3wGHUexXgrpik1lc=)
 
-[小米武大共建人工智能实验室，先期提供1000万研发经费](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbAR1sfNzPW6a1oz6UqI1367NIDry0MZxJoj4TXRki6lSnfIobtdAv3NwGrWSw-UsNsrxZBcDnj7MwWaVjZ6HJ9w=)
+[SwiftForTensorFlow终于开源，但先别急着用](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FNlk1LmzPf-wJGtcAW06*l6ISva-0cRdWiOJ2FnrJvr7Qh-1oKplME5GUOW1tl970sqzadAtuqteRgZR5wPsP1I=)
 
-[你真的理解反向传播吗？面试必备](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbAR1sfNzPW6a1oz6UqI1364DGHY90hjPUV4v0srKNk7Ngt-KGxw9A*m9zaX-Beuw63elujdtXZQDduGJiEy-iBQ=)
+[原创乔丹LeCun李开复隔空对话：我们对智能一无所知；AI研究的12大趋势](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FIWqfMISvUPSibZqQ2AZsltTPo1sbJhT-b3rbpcAtOqWp*XuyczFYpK9SrzzldtY36Op9Y6lPLbKhZ2MS8o414A=)
 
-[原创正面刚谷歌苹果，diss了BAT及友商，商汤科技说自己是一只“黑羊”](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbKHvuMtq4QcGxJCCm*t5GjWl0mW0H7Z6AONB*Wc5hXtUGjQB8ZMkfFdgn56kY9ge40dtffuLhu6HDZWauw-1Ey4=)
+[萌新误入AI歧途怎么办？MIT博士小哥哥给你指条明路](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FIWqfMISvUPSibZqQ2AZsluFJ-YZeYT4mAKy73zLT8-N*rIaP6n2G454Y0BSKBuMltCsqtgctRm8jckKln9HO8w=)
 
-[PyTorch更新了：支持Windows，新增零维张量](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbKHvuMtq4QcGxJCCm*t5GjWAhr6IrOJyoQd3DvyUM0pQoqbokko6DniflwaBer85Dv60AKOXSt3RzZo9m6UE1lY=)
+[砸115亿元入局！后知后觉的欧洲重金建设AI，为赶中超美](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FIWqfMISvUPSibZqQ2AZsluakJpLdI1qTkO5wd6NQdWaO1TEbuy3fXgC39KF9B6OYQbcD2UHGmukQpgzzRcvOKA=)
 
-[原创论PS的功力，英伟达的AI这次谁也不服](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbKHvuMtq4QcGxJCCm*t5GjVNyr51X24lWdOtoncDrttBvsLR2kkFC6A4yX52Y10Ry9ZDBsgLxXS3Ik2bM3b0B-U=)
+[小米武大共建人工智能实验室，先期提供1000万研发经费](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FIWqfMISvUPSibZqQ2AZslu9jtulidOnYz5mOYtZ7NYxlMn*42idvcr0sYOtIJbTj*xA5XzSHPNsQMRsALa*nx0=)
 
-[换了马甲也能认出“你”\|有了这个数据集，AI有望揪出变种勒索软件](http://mp.weixin.qq.com/s?timestamp=1525419352&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OrLJAlu2Ydusge5F*8GKYWOzLhwgqCHD6K41cNCK*s4paM4jJnR*pXSqly2cC9nbKHvuMtq4QcGxJCCm*t5GjUYbi5OTLLBzcKo2oAD4gUKWAphseDjbDwdh-I67Wjt50P2nKhFAAuURUz7Iso1xCw=)
+[你真的理解反向传播吗？面试必备](http://mp.weixin.qq.com/s?timestamp=1525525994&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgLhVWQzPxok68Wbo3rac0ujwkr16zz86LnM0XLm9SFOmt7r8xd1m-aNB8CaMeW8FIWqfMISvUPSibZqQ2AZslt7GDt4adz*eSEzfHnGcix7IX00seiLEEsaY71c2hxJLt1J0WUHQ6Gh2RF3fpdv*38=)
 
 ## 智东西 
  ---
-[原创首发!优必选融资8.2亿美元腾讯领投创始人周剑死磕机器人10年](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXaY91yYwXejhs6s-pVm9hrYSvZSK1RGC7WPqgdq9V-49a5ltY*pEQIT7MXYgZ1yZX9j*fmUoXOaNKrV7tZvq5D4o=)
+[解密史上第五波造车潮：60多家涌入直面6大杀手【附下载】\|智东西内参](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0PZEh7c2RKhS-yME5S12rNQhCcX-uyjuUlH8IPLEU9Gr*CuBKKylYviFXNUEpDCM8kEiKhl7gNdqzK8YRtxlFdY=)
 
-[原创海尔智慧家庭全产业链生态解读](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXaY91yYwXejhs6s-pVm9hrYSSw1rYnqc2tbJMHRCIjQIKUcVnND8umdykmBsZjZlzXeDUdWnOD4jdkRnyHz0-JvM=)
+[深圳启用AI闯红灯监测系统平安好医生成AI医疗第一股](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0PZEh7c2RKhS-yME5S12rNRXjnF3yb4Rg3tiRLa6g3bEVdpIZ*rAvH6qakebgbBKa-Tdlxyu8GzK54Mi7dbWY64=)
 
-[寒武纪今日推云端AI芯片小米昨日已递交上市申请](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXaY91yYwXejhs6s-pVm9hrYSL*gT5w03WlVmrC7XENXjepcTLFIHsH7bkT2YCXRaos**wG6qTLu9mcvauMBF-KMA=)
+[原创号称“民族芯”希望寒武纪真能叫板英伟达？](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0A9SE6R7*CZtADxdAGoeSvkDsDfjl8xIpcHzOvntvXBrelxhhDxiZvxsDrQhNudDA*UCRsF3yFbNzKOfW6OpcA8=)
 
-[原创刚刚Facebook高调推约会应用“美国陌陌”慌了！](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXaRwRyw6tTcSYXBTPrpAacn*Qz5xloMfTy9Byatt7qBJAdoSANFTmgqbc9MgQ9Fkf6GIh7PPLPOVfHOArwMt0Kbw=)
+[【PPT下载】清华大学副教授都志辉：如何使用GPU加速实时空间天气预报](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0A9SE6R7*CZtADxdAGoeSvkUO03UiPLq2ufI9JGpr*Gt8Sjb48*-4sV-EU0iQEAz*hCk7PRRhKvctRouizgxJEI=)
 
-[苹果上季度卖了5220万部手机港交所IPO新规落地](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXaRwRyw6tTcSYXBTPrpAacn9f1JXonVVgTWjymVktuKtTtk1xFSleU0*0y4IRJrcXmSIEA61-4QYQyvasK4knD4c=)
+[海尔智慧家庭公开课报名启动！90分钟讲解海尔智慧家庭在物联网的探索](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0A9SE6R7*CZtADxdAGoeSvkExkp4zh8ZjhUAPj6*PRgs3k42HOEKO0itP0FON8dc4qBcey3P4l4ZO4wYErZYq8A=)
 
-[12份研报精华解密“中兴事件”解药在这！【附下载】\|智东西内参](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXaYchGVNPvNzXeZvQDfxK9HsM27iMbHMkMFcOd2o69trW*HtxFgHcWtRzsB6JIL50cQ5JWEuthem*AG7TedQncnI=)
+[全球AI芯片排行：英伟达第一华为海思国内最强](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0A9SE6R7*CZtADxdAGoeSvkLGZpS3SH3ZPkgCXVLxI*bKnm0aEBPfHDTeP3MocogtpfH9NBfJiWG*BUcUcE2qI8=)
 
-[消费机器人今年爆发！四大品类瓜分百亿蛋糕【附下载】\|智东西内参](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXaYmUp-lHcvP0ORiv5sb8kJdrM7my7hMs33RyfmeA0nLwnZgB14h49Vtcu9Co7XXJTO8-7mEX38P5rzREGrxvYIE=)
+[ofo深圳运营服务仅得0.57分全球AI芯片榜单公布](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0A9SE6R7*CZtADxdAGoeSvnB9N7mxK1D9Y8CU6-sg8RbsCMccWZ8vohasodTroKNA*ne2LzxqGf6Lsc1FOP7-B0=)
 
-[原创从端到云，华为终端AI生态布局全解读](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXaYmUp-lHcvP0ORiv5sb8kJevEJvsrW44qjAc2JxExD9I3JA5ZJbhCcT7CcBjWQSeBwcZ115QCuRi4Xfv*F4bTbA=)
+[原创首发!优必选融资8.2亿美元腾讯领投创始人周剑死磕机器人10年](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0Mto**p*Iv8Rp5pzSRJ4Ufkd2CpsnlQJ1photmLZAoS-097Zwjy35aB1BE107CpePIO*2fMKfsOZkPWvNCM79jI=)
 
-[【PPT下载】DGX-2如何驱动智能监控革命？NVIDIA高级系统架构师4000字详解](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXaYmUp-lHcvP0ORiv5sb8kJdEgkNYucmG8hj*gX2MVnX6bkmC5wbjJb8aYvdQa59gbHahLf1JlC7oHtjpGv1ZanI=)
+[原创海尔智慧家庭全产业链生态解读](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0Mto**p*Iv8Rp5pzSRJ4UfkO1JtS-AK7*E2JhRjyMti3DHZE2Ud7nqnhvE8JHEvjQl3T457AMgDw2EBsqwQUiJk=)
 
-[柯洁对战中国AI围棋告负上市前小米两联合创始人辞职](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXaYmUp-lHcvP0ORiv5sb8kJc6IuOyEcIYYMfP*DrIKGkRvJMpksX1-PJsFj-MEsdDRVSKbHGJyHHQVWwB0C7hA2M=)
+[寒武纪今日推云端AI芯片小米昨日已递交上市申请](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0Mto**p*Iv8Rp5pzSRJ4UfkyCH*vfVMWotkonSfneTztSRcNBkrGDLc8cu3Zo1k-xsfJmw2pLo4DzbtHcD7q2WM=)
 
-[原创给阿迪年造百万双鞋！45家涌入机器人新风口](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXaSgiPJfOtOrh1M27uUS1zZIxoyFeIMh*ARdkkJjsxa8S7CxQZIdr-3aU5PXPhTVjTn0uCujwUGyqLmqFMNvNbY0=)
+[原创刚刚Facebook高调推约会应用“美国陌陌”慌了！](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0AfiYSSkeM4C4T3w-lP0Isr1z0BR5YcmJ5x5fHIlEwksYue3kczTFt1WX9Hdpv6w13NccMRleD17Ra23R4H5Sk8=)
 
-[【PPT下载】智能监控场景下如何进行大规模并行化视频分析？西安交大陶小语博士给出了方法！](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXaSgiPJfOtOrh1M27uUS1zZKfGRxbdlT22QD1V2dZmxzAdmjCwwZ6kxO03NEsNwGQzjZdNhH94ydyzlTYMxAkZbc=)
+[苹果上季度卖了5220万部手机港交所IPO新规落地](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0AfiYSSkeM4C4T3w-lP0IspgJyxunriI0JItaKkH409KZhyyVyOJge0rs4jDGLy320NoQb9ofK0Gjoj-CgKKrLo=)
 
-[重金砸向协作机器人！泰瑞达2.72亿美元收购机器人创企MiR](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXaSgiPJfOtOrh1M27uUS1zZKJH*JPSfJXL8jfnRisx2QCaXwsU4K4wgjHn**zRmX4gCo9C6aqVZmQTDcvXSy0n00=)
+[12份研报精华解密“中兴事件”解药在这！【附下载】\|智东西内参](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0IGnVTpV-5bdYW1oyd4VefsbLcxe6E46GamUQkVRmWsICQbEOdEuJnWdCno2cUdaW04BbWJSJJcQ5Og5GgKbaV4=)
 
-[柯洁对战中国AlphaGo滴滴深圳投电单车被收回](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXaSgiPJfOtOrh1M27uUS1zZKZR5I2AMvZhDHrK4Vnnalr7lI-ycHcqQOu4G5lC-AWW5M-yehdVzs9blsay9DENUg=)
+[消费机器人今年爆发！四大品类瓜分百亿蛋糕【附下载】\|智东西内参](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0AN4pME9c28SwHJhrLqkVRqW*oD57c*BECIzT4WwHlNeQNtAht*Fwc1gpb7xToyHbDxidP*qVjlXzwQcQHyG0Dw=)
 
-[原创AI三“教父”隔空喊话：吐槽互联网巨头激辩李开复还泼了盆冷水](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXactrTCMjZEfQmi0lPqsDwvFIO48eagt3e-utHTFUl58-BxZoxFYWTatPZKa0P5fVCKgxS*tXN8398v2y7UV6utc=)
+[原创从端到云，华为终端AI生态布局全解读](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0AN4pME9c28SwHJhrLqkVRrY506frAFOdciIM5l87AQ7JzilhxysqQiEysn8WR5sPJ8MUyrpDiFpvaxzoKhgqEE=)
 
-[2017年全球半导体营收4000亿刀厦门禁止新增网约车注册](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXactrTCMjZEfQmi0lPqsDwvE5JODiB2dcl9UXoy8cgAfutMxVEKRXZ7hLyJt2V7PUSH7XdI59dfs8wtfmZthObq4=)
+[【PPT下载】DGX-2如何驱动智能监控革命？NVIDIA高级系统架构师4000字详解](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0AN4pME9c28SwHJhrLqkVRojTN1C4LaTM6n5esJTXPZak0*L6ed3vRCFz7HW9aWit6jVTZnibWY6CuKyCrqZJwE=)
 
-[原创全民炒芯：务实者与投机者的战场](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXaVJoCm2I4WFkYbZs6wye33iBEx-JkWXxUww5yTSLwr1eW5gMcXMX7y4OsbU4MOJj4fH9s4bu3bCNR14uaLBPmts=)
+[柯洁对战中国AI围棋告负上市前小米两联合创始人辞职](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0AN4pME9c28SwHJhrLqkVRqS99UZFWRdju8-soV*N2ZrfhxLbRI3UdLcoljB5zMrnXNKgkbl5K4*Spf72vmcpu4=)
 
-[原创对话徐立：解读商汤五大业务布局2018年营收要翻3倍](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXaVJoCm2I4WFkYbZs6wye33jrvedbnDQxok9ja49JqMDDY7MSXY8MK6qj1KBb-k6MgxhuWosZmeuHOrZJgLtOqt0=)
+[原创给阿迪年造百万双鞋！45家涌入机器人新风口](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0NK41Y*WP3f0njC46XLXeizJI0CWthuQZWTO1vtZ-l7a6xV33Yc7k1vRxmOE4VXoPWBQeXKZJxhz*7gpH0xejbo=)
 
-[原创对话荣耀赵明：把自己逼到墙角抑制贪婪才能甩开对手](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXaVJoCm2I4WFkYbZs6wye33h4xH7jKW-sahXI1ZJfHqIQkSb-hfw7Ois-wlXvRQvWj2nyTAGPskL2FSF-4PZ302Q=)
+[【PPT下载】智能监控场景下如何进行大规模并行化视频分析？西安交大陶小语博士给出了方法！](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0NK41Y*WP3f0njC46XLXeizbn93ksoTH6ZzNAry8uZxV3-Zq0S4u-r*ysZTRZ4f-G0gTgaUA2euez6J2KkHvpoQ=)
 
-[滴滴建洪流联盟推广共享电动车港股将接纳双重股权结构公司](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXaVJoCm2I4WFkYbZs6wye33jRntVM96hdrXwwYxs9oQI-D5v282s*RuHpUx8Bla6Ze4kKg--W7x*9aJy*koSHEWw=)
+[重金砸向协作机器人！泰瑞达2.72亿美元收购机器人创企MiR](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0NK41Y*WP3f0njC46XLXeixmEp3JvQQASJW-uGB*QKvRfBd*B8POtIhj4HQwCTId*9p72TPdy07ndmpkRTJZBIA=)
 
-[原创起底FB智能音箱：五角大楼之脑前负责人操盘收6家公司](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXaeqHUz9w7TevpKVrMaD3z2IQzeUrsPQZHmNGDFIr8kRRFfyT7IXZ2S7WVlT9ZxW015XlpLIJVXRxXFsJ7I5JbyA=)
+[柯洁对战中国AlphaGo滴滴深圳投电单车被收回](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0NK41Y*WP3f0njC46XLXeiy1Hr7DtCkeu19uB*155YrCL5aIpw7426Pl6JPZI9rhOPBG-Yhg1zEsPKu8PcwweOM=)
 
-[清华量子网络里程碑：量子接口实验成果超世界记录6倍！](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXaeqHUz9w7TevpKVrMaD3z2J9Uwl-NfBrrDqwCKQo8MVQ3Hzg-Rz7V6-lHdjwgbbxzoOewhyXgM*dHJciuokZ-wk=)
+[原创AI三“教父”隔空喊话：吐槽互联网巨头激辩李开复还泼了盆冷水](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0H7-ksGC492I-FqYAytxIWlgB6VPApuK3hpiwTPs9NKdpHRE2VG7sP-98pNI-rlL-G1CJF6VqUzjy2K*dc9M850=)
 
-[传亚马逊家用机器人明年上市这5大功能最值得期待！](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXaeqHUz9w7TevpKVrMaD3z2K3krMMpioa6mwGd*vymAzEB7mlCqp2e1b8McczGBxsRoHSO4jjlM5Ah0HEL0UB9WU=)
+[2017年全球半导体营收4000亿刀厦门禁止新增网约车注册](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0H7-ksGC492I-FqYAytxIWmtxOLsHKdGKXb57CKygZNTac6mvtboo82wAhoa8P*gJxzuVfNpgKmaXSm79Cf4gPo=)
 
-[重庆首张5G实验网将开通Facebook两款智能音箱跳票](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXaeqHUz9w7TevpKVrMaD3z2IJ*i6ot0a4FdhGVhYGG2J-Msy0kIuBA9*t5snZdHU58pYw1cR1sJn3iDrK4W1Hs8g=)
+[原创全民炒芯：务实者与投机者的战场](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0KjKa8rvSf3e--YcOt6HiEE6kbBvyOs9N7Jf13Qg6ZoAf63bxOYcoM7-R8n*eGOwJOIDNwXNxQOFZPl4dQdsPTE=)
 
-[原创三星手机雪崩式溃败中国：从20%跌到0.8%](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXaTrb09ol7KhxYWknRYbvwOzFeIDur9dpUy9-UqKY1G7JVv2m-MH*VdU-AujeeZrNudTY*6j3qJtDHXqzZL00kkA=)
+[原创对话徐立：解读商汤五大业务布局2018年营收要翻3倍](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0KjKa8rvSf3e--YcOt6HiEEWTM3HR0rk8XKgyuz73jpQepRgNWE9gf2a27PFxN6Cb55ha7djqJG8TNNMBkGJBEA=)
 
-[阿里还投资这五家芯片公司最后一家苹果手表专卖店关闭](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXaTrb09ol7KhxYWknRYbvwOxKMt9OHewtqTPUB8ynS8EHpEEns3D-5j9rbh5zOfQ60xJxvy5vRsJW557WzZbBnK8=)
+[原创对话荣耀赵明：把自己逼到墙角抑制贪婪才能甩开对手](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0KjKa8rvSf3e--YcOt6HiEEdDEk46OVmoglQue5kjysWlUWToWz0IXaIsZPT0woVHF7GQtPjl9F0mBx5LR2X8II=)
 
-[中国工业逆袭法宝！11家本土工业互联网企业盘点【附下载】\|智东西内参](http://mp.weixin.qq.com/s?timestamp=1525419357&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FCrGGAYQTyKHJGHhjp3Qin1pnG*vKki*sV4OrZok22MichuBbLhXpZLukP-pyMXaa-N18RSHbqvGAkSdugStADsH1ZJgkpwx-c-3Xe0VJ*oKzOdT3*y4x6Pja9dVL8mRo2DP7712eXZKIDi671f0ck=)
+[滴滴建洪流联盟推广共享电动车港股将接纳双重股权结构公司](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0KjKa8rvSf3e--YcOt6HiEFzIh0h*eDzwCzUvcveW957fGR4Alhts0wB1AxMjhm8rLrlS8jdXrViWXBpdkS5IVA=)
+
+[原创起底FB智能音箱：五角大楼之脑前负责人操盘收6家公司](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0Eobw6uXy*80GmNZ4dARHzCf5lAqltg3aprF2t0wLV7NHlDis5z3w0STrD-5d8*Rdk3v0tPmGM4HkLhI0wgehvk=)
+
+[清华量子网络里程碑：量子接口实验成果超世界记录6倍！](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0Eobw6uXy*80GmNZ4dARHzDIEqtO6I6NJCBifnR0Luzn18yOn0sxUiYlPjTgaWiCR0mOB-14-NN2hOaOwM7Myu4=)
+
+[传亚马逊家用机器人明年上市这5大功能最值得期待！](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0Eobw6uXy*80GmNZ4dARHzBjhRZAaXl916gsdVdeE5smIxiU7fnIF8Q1Wr-mY1gKA8ZO9-pDdbJH40LCRl3f4nU=)
+
+[重庆首张5G实验网将开通Facebook两款智能音箱跳票](http://mp.weixin.qq.com/s?timestamp=1525525998&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwkhJOtkpETI2lfQJRcI-sHb820R-U-Fk7Mer9YyLfLvPKFCknOk8FYjaPhkHw6HK0Eobw6uXy*80GmNZ4dARHzDDXlh7M2b4Eee1K2xpa0Ya*ksZpwo31aA1oZeM3NGIkIsK9KdZOPfSmYhBedna2YY=)
 
 ## 新智元 
  ---
-[【全球AI芯片榜单】中国大陆企业无缘前十，华为、寒武纪、地平线扛鼎突围！](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKJz1KmpRGFJ98IYVC6MufJAMMzgCjS1pCIMQopOvut*3kAKiUZpa8KgxsIRNWGGQkI5o5FidikM9HMzpRjJ015M=)
+[【谷歌量子霸权蓝图年内实现】演示量子计算机helloworld程序](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uyyRrLsFhjqUeiSmyIvZk-mXzfTmVKLgcWOk74652MMkHEy1hNv1QyOVIgY*WDdSIQ7jU9NudKUkMxIH33jm73QA=)
 
-[百度掀起硅谷挖人潮，美国科技巨头呼吁特朗普不要对华人设卡](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKJz1KmpRGFJ98IYVC6MufJAfk-0uORnW6f2csC1GadtluVC7035IMWilJLA6WWtt8u7w*COB-KL6ebl*Oum*0K0=)
+[集成电路大基金二期“保底1500亿元”，人工智能又迎大利好](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uyyRrLsFhjqUeiSmyIvZk-mWaEF4oLhaO6DC6yx-uS-UIobgdj11o6JkiWPUS3NmcAH-50mo4*dZKW8GBhsum*is=)
 
-[实用：用深度学习方法修复医学图像数据集](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKJz1KmpRGFJ98IYVC6MufJD2MvmeP1yFNHAFMA3T7a9YI6PkL7ylI5xrvNbOoPx1wKdDw6B2ahTZ42kC9NtyLWw=)
+[机器学习基准大战：谷歌、百度、斯坦福等联手打造新基准MLPerf](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uyyRrLsFhjqUeiSmyIvZk-mVYhBX4KbyZjKqX6Yye0BGaS8R1gcRNu7dP0bEjmOQDvQCUrLGzt9I2mJvKe2qFQRM=)
 
-[【全球AI实力排行】中美英法俄德五强开展新一轮“太空竞赛”](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKJz1KmpRGFJ98IYVC6MufJAT*V08oWbGkYjJov-b5ki07HwbIoPaLG7tem3pEwoNGS8EX9aHxcp9dRNSUHI31*Y=)
+[【全球AI芯片榜单】中国大陆企业无缘前十，华为、寒武纪、地平线扛鼎突围！](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy1juGKu*VHOSYpbPtjxqgxs-msbSxjAWwTnU-pm-7p81hQSmdX956BonqZP*h6OpiH1Z4LbBB5Jkd1rSKhjfJ*0=)
 
-[史上最全华人AI大牛流动图谱：谷歌、微软与百度是人才中转站](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKJz1KmpRGFJ98IYVC6MufJDzwIMJ1G3E-XBK5ePkypi2IOEy4dYfJPOV4lo-MhnJX3tr50wvXDsXLkVE8KfdXFU=)
+[百度掀起硅谷挖人潮，美国科技巨头呼吁特朗普不要对华人设卡](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy1juGKu*VHOSYpbPtjxqgxtKYlzdBRu3exi1QrAMtBh9a-QsHkDqoNj7hRz7R1WJvxI9DqHWMalN3XXdjA0vdPo=)
 
-[寒武纪重磅发布首款AI云芯片，陈天石要让端云结合占领10亿智能终端！](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKDinApGbdzcYMoQW7L9uMc2OUHWEInOXKNcJ1pda-UjiPngGLpRps11PfJsaNEsMSxT*WJr8a51qCF0Mu6Lfqi0=)
+[实用：用深度学习方法修复医学图像数据集](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy1juGKu*VHOSYpbPtjxqgxtEbRJSLKDrjp-6yawSjQ-SRlbqfCVGfT1kZl2PkeRFJK9oYM3xQJNKqC-BHLhuhQ4=)
 
-[优必选完成8.2亿美元C轮融资，腾讯领投\|专访周剑](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKDinApGbdzcYMoQW7L9uMc3-dmeYDJvKVwKi43NA9TwOFJETsjmFUqSb3kyw6F6FG9kjvzF8IP8lW4FbjJlNOCk=)
+[【全球AI实力排行】中美英法俄德五强开展新一轮“太空竞赛”](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy1juGKu*VHOSYpbPtjxqgxujW-Kp-ft6UfVqTaSkNHbBW95SOFTnBROejHLaqMKrNQ4fNlvwbNUlpO*fevyBHIU=)
 
-[PyTorch1.0正式公开，Caffe2并入PyTorch实现AI研究和生产一条龙](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKDinApGbdzcYMoQW7L9uMc1*V8tOeogrw7NV8wLLPh*eivOQObx67MSMoraQueiLYTiZI8jYdcnu-WDTUl4K2WM=)
+[史上最全华人AI大牛流动图谱：谷歌、微软与百度是人才中转站](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy1juGKu*VHOSYpbPtjxqgxuweSRsJ9Qtx848Y2o0SMjxxcqrSoXJuBVaVzdqtHa*zBYj4wwxz3S86P-OUMBK6n4=)
 
-[AI、量子计算引爆硬科技创新，雷鸣、王海峰、施尧耘等北大120周年论道信科最前沿](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKDinApGbdzcYMoQW7L9uMc0XwvkATXlT5DOHETISMHpuALrjg20LTZQFTibbNB2QXLqi8hKFtYr5N5vvbgab5nQ=)
+[寒武纪重磅发布首款AI云芯片，陈天石要让端云结合占领10亿智能终端！](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy3KYu-P0NK7xM48jEaXhaFSm3-ijxrZ728z4hZrJrZ2hIW5wRWcexYUoa*P12TqQMQwXw2sbIH4qfZ33CFcu*F0=)
 
-[阿里全资收购先声互联前中科院声学大牛付强带队加盟](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKDinApGbdzcYMoQW7L9uMc0DUj6IfEKk9QK9Drf3eu7wmQWe*4myz7n6Xgg44WLcqoxqCqsM61-6pxb56IJyRVc=)
+[优必选完成8.2亿美元C轮融资，腾讯领投\|专访周剑](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy3KYu-P0NK7xM48jEaXhaFRCWDj822HOYXjMx-3PdBZasavI6fcq3GIGzvNJcp8qALL9iDa-lUXWWDi-IaX-q3U=)
 
-[原创【中美AI竞赛】美国仍全面碾压中国，AI技术出口美国面临更严审查](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKCipn-*6zQZveSWvUCKxV-6eD05lPQx6yRUm0lG92mPejC2MhZ3*B3LRjhY6CBboWOKFhV4tT2mhRYjvE5vcAhE=)
+[PyTorch1.0正式公开，Caffe2并入PyTorch实现AI研究和生产一条龙](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy3KYu-P0NK7xM48jEaXhaFSKTHR0EL*0evSAEXfKKQLys8zOAwCW8CU1rF4PS0KIwJGJJADLDfVj*E1AwUERJ6o=)
 
-[扎克伯格靠AI挺过危机，Facebook满血复活还需3年](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKCipn-*6zQZveSWvUCKxV-4L9W76vWHsiT8tMLhoDbGsg1uplMPPqYcm-RFX6yNVehyvggiB7WyyKY5f8qqWpM8=)
+[AI、量子计算引爆硬科技创新，雷鸣、王海峰、施尧耘等北大120周年论道信科最前沿](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy3KYu-P0NK7xM48jEaXhaFTRLuw3J7NszZrtI5LKYvX*Hi5Fadrre1UEoMBHChQh9mhVoVGBAFjQURpAZOX2EYw=)
 
-[重磅\|李世鹏博士加盟科大讯飞，担任讯飞AI研究院联席院长](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKCipn-*6zQZveSWvUCKxV-5-kQHUOjXI99B3sfFxcHtXFFlpvm05Mfk7-Vw4c*8H6JtBpr5D8sy9Ad7ffyO8P4I=)
+[阿里全资收购先声互联前中科院声学大牛付强带队加盟](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy3KYu-P0NK7xM48jEaXhaFRf0G5zqIzOrxCf0Hrg0YEqksfMVTg7jhTJd-Km2v3cYl951XpyCYqM0Nf0z3*k8g0=)
 
-[马斯克迎年度大考：特斯拉即将公布财报，十亿美元已烧光](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKCipn-*6zQZveSWvUCKxV-4V-Ik1Vlm0Enr4w3YT6x1qewmvpL3YO1tL08EyqUMwC9ckKx7lGKI3VAOKxgzr4so=)
+[原创【中美AI竞赛】美国仍全面碾压中国，AI技术出口美国面临更严审查](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uywq7iFq7C4VZJyog4M6IwqfEDQuKg9suxlqygtkUYtmZ4Ir2ACXGfslV0LdXE58T6UU2gKluEZHI8lH7h4Gln1Q=)
 
-[苹果确认自研5G技术，欲摆脱对高通英特尔依赖](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKCipn-*6zQZveSWvUCKxV-7NbuJQiayoTQL3FElZfLmCPx0gGELeD24LXC0OvEBp0d6GIMTeRa4KvP1YoOSc4vY=)
+[扎克伯格靠AI挺过危机，Facebook满血复活还需3年](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uywq7iFq7C4VZJyog4M6IwqedTZsJrhgQpM8zlmf4E-GQO1z6TkSFhNGx3M0D4p20viUakW5WJnrjK5JeAjJjUio=)
 
-[美国鹰派紧盯中国AI、半导体产业发展，国内专家：中国制造2025遭误解](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKFeF-TPaz4hDK4Cr5MvVr6b9Dn2BPNTlqGeqBZMsiqPaFqE1zxIsREM0peFBznO72EVH783EdAcJgswjckMfHo0=)
+[重磅\|李世鹏博士加盟科大讯飞，担任讯飞AI研究院联席院长](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uywq7iFq7C4VZJyog4M6IwqcAGbocExcoqkQHwJGbv8I3TP84U0MguXluznBJ*eHKMmGRGsFQfMg*fma7LLvY7GU=)
 
-[谷歌发布迄今最大注释图像数据集，190万图像目标检测挑战赛启动](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKFeF-TPaz4hDK4Cr5MvVr6bD*AUvprXcKSz5HR4W9bUhwXvDkD0MUZ8*CC34SE3On6MytjNkdiPMyep4k3EzhTM=)
+[马斯克迎年度大考：特斯拉即将公布财报，十亿美元已烧光](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uywq7iFq7C4VZJyog4M6Iwqdgg8gOcoJBm*IL-MY-MsuuVmdmQa3KUsQV5Kdek2rjmuxKotRLRl3ZODesEV*PdhM=)
 
-[特朗普欲将AI用于军事关键任务，兰德公司警告2040年前或导致核战争](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKFeF-TPaz4hDK4Cr5MvVr6amzmRwWcQZ1Nqhwyej*aGXkwPLV0TBWRV-RvM-zbKfcI-fkp4VGt3LWSkb8LZcLjk=)
+[苹果确认自研5G技术，欲摆脱对高通英特尔依赖](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uywq7iFq7C4VZJyog4M6IwqdRrt5DdeZaX0wiD2eRzG*B5n5N-EudejZIdj17IW4xSV24Le9LKzpDie34fZhReZ0=)
 
-[【一文打尽ICLR2018】9大演讲，DeepMind、谷歌最新干货抢鲜看](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKFRSTdQxqS6w*uCSaR3jkULYqoFpizNs8HviyFAh7UQcRzwvTSyGrbpoiMufARD2Jh2vDR3feMFRDGp4mFahoqc=)
+[美国鹰派紧盯中国AI、半导体产业发展，国内专家：中国制造2025遭误解](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy6HXjygs-gs8fuYa51yV5dWGDdbG1lYliAD5BzrLWAWoknhW**P-xw54np8ev0dIsgokXzqteM6hSeH9pvhpYJA=)
 
-[五角大楼在行动：拟设立“联合人工智能中心”与中国展开AI竞争](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKFRSTdQxqS6w*uCSaR3jkUJWx7FmMI-ccXYBKddhbtEvU*W79xyfFZ8iify8Prkx9ebObxrWprGa1BY6duLFVkY=)
+[谷歌发布迄今最大注释图像数据集，190万图像目标检测挑战赛启动](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy6HXjygs-gs8fuYa51yV5dWUKcfXg2imDT8twGMYEpbuJSFpUBHhTx5ov7ijJkbXtWUpA3EgNejlN7TiMOzkfi4=)
 
-[京东要挑战亚马逊？硅谷机器人研究中心负责人：只想把专业知识带回中国](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKFRSTdQxqS6w*uCSaR3jkULy50VCc-dkzev6RmwdfCBI7W*L1B0V4NBp-yMzMbOthTmX*17wvn4awa0lV9D3BIM=)
+[特朗普欲将AI用于军事关键任务，兰德公司警告2040年前或导致核战争](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy6HXjygs-gs8fuYa51yV5dVAU2GslwGPrUkdtiTMCP-DOKx2MO3**sa3**TvxHtKUxiyAPusi9X6RXob5otMcAQ=)
 
-[“百廿E心共创未来”北京大学科技创新校友高峰论坛报名啦~](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKFRSTdQxqS6w*uCSaR3jkUJLly8zfL0nz4THRA5ahVESd6AwHOgLDd8qDzgCz4C917eaw2PCIWfoIjTdoa7kyuU=)
+[【一文打尽ICLR2018】9大演讲，DeepMind、谷歌最新干货抢鲜看](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy-ldK*U1VBSZMp-zPOR9QUCgp-46uR2m3ISzyKOr7IHWlRloXWNcNb7Ula7949CUEK*9iWAPUTKPyUDDJFgjK-Q=)
 
-[马少平、周枫、王小川、楼天城、唐文斌：清华计算机系与人工智能的40年](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKFUJ0w-*tWbf0naC-lSv2rGCfZZ4yR97jVmrALkSMZO16-RUMF0qXcSQ2UWTPvTN1fldl2V4CRd6Kr6mjbHXJME=)
+[五角大楼在行动：拟设立“联合人工智能中心”与中国展开AI竞争](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy-ldK*U1VBSZMp-zPOR9QUAh*eAIbaiqfmu-e1AuVobTi13EuJLUFZXTcO-b6PO*T02R3Ce4lpZ*HPdaqImutU8=)
 
-[Nature机器学习子刊被指开历史倒车，JeffDean等数百名学者联名抵制](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKFUJ0w-*tWbf0naC-lSv2rHclh190ik8jsaOThGD7g5fmRsrwNLF0Eg0-ZYU97zdPj-CG5XQxfnjuJxNoWEuAP0=)
+[京东要挑战亚马逊？硅谷机器人研究中心负责人：只想把专业知识带回中国](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy-ldK*U1VBSZMp-zPOR9QUDLs10RuRNNRuqG59p-PSA-ckKp2ZTnWwNP6uQfkx4T9q0dobAqS6eBnypNf4rkYRU=)
 
-[微信AI围棋绝杀同门师兄“绝艺”，国产AI围棋崛起](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKFUJ0w-*tWbf0naC-lSv2rFZ3ZrMA2T-*gtnNvd94oJ7tym4xvYs5oFeLG-c*kO3AvobNi4S6rKn1*280DEOJIo=)
+[“百廿E心共创未来”北京大学科技创新校友高峰论坛报名啦~](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy-ldK*U1VBSZMp-zPOR9QUCX12xoqUhDDjDwI8YWafqWFV7eEzfaXp6y3glJMC1lP3NShCxQF1Hj1t0F8fk*3H0=)
 
-[英伟达等在华“非正式合作”或被审查，中美AI技术合作成重灾区](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKNCoMo24E-rY-zSSQd0AivB4xLMXDeax0HoHHST-mBu35wp8BqeZjoEKzLAqAHx7VerGk8PvXC4z-0HepAPPa1g=)
+[马少平、周枫、王小川、楼天城、唐文斌：清华计算机系与人工智能的40年](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy*rzDW04wu0GJyzeJU-wRU0k5bUF9Zo6a*agFMHUBEPlTjsYC7OHgi5JotCdRA97sG7dlB8bKZgZO8Z8hmLHYiM=)
 
-[【经济学人报告】中国尚未做好迎接AI自动化变革准备，多项指标落后](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKNCoMo24E-rY-zSSQd0AivD7*OsYTk6HUrY56GYWOfeOUP0qdOofprl4-wznM*yC5FOkUOr0FLt*gqaf2Gh-2JA=)
+[Nature机器学习子刊被指开历史倒车，JeffDean等数百名学者联名抵制](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy*rzDW04wu0GJyzeJU-wRU3ELnE8ptUTbtc5wBU8hTlKjmzva2gOr*n8IMXLF1Lp99VIyaSIxu0mV*hkgABZPl4=)
 
-[AI医疗开创性研究：深度学习进行病变检索和匹配（31PPT）](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKNCoMo24E-rY-zSSQd0AivCgG6LagLVuckA4b97Gh1WSbA8RC6iymZGlnYBIADv-RaMGvHzHfg*eWmlkJ3-A51k=)
+[微信AI围棋绝杀同门师兄“绝艺”，国产AI围棋崛起](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy*rzDW04wu0GJyzeJU-wRU3kKkY1AIbEVoC*I36DtTrg2KCeua2iztFU0vTkb94ev655PTZSkdQUyXFDeLNYdyI=)
 
-[阿里妈妈首次公开新一代智能广告检索模型，重新定义传统搜索框架](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKNCoMo24E-rY-zSSQd0AivBtfmU1P8hkXEgO24QZ5fIhzHvfuh2vLzGGmv23AztJeDoJ8WnFJALTl5moRsx8M-8=)
+[英伟达等在华“非正式合作”或被审查，中美AI技术合作成重灾区](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy2GbnX4vsom7yzCZjfBOLZ1qr3VXJbz8LvID0h7mf3GofIm6xN-wdpkCdIhssLDRQT8kZcivOUkAZPjNXDFo5DQ=)
 
-[Nature：科学家首次实现肉眼可见的量子纠缠](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKNCoMo24E-rY-zSSQd0AivCugcYjSOGi8cs2-FcfwCsrEZEmx1Lmm7L61jzSSJL9*MCkQx1vn3InApWnCb22IK8=)
+[【经济学人报告】中国尚未做好迎接AI自动化变革准备，多项指标落后](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy2GbnX4vsom7yzCZjfBOLZ1EHNj-QQB7BfD5zq5xupv-fYoQvykAE*4z9hr9T*RMoPyG66hfIS3baSh5bPFsgzw=)
 
-[【BAT全球扩张AI路线图】百度早于谷歌，腾讯投资最多](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKNCb7haRTnjsJPUHenJqDABs4LnVeb*UcI89VTcsadhtooXaJ6L-6p1BOCg1D4iVKiLlLek-URjZ3ZYhk81ytGg=)
+[AI医疗开创性研究：深度学习进行病变检索和匹配（31PPT）](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy2GbnX4vsom7yzCZjfBOLZ090jE5BF*TbHPU3ziVNzeXRhDT7rPp-GDwIU-KaRzWK4xzJ9ZeysJuSENzBi-M3ds=)
 
-[原创芯片大神离职特斯拉，马斯克造芯梦碎可能会抱黄仁勋大腿](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKNCb7haRTnjsJPUHenJqDAB2AahjZ41JBCnKjPa-VcIG2gxs3lIptJeqGhiFnefrFN19FAE2yDt35pW5zBQ05LI=)
+[阿里妈妈首次公开新一代智能广告检索模型，重新定义传统搜索框架](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy2GbnX4vsom7yzCZjfBOLZ3wWO*4GCzaoOO5HRK68mupusU4SumN7cZD-HpKgBYf8nxIP4tfiV0YrXQu7o7npjM=)
 
-[2022争服务器全球第一，浪潮发布全新AI品牌TensorServer](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKNCb7haRTnjsJPUHenJqDABsCR-8o*2vj1T1EDPfCYwkIjXtwANhq1Yjscj-XiQ4mEwC0dhsuHp8hfI2uIT4Vfk=)
+[Nature：科学家首次实现肉眼可见的量子纠缠](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy2GbnX4vsom7yzCZjfBOLZ33rcAalPjJSKXK*zfYO8oPXFrUgbo-3VnMRbJY4N2OItZuAmGB2g6INeHl4T9ZJq0=)
 
-[【中国芯奋起】地平线征程2.0芯片即将问世，自动驾驶计算平台Matrix1.0现场体验](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKNCb7haRTnjsJPUHenJqDAAp7aQpkXxixYr3lHQKL2fnNPrJpO6uZIMD91zJaOdBShtbkCe38y-S-EIMnE6BGCg=)
+[【BAT全球扩张AI路线图】百度早于谷歌，腾讯投资最多](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy6xdjPeA18uDZKKutoFtNqdvWcf4f4KR27B7uQm*Lrm1UAlLfsfNbTXTbF1XCI5907iA3q0eS7QR0Q3kqHxiHGg=)
 
-[谷歌宣布SwiftforTensorFlow今日开源（附安装包）](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKNCb7haRTnjsJPUHenJqDABlUDyxYQ4ePpjwSPy7z2rY2dklDbJ370x8ClITvEzNWzH8-nYZQ9UtIFZInvCQ7jQ=)
+[原创芯片大神离职特斯拉，马斯克造芯梦碎可能会抱黄仁勋大腿](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy6xdjPeA18uDZKKutoFtNqcfdT4T1qykO-X47WUA5dK0LZVePOU2Aln0q7TEz15Oq*PtDUDlpemKd-9LbZrfA6o=)
 
-[苹果被特朗普盯上、芯片制造商集体看衰，利空齐袭迎至暗时刻](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKFeXQ02YXWH3hcZbzk0yzYv9oj2-0zo1MoEXB-yfPIPqHYfaFUsMrUJf7T3nChAFff7rqgaGY6-*o3iSeOBYAOQ=)
+[2022争服务器全球第一，浪潮发布全新AI品牌TensorServer](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy6xdjPeA18uDZKKutoFtNqdExAwtkv0TJr6*zEpfeo*XPNZsjAiyy3G2FAX8T6xyqvGfepcynHsvtNxeM1ZCvsY=)
 
-[原创LeCun最新演讲：深度学习大革命来了，可微分编程潜力巨大](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKFeXQ02YXWH3hcZbzk0yzYt*ZnSROQPMqi7aH8Xq4ClMl9NS6EA6G7KzDUWggUdZUoY2rI3jQ5EOf7j3CARkZUA=)
+[【中国芯奋起】地平线征程2.0芯片即将问世，自动驾驶计算平台Matrix1.0现场体验](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy6xdjPeA18uDZKKutoFtNqfstoxjzWSOAoO0lRWW3FGL5fBjMIEVQjqhD50Ve9BQXx9dihWAbWOB4buvUFGa-EY=)
 
-[【中国AI合伙人】助理来也胡一川、罗超专访（视频）](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKFeXQ02YXWH3hcZbzk0yzYs8pWRWQafs2NeBA7VHxgDDpr0BRKOvt8c12GFAU2qKMLWLs4U4Nuj1NysoDKET86k=)
+[谷歌宣布SwiftforTensorFlow今日开源（附安装包）](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy6xdjPeA18uDZKKutoFtNqeV9XjK0GCXazCddEQl*B9kCBhaysNxyEhPXSyNiOR5PCTlOHIm7TOiUd-YyPuAhrg=)
 
-[【芯片救德国】博世10亿欧元建世界最先进芯片工厂，2021年正式投产](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKFeXQ02YXWH3hcZbzk0yzYucLc-*772nX*qcCw2o7Q1qJAa8XWdMlOJWtqyKxk65x6tNPw16ZfZGIwDzoUYJamg=)
+[苹果被特朗普盯上、芯片制造商集体看衰，利空齐袭迎至暗时刻](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy2qgl40Uzbpe4QXlx7YVKJXvWbi6Yqe-HuIKDSrLUcETAwEQuxum1xTCYSnsq4rx54T94uMf3HcvGSI2ql-9BuU=)
 
-[马斯克：我要造一条机械龙！](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKFeXQ02YXWH3hcZbzk0yzYv62UvAXf2F43-RHRmAP2kigC3dtN8q6iOZZ7lhm-Z4M-UllOCr8lsl*-1CCemCDJ0=)
+[原创LeCun最新演讲：深度学习大革命来了，可微分编程潜力巨大](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy2qgl40Uzbpe4QXlx7YVKJW1ihveBVTFc4xs3kXznSgcBDv09T-Lz7KrHmH7DXAqG7p13YQg754aVHM2w3F*Pc4=)
 
-[年度最大更新！PyTorch0.4：完全改变API，官方支持Windows](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKM8*1fwKLug6u0YU2FsCP0RVKTWXD4xn3cqDe4pMrtSpW8FlsXVe0g4Acqaq-8BoxP*T-e-Lud2CVqpCTSuIq3g=)
+[【中国AI合伙人】助理来也胡一川、罗超专访（视频）](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy2qgl40Uzbpe4QXlx7YVKJUgGK0Z0U2O7adt5nbVG8yHRXQXry29uYQQVXd2xYiPj4lrUlrud-at*Ryjy*-8VNQ=)
 
-[震撼！英伟达用深度学习做图像修复，毫无ps痕迹](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKM8*1fwKLug6u0YU2FsCP0Sj-NNkabriz0b2vlcpPgi-IjbHlkWVFInEJnyl7-WOYEOfOvGO7mFaHYRzA9RpVnI=)
+[【芯片救德国】博世10亿欧元建世界最先进芯片工厂，2021年正式投产](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy2qgl40Uzbpe4QXlx7YVKJXsLzuFhhpbc-jS-6SELPq0YIu-NFAt9blYffxRAedSJfLZYDGl4mT08wTeJrSC1NI=)
 
-[中国芯破局最关键：上游EDA商业模式创业才能打破国外垄断](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKM8*1fwKLug6u0YU2FsCP0QHw5JfKmbCxyPliwVcxhFhA72ANJdvhEFRuM3lz*wivYJqeEjp89IdqSaW2QG*h4E=)
-
-[《西部世界》与《头号玩家》：哪个才是人类与人工智能相处的正确方式？](http://mp.weixin.qq.com/s?timestamp=1525419361&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*FVukXkckJz*8kzUy6c2Ygbdpze63Q*Rn6StN2ixDRzfwS5WJ-BQcliQrXNGodmtKM8*1fwKLug6u0YU2FsCP0TT2vncAKJbfWm6L3U3AgPDRhg3Jgu7*YN0Q8XfkkWD7QCv4pWAS-Fp-LwE1p-YIpQ=)
-
-## ai研习社 
- ---
-[原创能不能进苹果做AI，就看这20道面试题了](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68ENqOdRmnnmMwVLFTcJG6ZYgLPRToJwIIJopF8J5CtiuNNgjpTIKA2PnUE09NlP2onohBMxFzWN5aND*-nTMlKo=)
-
-[原创MIT6.S094授权中译版\|第四讲计算机视觉](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68ENqOdRmnnmMwVLFTcJG6ZYmPerEvu67YgJrAtLmTpxQxWwkXjosnjzn6Wwgyb4Li*pDXrivo3R4951f4ACB3*E=)
-
-[融合Caffe2、ONNX的新版PyTorch发布在即，能否赶超TensorFlow？](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68ENqOdRmnnmMwVLFTcJG6ZaWyjn*1GRdDjOf1G1lhqvHHdlTL9m38KUys22yqmySGUrIzEHACG81GsdMcBye9iM=)
-
-[原创AIChat\|零基础写出自动驾驶模拟器，我花了不到一个月时间](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68ENqOdRmnnmMwVLFTcJG6ZYQvshDUM9spfv451p3OioPq0OoH4U*WvgOCU4kAJ3pAn833WmTQmPe2XrZvVvsszg=)
-
-[原创呵，我复现一篇深度强化学习论文容易吗](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68ElgPu5CkyD9XfornpiFh7PNeRYrUmeQWSEOjEAO1lxCwmS*3xNnDQnnUE8BQfRqBcZCeeMZ1xu7XokhVkCmglg=)
-
-[一文看懂常用特征工程方法](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68ElgPu5CkyD9XfornpiFh7NQ-MzEF6b-l7HDOzQJsAWezR-RWPqRaG1knEIKPv3L4YWzsMYqAju1unfSHCspjNs=)
-
-[Github项目推荐\|基于ID3算法的ML决策树的实现](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68ElgPu5CkyD9XfornpiFh7Pier8wrKX6uDNgjqCSlQPtpYQw*T4K7jqsLZxB07-TweBs7lPDYwHItygtBmQ8SPM=)
-
-[原创Kaggle新赛来袭，25000美金等你来战](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68ElgPu5CkyD9XfornpiFh7M7WPGiE64hZoPawHVFLINS3VVXUioLhoILhsZnbwriqP7Onzxg94Zplz*EMRg6Mro=)
-
-[原创神经网络图灵机：深度学习中与内存进行交互的基本方法](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68Fyx-uMLTQTYYsMHA5EgEkR31aL0koUvdHfnksByE5MQVj4vphjgGYUUXZ9-5G4CdHfNAwrJpGh8Wor4W54qCtU=)
-
-[「元学习」解析：学习如何梯度下降与学习新的算法](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68Fyx-uMLTQTYYsMHA5EgEkQE47iZnUyA1Abn5PDmOmsnplJv*PLjlg78dVu9J08vS2saM47BH1v35J*1VBN31tM=)
-
-[谷歌发布最大图像标注数据集，190万张图片开启公开图像挑战赛](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68Fyx-uMLTQTYYsMHA5EgEkTK0WG6Q1-ol6OeRGOo*5B1DviNN-Un24Xq*KL6VMykw1hOEOCwHZoklTPBCdxNrv4=)
-
-[原创一个应用于物体识别的迁移学习工具链](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68A5c5f9T2EWhZJIR4GjiElUNGdwIBtEkGaCQeHUjTV9teqerZkz6-BN8PlWhgxCqwtcG-zV33lKakmbVNZeho9g=)
-
-[Github代码实践：Pytorch实现的语义分割器](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68A5c5f9T2EWhZJIR4GjiElWor14xdKQiAzTjPnKqzBiJP0ORrd1hKGvIf0Waf4OD92wSvP5JTA-uvqUicaOLSgg=)
-
-[视频\|谷歌新论文发现对抗样本也会骗人](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68A5c5f9T2EWhZJIR4GjiElVL7TPk4Lp0sPec3dJWKk2wFPSYaUBwUOlvyL7qOvn2wHeewbPGI-vEl58sHgTokkE=)
-
-[原创最值得收藏的机器学习入门方法，今天统统分享给你](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68DpInAP3s3rwXk3mfLkCVRMwlgG1j-ZwVwUsICBMcDAP-E45c7i58a*PpaOthFDi1f0nT7T3sHyXIgYLvfCcHU8=)
-
-[Github项目推荐\|不容错过的迁移学习领域自适应资源](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68DpInAP3s3rwXk3mfLkCVRMtLpsiWY51YHk388wqE3iUY-K*R5cKM6zK-UMnNUrsTljbKIlNrv7ZO7iUnzQtTvw=)
-
-[NLP解决方案是如何被深度学习改写的？](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68DpInAP3s3rwXk3mfLkCVRO79kXYNoCahtjXPBTaD6xPfFKn-NRwfY5RNFqVKf5bNJcc41lsmGjE76RF6G-qwsI=)
-
-[百度PaddlePaddleAI大赛冠军林天威专访：如何准确识别综艺视频中的「精彩片段」？](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68HEa0uBlfBJICi7bTkrLxMcLmP6QFtFz7WZQoPE5ZblE25YjK2G7Wst3bybK37No*VmoJqRyW4wirysW3qjVEA8=)
-
-[Github项目推荐\|英特尔的深度学习扩展包——iDeep](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68HEa0uBlfBJICi7bTkrLxMckzVhCozqzOObzWB*HK3nXbaDFBDbMgTMis13ul8D-Uclj0XZEStI1gK2-XjjG*bQ=)
-
-[招募\|深圳宜远智能科技招聘大量AI专家，共同探索医疗人工智能技术](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68HEa0uBlfBJICi7bTkrLxMfV*KF546cgcRdTyD0j-iJ40qHmPmYN56MOSUR5dtFqF7jcCujOw2OR0piTZIwAGx8=)
-
-[原创云从周翔：三年打磨，云从如何成为计算机视觉国家队](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68D87Hx*87wK-TLHs5B7rodeRfHbv*ZrEJ6BgyzZiWQK*oqqUhIlg9FecH0EZ6GPOX-3V-vh7XJbd1q6q1nbztUU=)
-
-[SwiftforTensorFlow已在GitHub上开源，Tensor成为Swift语言里面的一等公民](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68D87Hx*87wK-TLHs5B7rodfwod063cLE3GvwsW9bELWxHl241E8yTn29Np0*zQ*WU3Kd6p3lT6nA5Ix1o*-*U-M=)
-
-[原创基于中文知识图谱和机器翻译技术，搜狗搜索正式上线海外权威健康信息](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68D87Hx*87wK-TLHs5B7rodcKlBDQ01BWnN5NvujONl-493mufxchfWYQAqsEJvg9XKgi54e8JKrLsLlTtjA-e28=)
-
-[原创独家\|阿里搜索事业部产品负责人深入解析：技术如何驱动商业腾飞？](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68HFuVWhSaP4y8Vf0DrHSMmSFNLmTQkqu*6llna02qn*5cXniIYnRJcmhqnO-jYnhKamx33If5J7w4**Le*Uf90E=)
-
-[原创MIT6.S094授权中译版\|第三讲深度强化学习](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68HFuVWhSaP4y8Vf0DrHSMmTVz2g3XF1SixCIIB-KoeMERn3WnZzYVDHGnpVgOTM8UXy27n2i-SzvLMorQVZgL98=)
-
-[吴恩达开了微信公众号，更新中文课程和资源](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68HFuVWhSaP4y8Vf0DrHSMmTUFfffCIstCG-pAEJVLx2*p2eJBbeduFQENDu-4nFTJ1gBAjvLySFdOTN3muqyhcY=)
-
-[基于深度学习的目标检测算法综述](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68PDYnAupm2Id6nxmoERK-yQWS7Ut8oZkANzhYaJs9ezmik9KZWXxMU2nS0rmv*IYzR7pnuVeScoVG*ckgRKFf78=)
-
-[PyTorch重大更新，0.4.0版本支持Windows系统](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68PDYnAupm2Id6nxmoERK-yS0MSdXAPJrzVTKCQosXNjbHQoGVHYeQ9bzAAfj*DUk0AvkiHRl4uKMyCnbsldp8gE=)
-
-[零基础搞懂强化学习？这份视频攻略不算迟](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68PDYnAupm2Id6nxmoERK-yQFGySUOW6d0LBgPCBgsjBzcGCa73L7iXVoSxDG0n6urKRdqe0N84AZTuM3Bkm37CU=)
-
-[原创从数据竞赛到专业第三方数据平台，科赛是如何高效提升「数据工作者」价值的？](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68PMlSE1um0Vxg6rcQdfmgPma14eLZTu5hMIAoXbuMkrgd5ErgUnzPCTtr6jV3rSA-cz-rbEM9v2s2sfQZPBwvys=)
-
-[深度学习中的正则化技术概述（附Python+keras实现代码）](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68PMlSE1um0Vxg6rcQdfmgPk-ydS4497jJwptFB1JBwR65vIRZ3Nzj7ThvmJiNvNUhgnVioPvSfBMRlWlDznFoNA=)
-
-[Github项目推荐\|Twitter开源数据分析工具——tinfoleak](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68PMlSE1um0Vxg6rcQdfmgPk9YyNTCR3KViJOSGyz7*9PAEehuni1qc9jN9Xj4R3IgRrD*i63fu7E1qsDIwLFYDc=)
-
-[关于模型可解释性的深入思考：从哪里来，到哪里去？](http://mp.weixin.qq.com/s?timestamp=1525419383&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CbtBb7rPquG8de3sUg46nw5oU28utdPHu4jtyAaUrdghZmr1H9v9XvTVSywGBF68PMlSE1um0Vxg6rcQdfmgPnRIMgKc6UW1dGEqQmqGqfpIOf-ZHl3bNAFDvjrHmRESQ0Jg3JX0aM7yftxbY9pCv4=)
+[马斯克：我要造一条机械龙！](http://mp.weixin.qq.com/s?timestamp=1525526003&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwm4RSqbhh6HczrPIdc6rgF9o4k8jUoC5LtnIEuOw1KE0oEcb1x4G6dZzvSqbJv6uy2qgl40Uzbpe4QXlx7YVKJVzAbcg7OQlEYndcoaMSI-77b0qNvyM12nAWkQrvdp9j9xZC-arZxQnuIuKiUgYQBk=)
 
 ## 优达学城udacity 
  ---
-[原创活见久，皮卡丘居然是一门编程语言？！](http://mp.weixin.qq.com/s?timestamp=1525419387&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LUWFCARPKw4a47CWA-88qGjIjl2LEy*1eSButSCNxFPAHRIoVtN035HAwVb9TTkPTJU8pYAx0AbIrT-Hz7vZWQICNfmcqaNZEVAK5jf8swJZIb0Tl811Iqs3Fe9NqQE9McjaU-N07RxSb6GaXfsa2c=)
+[复联3电影票遭疯抢，别急，优达菌邀你免费看！](http://mp.weixin.qq.com/s?timestamp=1525526009&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwofLGXnBYARnlCScejdaErxEFd5elB3ZUp2mX*fklHuT1OSH1QYjfPLlGbCerLIMmdcVjjnP671yYJsqWMUnAEovfdI0UAaBaNgevcyqR0SPHjg6PKU3meQ5alPEcmEzLHDEYrIwfGzoib5dgXBnhQU=)
 
-[分析了2.2万条抖音数据，我发现了你的秘密……](http://mp.weixin.qq.com/s?timestamp=1525419387&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LUWFCARPKw4a47CWA-88qGjIjl2LEy*1eSButSCNxFPAHRIoVtN035HAwVb9TTkPTJU8pYAx0AbIrT-Hz7vZWRUHoN6EI96Nkhw9375C9EqakjLGWUxJPjy1f7HKaJrlTGhAaP3Cxd-5Zj1ZnYy9ws=)
+[原创活见久，皮卡丘居然是一门编程语言？！](http://mp.weixin.qq.com/s?timestamp=1525526009&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwofLGXnBYARnlCScejdaErxEFd5elB3ZUp2mX*fklHuT1OSH1QYjfPLlGbCerLIMmTi2fNwwpUla1gA1bwjL6GuNfsmJ1pFMkgD9cMd*afbCeXxpXnE*9LbjNmIfJNrVrN4H--QgphvL2OxMUn6gq8E=)
 
-[原创想到GoogleAI工作？会这套面试题再说（附解题思路）](http://mp.weixin.qq.com/s?timestamp=1525419387&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LUWFCARPKw4a47CWA-88qGjIjl2LEy*1eSButSCNxFPAHRIoVtN035HAwVb9TTkPSjrkjClzXykQymW7ffOKs2GZ0JX7hIsi-ESumwjq-aY8ynoxqhheOSSMIh4jt1nWN5cbBicZVehk5nQHiB697Q=)
+[分析了2.2万条抖音数据，我发现了你的秘密……](http://mp.weixin.qq.com/s?timestamp=1525526009&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwofLGXnBYARnlCScejdaErxEFd5elB3ZUp2mX*fklHuT1OSH1QYjfPLlGbCerLIMmTi2fNwwpUla1gA1bwjL6Gtb3dRott3y1OuXjYHobKJfA2nMPs6RHjuxViiOe6SkMjrJvmBfOZjGyiIWJu31eGw=)
 
-[人人都能学会的“高效搜索”法则，还等什么，赶紧收藏！](http://mp.weixin.qq.com/s?timestamp=1525419387&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LUWFCARPKw4a47CWA-88qGjIjl2LEy*1eSButSCNxFPAHRIoVtN035HAwVb9TTkPSjrkjClzXykQymW7ffOKs3y8-wGZuG2NxJ**5qo6qEv6fSW7uhWtV0qvQr0yztqtOvCfzCoXIhcubEYfq3eDac=)
+[原创想到GoogleAI工作？会这套面试题再说（附解题思路）](http://mp.weixin.qq.com/s?timestamp=1525526009&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwofLGXnBYARnlCScejdaErxEFd5elB3ZUp2mX*fklHuT1OSH1QYjfPLlGbCerLIMmUr6w3kceMhDS2M8*gnkS2cevUVzt3*oqu6fm5rFBe6xDoMSPalZdk23Y-Sq2LIuXJtcwsQqeeo0tOf-WBJlK4o=)
 
-[想涉及AI领域？来看看2017年人工智能创业数据报告](http://mp.weixin.qq.com/s?timestamp=1525419387&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LUWFCARPKw4a47CWA-88qGjIjl2LEy*1eSButSCNxFPAHRIoVtN035HAwVb9TTkPRVFVEv0zYlXxVhzwo8U4mtJbUg3Ir7emmWy2d*3tYxmGODqrbUb45uUWtIEkutxG6WGf*M215CVEhwdNn-k0kw=)
+[人人都能学会的“高效搜索”法则，还等什么，赶紧收藏！](http://mp.weixin.qq.com/s?timestamp=1525526009&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwofLGXnBYARnlCScejdaErxEFd5elB3ZUp2mX*fklHuT1OSH1QYjfPLlGbCerLIMmUr6w3kceMhDS2M8*gnkS2eUQBXi4ZXnmqayKAEVtSY4mKuGUGanCCRpNsSIYBpJzqEoCrRmH7pqsQawKiPQcYo=)
 
-[干货\|提高程序员工作效率的必备工具](http://mp.weixin.qq.com/s?timestamp=1525419387&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LUWFCARPKw4a47CWA-88qGjIjl2LEy*1eSButSCNxFPAHRIoVtN035HAwVb9TTkPRVFVEv0zYlXxVhzwo8U4mtMyrKKyeScz3A2OWBw9VuI3ARsDEVf0ej-ZfnkCMYkfIZR1xLYqdlHtU-X7RaW*6s=)
+[想涉及AI领域？来看看2017年人工智能创业数据报告](http://mp.weixin.qq.com/s?timestamp=1525526009&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwofLGXnBYARnlCScejdaErxEFd5elB3ZUp2mX*fklHuT1OSH1QYjfPLlGbCerLIMmaD0npvQ28XzXgC3PTpNrGYMFnEtdjsE1Q0Fsxzgvmmqrg*J2vv83Cj29qN63Y3UMv4m0S-wnFZQqXykJDzBfZc=)
 
-[这些数据可视化图片，可能会颠覆你的认知！](http://mp.weixin.qq.com/s?timestamp=1525419387&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LUWFCARPKw4a47CWA-88qGjIjl2LEy*1eSButSCNxFPAHRIoVtN035HAwVb9TTkPRKWq7IoIieUZh9vP2KN19yACMPbSI-iTjLaeVB2iq3re52-m-5F3G3xpTz8UB7je1XJEuRdHumPEIZF9oMFbhs=)
+[干货\|提高程序员工作效率的必备工具](http://mp.weixin.qq.com/s?timestamp=1525526009&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwofLGXnBYARnlCScejdaErxEFd5elB3ZUp2mX*fklHuT1OSH1QYjfPLlGbCerLIMmaD0npvQ28XzXgC3PTpNrGZRve6YBO2oNpjjzSjc-ziLGebz*lw5IAav3kc73TNSJzO-m9SH9OF74vvrJehk4gg=)
 
-[史上最受欢迎的10大TED演讲，收着慢慢看~](http://mp.weixin.qq.com/s?timestamp=1525419387&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LUWFCARPKw4a47CWA-88qGjIjl2LEy*1eSButSCNxFPAHRIoVtN035HAwVb9TTkPRKWq7IoIieUZh9vP2KN19xIXIbDGmY*XNvIvXgP0Iibqdc0uCuV9FSV5kGDsf1VipR9TaqjoI5ixiBo5pVZtyI=)
+[这些数据可视化图片，可能会颠覆你的认知！](http://mp.weixin.qq.com/s?timestamp=1525526009&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwofLGXnBYARnlCScejdaErxEFd5elB3ZUp2mX*fklHuT1OSH1QYjfPLlGbCerLIMme*m7Heb3hDWTfDqkPsaEYFK-vLs0Qwy15N1IN7UenB3YGwr-KJvbraY7iuT3NOTjnzMfV1YMdAQzaHRwmyNK0M=)
 
-[最适合开发者的10个Chrome扩展工具，还不收藏~](http://mp.weixin.qq.com/s?timestamp=1525419387&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LUWFCARPKw4a47CWA-88qGjIjl2LEy*1eSButSCNxFPAHRIoVtN035HAwVb9TTkPSVKBcjkX-8IPLgsBYBEw87-nMf-Xalk3ckpvhWk9ixqHV30sZeW9ZAjH27Y0-AzVlg1sJD*spmHPH6GnhbjtwI=)
+[史上最受欢迎的10大TED演讲，收着慢慢看~](http://mp.weixin.qq.com/s?timestamp=1525526009&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwofLGXnBYARnlCScejdaErxEFd5elB3ZUp2mX*fklHuT1OSH1QYjfPLlGbCerLIMme*m7Heb3hDWTfDqkPsaEYEgbBpuvecO-UE1O9MBRzGeGn68-KYOy-MfeKCLff3Pq2GfMibHbKpnU7O*m-RsQZQ=)
 
-[行动指南\|坚持做这几件事，人生真的不一样了](http://mp.weixin.qq.com/s?timestamp=1525419387&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LUWFCARPKw4a47CWA-88qGjIjl2LEy*1eSButSCNxFPAHRIoVtN035HAwVb9TTkPSVKBcjkX-8IPLgsBYBEw867g2MdJvQwaWhw9hgg8D4*03JNSh**4SSy5IaXIn39YHHKyJZjMQPpZnhm2Ag44UY=)
+[最适合开发者的10个Chrome扩展工具，还不收藏~](http://mp.weixin.qq.com/s?timestamp=1525526009&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwofLGXnBYARnlCScejdaErxEFd5elB3ZUp2mX*fklHuT1OSH1QYjfPLlGbCerLIMmVgSD1g3DSKnph-MK0KsJ3scpj2XBhRf8KbF5An9dX0itI5TuAZPgBNqPXNVFr9eq8Q5DGDjPHuUFRiYwxyss6E=)
 
-[这11个免费学习的网站，个个堪称神器，不收后悔！](http://mp.weixin.qq.com/s?timestamp=1525419387&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LUWFCARPKw4a47CWA-88qGjIjl2LEy*1eSButSCNxFPAHRIoVtN035HAwVb9TTkPSnGB5KkMiDrFiKmpjx-ksmafo5Wnieb3KS4qB8MZkUg9137SsNn4sP53wgGKNz58sLypsmZZOuNsDZ17JgXrBc=)
+[行动指南\|坚持做这几件事，人生真的不一样了](http://mp.weixin.qq.com/s?timestamp=1525526009&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwofLGXnBYARnlCScejdaErxEFd5elB3ZUp2mX*fklHuT1OSH1QYjfPLlGbCerLIMmVgSD1g3DSKnph-MK0KsJ3tVRm-o4PHe9Do0nA7HD47vZx-5a8JTltpXENQaOmwh3LltHj25-m*Y7jLxDKoU2Vw=)
 
-[前端、后端、全栈都是干啥的？哪个钱多？](http://mp.weixin.qq.com/s?timestamp=1525419387&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LUWFCARPKw4a47CWA-88qGjIjl2LEy*1eSButSCNxFPAHRIoVtN035HAwVb9TTkPSnGB5KkMiDrFiKmpjx-ksmpH8VtR99zw7-t6kxtKUFErZtCqCaotZTroAmTRnVi1jJH9j9aFKK0-bCj2E5XKvY=)
+[这11个免费学习的网站，个个堪称神器，不收后悔！](http://mp.weixin.qq.com/s?timestamp=1525526009&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwofLGXnBYARnlCScejdaErxEFd5elB3ZUp2mX*fklHuT1OSH1QYjfPLlGbCerLIMmZWBfjBo61ek4cRI1MzXcHCjCbvv1cJTRNeForj1KrHg6FElzcA*-djkwLWhWvO*8fHqx-iYcrFtyrEMLKQO1lA=)
 
-[原创超实用的深度学习自学资料包，还不赶紧收下！？](http://mp.weixin.qq.com/s?timestamp=1525419387&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LUWFCARPKw4a47CWA-88qGjIjl2LEy*1eSButSCNxFPAHRIoVtN035HAwVb9TTkPc1C61U7kmwfzJlyTrEHBzTUhFTPcqq0-V4U8P65ob4Tz7dHAiwk4DV*R2FscOz0zcvz6KOcwCGPt3ExFC2-GHQ=)
+[前端、后端、全栈都是干啥的？哪个钱多？](http://mp.weixin.qq.com/s?timestamp=1525526009&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwofLGXnBYARnlCScejdaErxEFd5elB3ZUp2mX*fklHuT1OSH1QYjfPLlGbCerLIMmZWBfjBo61ek4cRI1MzXcHDvpR3hegwOMBEfV3Zp3UVSFUra1kn6OF6R3L3lQwlVXXVymf5CYH3jvlJMgnBWdgg=)
 
-[四月送书活动开奖啦，快戳进来看看](http://mp.weixin.qq.com/s?timestamp=1525419387&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LUWFCARPKw4a47CWA-88qGjIjl2LEy*1eSButSCNxFPAHRIoVtN035HAwVb9TTkPc1C61U7kmwfzJlyTrEHBzS3w4yEbz65DO*3LqEa8ar4B2XijNPJSpC6kq93vRJVrBcz14TeGNUqp4fbhOC65SQ=)
+[原创超实用的深度学习自学资料包，还不赶紧收下！？](http://mp.weixin.qq.com/s?timestamp=1525526009&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwofLGXnBYARnlCScejdaErxEFd5elB3ZUp2mX*fklHuT1OSH1QYjfPLlGbCerLIMme-YexoLmWrqjckFk3YFEu5LHYJnme0QNzzOkV7q*dl62fhJcM4fewjTrGzydq0uJIQVEkK7Al0a2G1zOW85gxQ=)
 
-[最适合练手30个的机器学习开源项目，赶紧收藏！](http://mp.weixin.qq.com/s?timestamp=1525419387&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LUWFCARPKw4a47CWA-88qGjIjl2LEy*1eSButSCNxFPAHRIoVtN035HAwVb9TTkPaKGU0oxoS-gEobQgkcKZBKy49m60P8SYpxs6ZksmIU4Ae*7OJJv1KfdyO7nTmGpAxLY0OsxGlkXD8DPkk7c3Os=)
+[四月送书活动开奖啦，快戳进来看看](http://mp.weixin.qq.com/s?timestamp=1525526009&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwofLGXnBYARnlCScejdaErxEFd5elB3ZUp2mX*fklHuT1OSH1QYjfPLlGbCerLIMme-YexoLmWrqjckFk3YFEu5Elc3w2rjWvMrDfxw8xAthYg8dD*JhvRUyOYjGIP9GFSG8pGiAIkfcGrJccHvopfM=)
 
-[自动驾驶风口已成，你还站在原地焦虑围观？](http://mp.weixin.qq.com/s?timestamp=1525419387&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LUWFCARPKw4a47CWA-88qGjIjl2LEy*1eSButSCNxFPAHRIoVtN035HAwVb9TTkPaKGU0oxoS-gEobQgkcKZBIfQzOf6k3e0-aLshhi-o7SsxVJ*pW6Neuv0zqhne3NkgDEKNvhAxYjca2y9NHIMQo=)
+[最适合练手30个的机器学习开源项目，赶紧收藏！](http://mp.weixin.qq.com/s?timestamp=1525526009&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwofLGXnBYARnlCScejdaErxEFd5elB3ZUp2mX*fklHuT1OSH1QYjfPLlGbCerLIMmSwtdMGvWCcpm*GisEWf2LdPSqBz9XNxJK6ZSdUZm1nqQRlkSieNtRch*57OE7Eg1aRDGm3kggw19FGcJRg*Wic=)
 
-[知乎数据分析大佬：入门机器学习该怎样少走弯路](http://mp.weixin.qq.com/s?timestamp=1525419387&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LUWFCARPKw4a47CWA-88qGjIjl2LEy*1eSButSCNxFPAHRIoVtN035HAwVb9TTkPYltkekOlEIETPprOMUEfi7rskBEWUKyCkaSDSdh4WM6jPACEKi1rHPVOZEa5QXsqVnty8J22KolcI8qusLyloE=)
+[自动驾驶风口已成，你还站在原地焦虑围观？](http://mp.weixin.qq.com/s?timestamp=1525526009&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwofLGXnBYARnlCScejdaErxEFd5elB3ZUp2mX*fklHuT1OSH1QYjfPLlGbCerLIMmSwtdMGvWCcpm*GisEWf2LdpWSi*60bLNap70xfCd5-PjSTubFH7jdv-wqtm5*T*6AFv3yk81TKomQgSRmmcUno=)
 
-[首轮面试被拒之后，这个举动让他获得了这份工作](http://mp.weixin.qq.com/s?timestamp=1525419387&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LUWFCARPKw4a47CWA-88qGjIjl2LEy*1eSButSCNxFPAHRIoVtN035HAwVb9TTkPYltkekOlEIETPprOMUEfi5VaZYCflbP-QEZ0UXkXf1TJT*LMhvc6W5D-XM3zvMVpdfgthlAu88t9axFgYPvlmI=)
+[知乎数据分析大佬：入门机器学习该怎样少走弯路](http://mp.weixin.qq.com/s?timestamp=1525526009&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwofLGXnBYARnlCScejdaErxEFd5elB3ZUp2mX*fklHuT1OSH1QYjfPLlGbCerLIMmU94rzAjJa1rdAoHtOkQXhj4v49tmbJHLcRyMAal-rt100203ZoCkRdWDKEDFm2zKe4sHE7q9yD6h8HdT0Sg7KU=)
 
-[蚂蚁金服数据大牛：转行数据分析的3个关键点！](http://mp.weixin.qq.com/s?timestamp=1525419387&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LUWFCARPKw4a47CWA-88qGjIjl2LEy*1eSButSCNxFPAHRIoVtN035HAwVb9TTkPSjQZ9qAGqfU3H-yF5JlOZf6zNpgW*oj*BQl*uNu3xCuF2Iq*kcZBl8l*9dOD9khfAFEACI8U0j16fMgq8U8PpQ=)
-
-[深夜打不到车，会Python的程序员竟这么干...](http://mp.weixin.qq.com/s?timestamp=1525419387&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LUWFCARPKw4a47CWA-88qGjIjl2LEy*1eSButSCNxFPAHRIoVtN035HAwVb9TTkPSjQZ9qAGqfU3H-yF5JlOZcOS*i4dc*GRmbM2TvnJFPx2gO0fzPrCDgYkRJ9xcPaz-yVZiv6odrSGvCBPSSKKz4=)
+[首轮面试被拒之后，这个举动让他获得了这份工作](http://mp.weixin.qq.com/s?timestamp=1525526009&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwofLGXnBYARnlCScejdaErxEFd5elB3ZUp2mX*fklHuT1OSH1QYjfPLlGbCerLIMmU94rzAjJa1rdAoHtOkQXhjOdVyjiat-V4JlW4HWIfOFhORbMp9Y37b2aAPF0Udxk1B3vt3yyFMFejYoKNnyl44=)
 
 ## tensorflow 
  ---
-[原创宣布SwiftforTensorFlow已在GitHub上开源](http://mp.weixin.qq.com/s?timestamp=1525419391&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*JrjW7emQAqusRDyk4CP6GsRMNCeL7-mPTMS6bHjT19TY15OoBlZ8Ue0I5G9RVEAD4edlpA0lrvpYjhHKmEfAfJXqEvmwK8I7*ucmkJOl32XU56zG5ca4Dij8PbhyC9vIvIqMfUUxSlVhwrsv6Cl04s=)
+[原创Google内部案例分享\|我们是如何构建定制化TensorFlow预测系统的？](http://mp.weixin.qq.com/s?timestamp=1525526013&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwlzXF8-UhQawe8GEku7xQSWNfSoUF4F0y6luHEMMFhv*xZZQLIU9R5gpdZfMKSD2JBmmJLTNxMcsTIAzkMXlVv-mcRxHijb27BnGndhSs0jloqPqjvCwFDTVpMVp7O6W5DJOCaNPAdNbq2BEuqrb2Qo=)
 
-[原创TensorRT与TensorFlow1.7集成](http://mp.weixin.qq.com/s?timestamp=1525419391&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*JrjW7emQAqusRDyk4CP6GsRMNCeL7-mPTMS6bHjT19TY15OoBlZ8Ue0I5G9RVEAD7mAVecxAjiPkXLdMRZolUCPQTW8cfzRom6KlfIS2bhzFzMQzGNaTNKbOESo0zWjVF6H1xi6ZWtxrHPt0UUV9UM=)
+[原创宣布SwiftforTensorFlow已在GitHub上开源](http://mp.weixin.qq.com/s?timestamp=1525526013&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwlzXF8-UhQawe8GEku7xQSWNfSoUF4F0y6luHEMMFhv*xZZQLIU9R5gpdZfMKSD2JE3YRWh0czClYJ-WLKGlzrNU6UoiIW19JFq2J9D-zEX59QZTVIeoYC5biTMBlpQR3HMdjSG1rIBAAbFLTyOHw9g=)
 
-[TensorFlow1.8.0-rc1已正式发布](http://mp.weixin.qq.com/s?timestamp=1525419391&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*JrjW7emQAqusRDyk4CP6GsRMNCeL7-mPTMS6bHjT19TY15OoBlZ8Ue0I5G9RVEAD7mAVecxAjiPkXLdMRZolUCELiaBSWUa52lv-zAznMLUdc7N*eZePClI4D0H-I0lCHgoJcLpS2XjVTk1O6Jdg9k=)
+[原创TensorRT与TensorFlow1.7集成](http://mp.weixin.qq.com/s?timestamp=1525526013&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwlzXF8-UhQawe8GEku7xQSWNfSoUF4F0y6luHEMMFhv*xZZQLIU9R5gpdZfMKSD2JErkGsmq7QMZW5bXUFfOmKJLq5*2JZYOeb65jI8iFfVfnKQp702IDcyjZwgFp-Hp7WbKT1qFv8Jk92FsEDw4KU0=)
 
-[原创通过机器学习发现神经网络优化器](http://mp.weixin.qq.com/s?timestamp=1525419391&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*JrjW7emQAqusRDyk4CP6GsRMNCeL7-mPTMS6bHjT19TY15OoBlZ8Ue0I5G9RVEAD*tiYCAcxJRiz7ZdSI1UGKiwr9vosbTXmU*ebE3V20QEEmPum8e2bJSCOySK6QN5lIP*zLF2TDOVUCqWoiUSeRE=)
+[TensorFlow1.8.0-rc1已正式发布](http://mp.weixin.qq.com/s?timestamp=1525526013&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwlzXF8-UhQawe8GEku7xQSWNfSoUF4F0y6luHEMMFhv*xZZQLIU9R5gpdZfMKSD2JErkGsmq7QMZW5bXUFfOmKKwJdUJHUhm5e6HUubEgDp-Sg813O8RJQlgncM4ZcUTuEFR-cHBVYdM-IefF8ykVNI=)
 
-[原创2018中美青年创客大赛等你来参加！](http://mp.weixin.qq.com/s?timestamp=1525419391&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*JrjW7emQAqusRDyk4CP6GsRMNCeL7-mPTMS6bHjT19TY15OoBlZ8Ue0I5G9RVEAD4MOT2sYdzLLDXkalzG6qyTH8zGeX9T7QJrf0tzvmbYB5sIAE9rvW*dQkRjp9z-nE27QcXJSLpKJg--7y9DZtm4=)
+[原创通过机器学习发现神经网络优化器](http://mp.weixin.qq.com/s?timestamp=1525526013&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwlzXF8-UhQawe8GEku7xQSWNfSoUF4F0y6luHEMMFhv*xZZQLIU9R5gpdZfMKSD2JM2vtkXfnO9k-51XzyhUzUf7dS9PWp0g6ixNGKXndqt8CZOnwR**J6rcCgtnCaNnML7xtrNjqC8L9qblDu850RI=)
 
-[原创Google赞助的深度学习夏令营开始报名了！](http://mp.weixin.qq.com/s?timestamp=1525419391&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*JrjW7emQAqusRDyk4CP6GsRMNCeL7-mPTMS6bHjT19TY15OoBlZ8Ue0I5G9RVEADw0tX3lRjxoqNmuwu19uijdITrW1IBBrUUj7eDOA2grfEh1yCY*O9tnY-YH8Jgd0cc7nRfs-FPNAPAzqSPJmDB0=)
+[原创2018中美青年创客大赛等你来参加！](http://mp.weixin.qq.com/s?timestamp=1525526013&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwlzXF8-UhQawe8GEku7xQSWNfSoUF4F0y6luHEMMFhv*xZZQLIU9R5gpdZfMKSD2JPVwS8dRQaixLghBEB5YHKHukhbqhFbYoxh4QQmj8dZk-*AP6-569nWVQHG*h2-xnn6SKiD4iVbyuus0jr6Cd6Q=)
 
-[TensorFlow1.8.0-rc0已正式发布！](http://mp.weixin.qq.com/s?timestamp=1525419391&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*JrjW7emQAqusRDyk4CP6GsRMNCeL7-mPTMS6bHjT19TY15OoBlZ8Ue0I5G9RVEADw0tX3lRjxoqNmuwu19uijevXCXrpgn8M3dQUpqQV8ROykj6GUKuP6uY9QFVnz8WdA5iOthBzWmJE0e*1i391G4=)
+[原创Google赞助的深度学习夏令营开始报名了！](http://mp.weixin.qq.com/s?timestamp=1525526013&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwlzXF8-UhQawe8GEku7xQSWNfSoUF4F0y6luHEMMFhv*xZZQLIU9R5gpdZfMKSD2JPaGQ28fuQ4Qugh1ZV25TSwI2LwjoKwLLgTav*RHypNzhVKytbsimknLqs2FQ6YsFKUyZsfHlKcWmhFqgz6ud3w=)
 
-[原创有道云笔记是如何使用TensorFlowLite的？](http://mp.weixin.qq.com/s?timestamp=1525419391&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*JrjW7emQAqusRDyk4CP6GsRMNCeL7-mPTMS6bHjT19TY15OoBlZ8Ue0I5G9RVEADytErk8bXRAaDMGZtPDH*HVc*WskolW8QreDsdR6fc19AXqiA4YmF4zFJeKKa40w-t0KC*Nqb2yZBxm3KDJVo*E=)
+[TensorFlow1.8.0-rc0已正式发布！](http://mp.weixin.qq.com/s?timestamp=1525526013&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwlzXF8-UhQawe8GEku7xQSWNfSoUF4F0y6luHEMMFhv*xZZQLIU9R5gpdZfMKSD2JPaGQ28fuQ4Qugh1ZV25TSw2eH9HBUdo7kzsOzMBBez2UHdXKaw24h7tHKLjbfaomZvuKJ8NVVvzzXLsMDSjzE4=)
 
-[原创TensorFlow中文社区论坛(测试版)上线](http://mp.weixin.qq.com/s?timestamp=1525419391&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*JrjW7emQAqusRDyk4CP6GsRMNCeL7-mPTMS6bHjT19TY15OoBlZ8Ue0I5G9RVEAD4*5GvECrCFtdYpSn10itO4k69oO1xK5ch4Q6GLYScw7UUX6peyb8FRBTSDgr06KYuCSSSYoxVnO8s4rVYrduVs=)
+[原创有道云笔记是如何使用TensorFlowLite的？](http://mp.weixin.qq.com/s?timestamp=1525526013&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwlzXF8-UhQawe8GEku7xQSWNfSoUF4F0y6luHEMMFhv*xZZQLIU9R5gpdZfMKSD2JLSGk*KAd4FZ9WMrMZlBzB9cH0Of8zMEFy-JgnhL8TKfGI87OcYFj1bm9tDYkVwkBlFS6okUVwtxnFvdQcIl5jA=)
 
-[原创使用深度学习推动科学图像分析](http://mp.weixin.qq.com/s?timestamp=1525419391&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*JrjW7emQAqusRDyk4CP6GsRMNCeL7-mPTMS6bHjT19TY15OoBlZ8Ue0I5G9RVEAD3RybGiQqzKbJfQtprC**uwR4zBY8j7JVur4xVFEnQu2n*KJHSTN-0-akJBTf1mBUZGcVADRzoUtdAqASbx3CpI=)
+[原创TensorFlow中文社区论坛(测试版)上线](http://mp.weixin.qq.com/s?timestamp=1525526013&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwlzXF8-UhQawe8GEku7xQSWNfSoUF4F0y6luHEMMFhv*xZZQLIU9R5gpdZfMKSD2JFBphx*ZKqlh*16OCVd095G5WfveY8aSSfb9K0bRJeQfbLq-YumWESkzORSioRn4h4SqIzu1xXyvT6a8uD2zIcU=)
 
-[原创使用可进化的AutoML发现神经网络架构](http://mp.weixin.qq.com/s?timestamp=1525419391&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*JrjW7emQAqusRDyk4CP6GsRMNCeL7-mPTMS6bHjT19TY15OoBlZ8Ue0I5G9RVEAD8iP4BZS3EHTbxbxrIL59jnNbstBFHl3h69tGzT0YO3lCMMonSpB9LHg*SZ1Qek9WXVSI-oebaFtnNAOROyVPKM=)
+[原创使用深度学习推动科学图像分析](http://mp.weixin.qq.com/s?timestamp=1525526013&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwlzXF8-UhQawe8GEku7xQSWNfSoUF4F0y6luHEMMFhv*xZZQLIU9R5gpdZfMKSD2JIio3umsqKnJXG89zJ1YzwfHLkkUtnLGQq2UOoAJzrRE2Bxh85KpAuPjc4o8cJ0wI9a4DraThfWWw2sMsIoNYv0=)
 
-[原创开源用于寻找系外行星的代码](http://mp.weixin.qq.com/s?timestamp=1525419391&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*JrjW7emQAqusRDyk4CP6GsRMNCeL7-mPTMS6bHjT19TY15OoBlZ8Ue0I5G9RVEAD2K0dUGfJefLZ0TQJRwcZsHNsFyfkJkufz5bfCdr*1X80sMkN2Wj4xNJWMd75yMbICP*gQ3*HDddokCwpK*FuD4=)
+[原创使用可进化的AutoML发现神经网络架构](http://mp.weixin.qq.com/s?timestamp=1525526013&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwlzXF8-UhQawe8GEku7xQSWNfSoUF4F0y6luHEMMFhv*xZZQLIU9R5gpdZfMKSD2JOJKck6OkUHW4gujNaFnPUGGzIpJ9hr-rAG79yvCRm*8*lVABWlpD7IRFkyUdVLM3JSc3xv03nPNoToeAiTrF1s=)
 
 ## 宇辰网无人机资讯 
  ---
-[原创五四\|好青年，不加班](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXJ9DrQt7bcgdhbPaR-VVumvJHzafXNR7uqZ1EAeSjCXjoE97WSTWc5avuPP8yzx5IjJrq57VIotH7i2e-xhMU8A=)
+[无人机行业本周资讯集锦\|5月5日宇辰网](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGbqvXBTg-icHgNlpj0AKvd1OZZwgrTsgnCD-jXH0zPeYOeddtk9ksyPre6wgOuLZQUF-dHfOBLbbkZdajJ6i1v8Q=)
 
-[跟进\|西安城墙千余架无人机表演现“乱码”或为程序问题](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXJ9DrQt7bcgdhbPaR-VVumsFn*6SYKQQRTe12bra53cMO9JELC3ApXx4cquwGXi6U05g7DwCjVKVzjfVjq0S5ig=)
+[科普丨无人机飞防作业农药混用要注意什么？](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGbrLrx0jtUG7*CXJ*YK0ZegJZIUWYdSedWop32ydS15GV04krAry5Ea9YTfzNtsetevEhKCXSO3Be0W6vMSfuxLY=)
 
-[宇辰晚报\|陕西投入三千万开展植保无人机购机补贴试点；悉尼一航拍机充电时电池爆炸险伤人](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXJ9DrQt7bcgdhbPaR-VVumuinktUQPqCvrCRIqoM8rSE*PO30XO7-ZDwyR70CRhTHC6*1TV*BxbKbiT3qBVybYk=)
+[中国AI芯企到底怎么样？这份全球最新行业排行榜给出了答案](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGbrLrx0jtUG7*CXJ*YK0ZegJVyT7uO4S3Zk3R1FLxe83-yI3a3CEpfT4qDvK3OKO8fO*1vaXQl1i-DbFruzVZwdA=)
 
-[原创“襁褓”之中的竞速无人机如何“突围”？](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXKE8OUxohCtPgcgKQ8aZfAri8ZLxtFP0RqRCFm-Rehde-r3jmVRkdvz7y3Pzyz2ZcP1Zd4BwCK2vGZYE7dkAnX4=)
+[宇辰晚报\|无人机参与救援失联北大研究生；尼泊尔研发首架医疗无人机](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGbrLrx0jtUG7*CXJ*YK0ZegIP18Ub4u*jSkFhPdvTp3wT7VlmbkL8Kjln-ziShrwpzEDUESzuJ8EnQ*N71H-uDns=)
 
-[预告\|5月份国内无人机相关展会预告](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXKE8OUxohCtPgcgKQ8aZfArxXchcgWRuPnZlcdpvmQjUuciew2coTBxUdHnmgzBKBE70*rpNKhuzyj-zSFp5LYY=)
+[原创五四\|好青年，不加班](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGboZ0pBH5cjxzSjeqz4V7FwcvPFoanjKFc5GwC12y0K0Q-XaJVohhnnaFbbYlKAgsrMvu9szSik*IH*tO9WL6D1c=)
 
-[宇辰晚报\|傲势科技获A轮融资；西安1374架无人机起飞创纪录](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXKE8OUxohCtPgcgKQ8aZfAqxV4NWTQzxWZ2EMU78TQ9GP2jspQoAlKCcy5aFSAPgD1h8LyKheK7SW7PbKhcaV6Y=)
+[跟进\|西安城墙千余架无人机表演现“乱码”或为程序问题](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGboZ0pBH5cjxzSjeqz4V7FwfpoivhfXgsdK5p*e0AIklWfLii4cd8kmhWwSDto1d9JfezjMLm65iYFCsc4wIHzCA=)
 
-[原创关注\|市场“凋零”，如何让玩手机的年轻人去玩航模？](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXFe5vMEFeqBjhuKRlqLmbSqh0qOsfbCSLKZ0hYHkjdW2sf2THejBqtkmi-NIEUNERS8gD49PUDK4jylu-HLZf30=)
+[宇辰晚报\|陕西投入三千万开展植保无人机购机补贴试点；悉尼一航拍机充电时电池爆炸险伤人](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGboZ0pBH5cjxzSjeqz4V7FwcwWYUoWRpJzCLaPrssYXAXrrbxcHwuC7-rK-DyKJsx33j4gaNB7WpFbxReeyMWVog=)
 
-[改革开放四十年，且看今年雷达博览会有何发展？](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXFe5vMEFeqBjhuKRlqLmbSpwMXJh74iDEjqcAxM76MDWTITX*6cxYnJkW9AJd4zpnd4gXQyN0JGyHVFXAocISZI=)
+[原创“襁褓”之中的竞速无人机如何“突围”？](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGbiZKiigUwBa*BGcqabao3lCq9oHbjzmD4fMxjFrURXxJ-GaHajtzyMHL-ZXSxCAyKJIxrzSI7bhiKTmmTrVVLx0=)
 
-[无人机行业本周资讯集锦\|4月28日宇辰网](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXFe5vMEFeqBjhuKRlqLmbSp-m5-Tz1kv7YLI9SDeR4G35Co80Z9yGQyw0hoPwG2wBO9IY9-zSjJQ2070yr4daGw=)
+[预告\|5月份国内无人机相关展会预告](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGbiZKiigUwBa*BGcqabao3lAT1FMhmdUVVUs5c580B3UTHLjG5jKI0C0YA93nzM9pTFlAXS1j86PJuU*LXZ7Zc3A=)
 
-[原创群雄逐鹿——从植保无人机制造商深挖增量市场说起](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXPdCJVOOU-yKZW8xzvYSAtTyvXqa99KbXW0mbD56bfL0AJw-mHVLbHT0WkwpGeZZOK1sfVYfIu6pnqMKqwHLmmA=)
+[宇辰晚报\|傲势科技获A轮融资；西安1374架无人机起飞创纪录](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGbiZKiigUwBa*BGcqabao3lCDyk9Hjsx-S6SaLpGMqLmC7PPoOgLX5bVEvWjkL9lREz8qJMWT*p-OdaK*jJUI6zE=)
 
-[“中国无人机产业创新联盟”正式成立啦！](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXPdCJVOOU-yKZW8xzvYSAtQSfCam6kcZezhZM*DwvuA6tE-biXVFsBpafmroK6htCfB68r7A5Px4NYNdiEey48M=)
+[原创关注\|市场“凋零”，如何让玩手机的年轻人去玩航模？](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGbhchlY3gVuqmA1O7HdCYe4MzD5L9bAHlh*55HAJZXT7eQHIcW-oIWkDQi7Gh2xNZN1-9*CidTP0dfH3Q350ulrk=)
 
-[宇辰晚报\|国内最大载药量植保无人机问世；美放宽军售限制抢市场](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXPdCJVOOU-yKZW8xzvYSAtSb8pfWllIoJ*WJ-nkBNgruvPhuFY-dMOix3*DxKpJshJEOqrsOMdCE1f3z5MmaEFY=)
+[改革开放四十年，且看今年雷达博览会有何发展？](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGbhchlY3gVuqmA1O7HdCYe4O0beJ0ANBsTS-hDEcUzvcPRKAdHlsHkbQVQ2vpnhXOrZoWi79N*RzB*SCnJzVMWPs=)
 
-[原创“颠覆者”胡华智](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXBjReVBAhCClXJkvrik8OdU8gQnZ9dnv7dZd-48IRbx6m6*bZ-S-6k-7mrfqeHaUyUpoH1peoU3XzBtPrp-x9nw=)
+[无人机行业本周资讯集锦\|4月28日宇辰网](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGbhchlY3gVuqmA1O7HdCYe4NuERLDJnKcSlooRsJMHeqMf07Qk6zgjd3OwLIEwwOoy9vj-YEfKaZGmL8nLr7VtSM=)
 
-[用AI和无人机做好事，英特尔让科技更有温度](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXBjReVBAhCClXJkvrik8OdXzk*VbY0Lq8k7-c-LwN*5-3o06igE**O*vw-lc8mpg81N1kC5AjqoWSO9wOdkpvg4=)
+[原创群雄逐鹿——从植保无人机制造商深挖增量市场说起](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGbpzN6eUaMfc0OA63xNNIrrPpkULmZ7htpwhmszKjqVooPtLXS70u-X4LQ--ZrLVzsvo2BvDGuwLpcpXefhBH0o0=)
 
-[原创知识产权日\|她们的一天](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXBjReVBAhCClXJkvrik8OdVVVDmHOXszlIDOTCRMiAiXlV69qmG*DcvexwtLW**0Kp3q0Cqzsq0Or*kDMwVhXNk=)
+[“中国无人机产业创新联盟”正式成立啦！](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGbpzN6eUaMfc0OA63xNNIrrMkVf-DJKLjvJS7P-m8zTXpFkaXcHzbRXlJ0FEt6Oz1mRkHYuJ7W9ftf4dAzRmpyWc=)
 
-[原创首届数字中国建设峰会集体曝光“无人”成果](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXDF23FXbts9-5w7ENYmWkdX5dO5DQocVWtD112P8J9xACWXFe82Rz-SoC-fJZbU3n2nK5ZUlWM5o9xdkhaiDyDs=)
+[宇辰晚报\|国内最大载药量植保无人机问世；美放宽军售限制抢市场](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGbpzN6eUaMfc0OA63xNNIrrO3A-oMT*ohmSIiP130sp5zoLE9BXiRve0hilp1g5-oPf5WUtlXtTP4i6EHm3Dxi8s=)
 
-[英特尔携手中国文物保护基金会，利用无人机保护长城](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXDF23FXbts9-5w7ENYmWkdWgwBOowkc1B7aiA9*YWCuLFtxFa*ZQWaf9vURfaKcYvd2G7paPmV8JVSr-DawfaKo=)
+[原创“颠覆者”胡华智](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGbqf9qFEFvUFYduz1udnzvrBOkRJc92M*0eWChkXM1x1TvTRaUFj4SRDZSw1oOSg3CVoFqZ5K3*nwfGiVAcbTV4Y=)
 
-[宇辰晚报\|农业农村部称将扩大无人机补贴试点；俄军无人机数量或超2000架](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXDF23FXbts9-5w7ENYmWkdXYMLfzAT6M*Ef*nFu8fOHFF84w4YXAzPwgF3CkHCCJ0TLz27mD9sUm7bnG7MQ5u9E=)
+[用AI和无人机做好事，英特尔让科技更有温度](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGbqf9qFEFvUFYduz1udnzvrAFHTdqT3GgGqnzYXJbJGVq5AAw6uMV46wziRrmtOP6DRRJYI-4N1LL57wMbAYfxg0=)
 
-[千寻发布知翼平台，第七张无人机云系统牌照获民航局批准](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXMRv208Te9alJzazCydKHGhST7l5zxLgOUvClrHMIvJa0WwtbmwZuBvI8jJq8bSaci4sFWAo153fo8dTmwv*gg8=)
+[原创知识产权日\|她们的一天](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGbqf9qFEFvUFYduz1udnzvrBQOUcybrzom9IHJG9tfDih7zzfC*4S3VJZpOhvKCuK3qBlUh5gCMpSQG2506Th7J0=)
 
-[2017年无人机云数据统计报告](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXMRv208Te9alJzazCydKHGhqym0MIXbZAE1kA784doQbDC9DYas2pCg1s3OWHrHIkJJxTdStZJ1H4R2Nv2i5Mjs=)
+[原创首届数字中国建设峰会集体曝光“无人”成果](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGbvIJkUd0PtltiWevtVfSqI2AAaP0*XjOYbv6vGXsKH16eJ7PidkJf-8AURP3sMd7AIva67KDlYyFpBD9qI1mksQ=)
 
-[宇辰晚报\|千架无人机编队表演将破记录；日媒称美国正推进军用无人机出口以对抗中国](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXMRv208Te9alJzazCydKHGjXTieLe8wV*994bzjI1-3GWojKlCTboRTxmDdlwYmkjXtaQex3f*wzSpYGgQSQux0=)
+[英特尔携手中国文物保护基金会，利用无人机保护长城](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGbvIJkUd0PtltiWevtVfSqI2GdA35sBEefFZVBfy*0p3WKfTBWKZFJrS87f3gDFOcaFx05AqekNhFK5EVlNfUjEc=)
 
-[无人机市场稳步上升，或将得到资本认可](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXMjukFCMsmepMQoj*QHqz75F*DbKOqef56fg6tshg0erBl6xzP6RMFNxRgbn3tQKrxgnGWcGzGtb*id0vMkKE0g=)
+[宇辰晚报\|农业农村部称将扩大无人机补贴试点；俄军无人机数量或超2000架](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGbvIJkUd0PtltiWevtVfSqI16ciapxN8IVBoa*xDyU1OH99DrbEYDHqte3KqCwv6LSsXinI4tmTjcnF7yevOV1Ys=)
 
-[无人机建“航线”，需先满足这四点](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXMjukFCMsmepMQoj*QHqz77m7ICM38PJUFN4k4vv4bvnU0RTOFeeBRxpssa3BZEoh2S9HkS5afRrYnOUsATcSXI=)
+[千寻发布知翼平台，第七张无人机云系统牌照获民航局批准](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGblma7lOkmSFA0J*I7Fx2*Mzf-bsFOHpap1rvUd18KQisC8RyMbkmggNpfEhXCMRC7U8pduQeQYw5XgwB4uEjQws=)
 
-[宇辰晚报\|我国研发小型涵道风扇无人机；沙特击落王宫附近小型无人机](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXMjukFCMsmepMQoj*QHqz75hP6hy4Ib0qNi7i6AJGmyXMIJkDttefQnvfGW*uvc0M2ILwG8XfChuwRxVTLQ*wcY=)
+[2017年无人机云数据统计报告](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGblma7lOkmSFA0J*I7Fx2*MxD87CCs5j27hWxaiD7Oea8Dr7oHLnFIAGIC4jwVSCCozJ3K42f*9dEzGnoJSs2ntQ=)
 
-[无人机行业本周资讯集锦\|4月21日宇辰网](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXCG48K2iCqIcb5jOxdFcMwoh-VCtKxu4xRFPKlmBnLD9JUCvSTZjy2fR6TOuicsYyDflfmP9LyHYlNekm9whVQQ=)
+[宇辰晚报\|千架无人机编队表演将破记录；日媒称美国正推进军用无人机出口以对抗中国](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGblma7lOkmSFA0J*I7Fx2*MzmBEduk23acMNihd4UOSeCs*Cs7Vi5NkrCU-xLeoKjRxEe*1jiVC4*UL*vN83PSCs=)
 
-[向国际化进军，易瓦特以“合作共赢”的模式对话世界](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXMseVJ4VmkMIvhfRa-YstSpQu0KB2modWpC8-19wyxs2wBt4oiKJhxklutcqb0mM42SspiNnj9syE5ccWcS*Ufo=)
+[无人机市场稳步上升，或将得到资本认可](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGbv*ksJRPj9ZTp4OVf8rxCPXGBJ0eIKvIIboFHb7HToNNVXBMMHqIe3OaeOwhcjh0jkWZyIgbkK4GMwL1QCeQve0=)
 
-[大牌云集！第十九届中国国际模型博览会今举行](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXMseVJ4VmkMIvhfRa-YstSqxpUG*FNRd8bo3j7sE*ySaHPPMFPkLpSAuv8A2hC7-8IJR9J8taWBSVjHyTe*I4AU=)
+[无人机建“航线”，需先满足这四点](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGbv*ksJRPj9ZTp4OVf8rxCPWAiduz8eTIe-Aw9wcIIIMXwat2KBiyeCe90M15CkKPaRzfN40iD9V9gPOuIAWlMBE=)
 
-[宇辰晚报\|“无距智造”无人机国际防务展飞行演示圆满成功；河北省首家市级无人机行业协会成立](http://mp.weixin.qq.com/s?timestamp=1525419395&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*I9xG8kzfRGZxO56B55budb52VmDSaaFzD-e-wsNkfkq7HCLuKeeH1IYqC5ORGgJXMseVJ4VmkMIvhfRa-YstSqcKZ5nNRs4LqRTizwAIbfXG6CnjDGq4Z7pjjLQ-ubc7LqAy483boUD14BvAyeRgY0=)
+[宇辰晚报\|我国研发小型涵道风扇无人机；沙特击落王宫附近小型无人机](http://mp.weixin.qq.com/s?timestamp=1525526017&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwnUgLOXxq5fzKyIaO3wokpY6iccAkFfQrOWbrqx8ObaXU9FjwbAqVjZelXLD-GvGbv*ksJRPj9ZTp4OVf8rxCPUcPZ8ealof2ND-5DLUpfPxcjLiV*yf4h95TvFLbUdFSIdKOpqvP22I1oC*7hPP51A=)
 
 ## 新智驾 
  ---
-[原创汽车巨头跨界忙！宝马、通用、福特与雷诺居然组队搞起了区块链联盟](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0MO-vSg1LdafnKlwGw8WVml6zScp7Y4HOJ3zw-UJHdJuUFDiwlgQM7JrlNHK21TRobkPeJvMpZLXTgEGEzSHyDI=)
+[原创破天荒！特斯拉要定期公布Autopilot安全数据](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1lNrs1LJpjg74-5UYECD75jVZ0wxxnaRttUecIyJ*1V*liCxwlh2X49V*v-8NE1EBL528pOrULXuomt2VH*O8PI=)
 
-[原创预告\|大咖LiveXOURS：图灵奖得主门生详解融合硅光芯片及FMCW技术的激光雷达系统](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0MO-vSg1LdafnKlwGw8WVmkh3E70LZdLpeJ57iYq7KWkrQZRmbuFCUK8*uVoCbRgrTxFekr*M75mMdYM5QhZUaY=)
+[原创自动驾驶出租车到底“破坏力”几何？麦肯锡这份报告告诉你](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1lNrs1LJpjg74-5UYECD75gFPo*hlqAMVLrJGlGqoP614fZ9cpI594Noha2yrqGT3aD5rk0lP*iHDNhSfHTnwts=)
 
-[原创袋鼠，自动驾驶也无法攻克的生物，仿真技术或有希望？](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0MO-vSg1LdafnKlwGw8WVmkKij8L-C2M0m*CjbGqBAXNId9RNyu9u8v8NQkvCEjwWqn0TacXFjcCWgmKOzUn0ZY=)
+[预告\|大咖LiveXOURS：图灵奖得主门生详解融合硅光芯片及FMCW技术的激光雷达系统](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1lNrs1LJpjg74-5UYECD75h9yTELBOs*foBexUSe8q2jNgsVJzbQ6AjENpZTLu8gnJdRry8Pw8Kf-m7KEC8yPmY=)
 
-[原创安波福牵手Lyft，在赌城上线自动驾驶出租车服务](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0MO-vSg1LdafnKlwGw8WVmlU79ZPjPOVQLpFMM3royqF8Xdqhpr8h12wgj6cVihKaXLt-nH*cRFsFg7zY8RIrbo=)
+[原创汽车巨头跨界忙！宝马、通用、福特与雷诺居然组队搞起了区块链联盟](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1olLusDc4i8DW3VONArDZQkEOopnt11Jl*Msu98ZYcOOEy50n2oo-AVtN5dTgpFEa9H6xu3UE*FFDYhSMe*3oz4=)
 
-[CMU教授MetinSitti：产学双栖的仿生机器人专家\|CCF-GAIR2018](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0MO-vSg1LdafnKlwGw8WVml7cye2GOvR125a7J6cvUp21cVtuptjBU6DWu9rvlbjmL2kw*lacwTE24OD1s8C34Y=)
+[原创预告\|大咖LiveXOURS：图灵奖得主门生详解融合硅光芯片及FMCW技术的激光雷达系统](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1olLusDc4i8DW3VONArDZQnGe0X9jykm0FB0nxMEDm4SexfYS2kvfTcUB2n7lUFSQYZ2T5H2xYpLaSW8cExvfo8=)
 
-[原创亏损中造车，特斯拉Model3的“生产地狱”究竟有几层？](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0PA0X568wT9g3qkN0cNcltN96h6rkswOxx-5ukVkXH74o9QgDb5*TDeXrAwtv9Q83Cnq17vpTm2hp0IwZuGDp1U=)
+[原创袋鼠，自动驾驶也无法攻克的生物，仿真技术或有希望？](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1olLusDc4i8DW3VONArDZQnJERo739Mlk37oijfFhbMneUIlSkCCn06kogqg8*t61Yg5npmyYBxoJbuLXZ2SZFM=)
 
-[原创聚焦“安全、清洁和智能”，汽车供应商大陆的科技与出行之路是怎样的？](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0PA0X568wT9g3qkN0cNcltOfgd3jlKvdWPnI9rGLluShoW1-uYXm8qC5rUhhOTxlAxr-wZPqgL-Eg-x0KJEyGNo=)
+[原创安波福牵手Lyft，在赌城上线自动驾驶出租车服务](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1olLusDc4i8DW3VONArDZQlsu3DK0vkcGMKIxg9R5Rm-K9mlD7DbGlckGsW*arE9xW0XUCwAs8WrhnHu4uzvV78=)
 
-[原创自动驾驶递送机器人蹿红，是小打小闹还是真要改变世界？](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0PA0X568wT9g3qkN0cNcltOIi9wGsDQ-jPXoFCRZBcTJHFKT28FKdEVhI5LS1HWQthcs0b9kgW*o7MbKrKejfcA=)
+[CMU教授MetinSitti：产学双栖的仿生机器人专家\|CCF-GAIR2018](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1olLusDc4i8DW3VONArDZQlJr2LIJU6jynyeEYdklGlPaxDRXZhMto6*zHiW0mR-IEiwSxPv-ETCD8R0vl6P*Yw=)
 
-[原创作为双资质的低调新造车大佬，K50的上市销售已近在咫尺](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0PA0X568wT9g3qkN0cNcltMdpIpkD-nGv33GMstZAMEertIL0Nd*kBof3r3-1MCd2*akMOepCfoi6NyLkQ5-CdU=)
+[原创亏损中造车，特斯拉Model3的“生产地狱”究竟有几层？](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1n7dAKOjKG-nilKQCsuBNUg6-HkftkRcLY-4DJacqyCMWxpbn3wc8luulkDmXbsg4fqk7-nYZLWfYySPDC0gEaY=)
 
-[AI科技评论数据库项目【AI影响因子】：谁在影响你，你在影响谁？](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0PA0X568wT9g3qkN0cNcltM6wMUiaihX-UrW6sx6gYzfnsxnwwkXE-bx8j9GQa97GS*1-ppfse5r6u05zA1kgLs=)
+[原创聚焦“安全、清洁和智能”，汽车供应商大陆的科技与出行之路是怎样的？](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1n7dAKOjKG-nilKQCsuBNUi*gx168acdHTpbY8cb28tSNkNLsEgcvT7p8*CYao*Iw21OtDNsjn8-7mNH46*0bII=)
 
-[原创蓦然认知联手飞歌，打造“更懂你”的智能AI车机](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0M6Xgz3o-ZsBExY1Dt-X7ZZj1s-oBcFLdyKCGBeE0kzzVIganWOU06PLaLE6Q1B47y8oR953esYEDY9aFUpltiw=)
+[原创自动驾驶递送机器人蹿红，是小打小闹还是真要改变世界？](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1n7dAKOjKG-nilKQCsuBNUirfmS0jELJk68c*ACKKkwf*WQh-zFqxQ61p4fQ8-8A24itzAVnWyUrqA*9mH3fm-I=)
 
-[原创大公司都抢滩配送无人车了，为什么这家创业公司还要入局？](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0M6Xgz3o-ZsBExY1Dt-X7ZaEOrB6ugGz7IuE-KpGZ-iSfsZf28q18tCOoy-awTpr3fzQFwDUTxDIVb6DXun0Cd0=)
+[原创作为双资质的低调新造车大佬，K50的上市销售已近在咫尺](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1n7dAKOjKG-nilKQCsuBNUjdsMOhX1H2EbwRhOvpDIuB-aniTLUHLPMzKE6db7iCv5hPqOrm8QRuS-rlQ3z0eFQ=)
 
-[原创让自动驾驶汽车告别呕吐袋，ClearMotion要借用户体验绑住乘客的心](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0M6Xgz3o-ZsBExY1Dt-X7ZYQQf7JXA7psEUIvaMnMqZ6MJaXBCAROrXaedxyA3GrWrj9F4LNdULzvvXrWFKbaZg=)
+[AI科技评论数据库项目【AI影响因子】：谁在影响你，你在影响谁？](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1n7dAKOjKG-nilKQCsuBNUiWMIEJdNW-HKV*7iIiXSJv1zGmlQs1vZtK2mKEbd-xSY5QdLJjzxaYGaHVlDU41YQ=)
 
-[新课\|6+自动驾驶企业，9+导师，20学时，详解限定场景下的低速自动驾驶](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0KlQlanWhtqeKgiZAPYxdy217ZD4Kr1yte2frr0don5oV00CEq7gJ27b5Mlmz-SAX2I--h4OU37v8S6B7v9Iae8=)
+[原创蓦然认知联手飞歌，打造“更懂你”的智能AI车机](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1oGxQWACdfI6yLsNGg**WeEVuiYWoET8wetis4vuCZrWUagymFUcxXRbnnTASMed9--tSMeFuDT5jJ8ogd0gK98=)
 
-[原创除了48伏低压纯电动车、传感器清洁系统，法雷奥又公布了这些在华战略](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0KlQlanWhtqeKgiZAPYxdy2QRriUgmmoVbaQmJJZu5uMBsoqRuHLrqIsIwKrli5UgSn0rbYbAfP2bTTBAhzpRJk=)
+[原创大公司都抢滩配送无人车了，为什么这家创业公司还要入局？](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1oGxQWACdfI6yLsNGg**WeGPddGcNCqIpdLbwfpJafVgaYSk1uInYgXWXJHCLaqrBCesJtGDuRDr-bOdzgCvvHk=)
 
-[哈工大朱晓蕊教授：CCF-GAIR2018将会与你擦出怎样的火花](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0KlQlanWhtqeKgiZAPYxdy198Nf3VFKkST0ejd50HC0HwvnJKRcyhas3IasOKD9n5T9LWaAQP48-v7vOemW3yxk=)
+[原创让自动驾驶汽车告别呕吐袋，ClearMotion要借用户体验绑住乘客的心](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1oGxQWACdfI6yLsNGg**WeE95-2FNezKy8dvZuarWxTkEiiZfPJz-khZJiMa0Bozn0U5uDvd8Io67oCCVH8x*pU=)
 
-[原创地平线发布自动驾驶计算平台Matrix1.0，第二代芯片征程2.0年内流片](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0Dizekgz4Sqk*1kF3ZHKBnNMc0jqMi2LqZ3wsHeim8a*Dhe*fGFSF1vGjyBJiPFKHzY3*qs*ymien49KIU4USng=)
+[新课\|6+自动驾驶企业，9+导师，20学时，详解限定场景下的低速自动驾驶](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1kq4odtStigcqWhNNO2I88E9tLWlbozEdnLN01H4v11C1bBY-3lUEmkQ4gke3CeKasnVY8hAMgOXeVE9d*uRZTM=)
 
-[原创立足“车+AI”的纵目科技，如何直击自主泊车痛点并实现大规模量产？](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0Dizekgz4Sqk*1kF3ZHKBnM8i1O4eAusM0DMjPon91c7tC5hdADzsMWi1im-KRnRb2yb1dzuJ-rXvpEr9MMCDjE=)
+[原创除了48伏低压纯电动车、传感器清洁系统，法雷奥又公布了这些在华战略](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1kq4odtStigcqWhNNO2I88ExEhK6MJOluPC*9*T0JfkurX*JmHeymIXCsXARsKgZ9EdxWwkumoWSBsgHEOXrY38=)
 
-[又是一波福利！9大讲师联合出品的智能驾驶深度课程上线](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0Dizekgz4Sqk*1kF3ZHKBnM*FRb9huHtA8v9NqfWkqwYI88ns6iO6kE5qmQMpV9-CrQKcHXZroW6A*zoe0*7q3U=)
+[哈工大朱晓蕊教授：CCF-GAIR2018将会与你擦出怎样的火花](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1kq4odtStigcqWhNNO2I88GkiI1BQGZsKQUN1Qat2FCi0zM*q8LwdYmjwYPXZcNTqPXPsJOJpJXzBeQbzWOXKIQ=)
 
-[美团筹划用无人车进行外卖配送，力争2019年实现片区化运营](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0FvQMuBTh8ir2sDgWILcIHbv2VuIixyAffLyPer2ElJwgaZgjZuYbPrUljBmUO3rfx8YuaQIvDuNJaNB0nn7enc=)
+[原创地平线发布自动驾驶计算平台Matrix1.0，第二代芯片征程2.0年内流片](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1rQUDa2-jpNdXkgL4Aj0A9gIZ0lfdJSy73TI6L09Nc9IekCkbcIOjbas1yN*vhqYy23ZVw-0SvR*5qPNG6V009g=)
 
-[原创镭神智能敲定B轮融资、并推出自动驾驶解决方案加速落地进程](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0FvQMuBTh8ir2sDgWILcIHbKKTi4sE9T72ssydDyR2CbqbaiELjuhSdw4MpBjMCscB6SiTnDDFCggHnmvmIgyQ8=)
+[原创立足“车+AI”的纵目科技，如何直击自主泊车痛点并实现大规模量产？](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1rQUDa2-jpNdXkgL4Aj0A9h0WgRwNWkFcHgspofIXoKgwcmCPKK3GYZtd-lgWhZgzMWdQIEmET0VEEgyKT5qAXk=)
 
-[原创福特瘦身，宣布停止在北美生产及销售轿车](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0FvQMuBTh8ir2sDgWILcIHZlI00X3NPUQECUWaccvQ9jhCPodZILUbS-5GxyD4TzX9SisbmcQfPQh3QZE9wbfvQ=)
+[又是一波福利！9大讲师联合出品的智能驾驶深度课程上线](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1rQUDa2-jpNdXkgL4Aj0A9j59um*QQ-K4dBw3mWdlVY6B1cDGxKghQcJqMxKc3Wz-A3wICCfMp-Lxey-uxoJl4s=)
 
-[抓住最后7天新课福利，9大讲师联合出品的智能驾驶深度课程上线](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0FvQMuBTh8ir2sDgWILcIHY-Wl4BbuRaXC1Cwm6CFW*QYEOy3aKDnKSJFyAKe6nUIJ87b1TKdfSqDfRkuSs4sK4=)
+[美团筹划用无人车进行外卖配送，力争2019年实现片区化运营](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1k-DMZ7P0Y0l7XxEpZ7wqHPZLeNcKZrE7xTBunnZZCieD8hAaSdwK1urRDKEo4xSKE2UH8CbacaktCY-91DWNXI=)
 
-[原创体验宝沃BX7TS、参观宝沃智能工厂后，我们重新认识了这家“德系血统”车企](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0GscfMkN0GQgtYzg*fJrs4e2JTHmsA7tvNRvM-mQOpb2qAN1m3iwovveqL21LZ9pZT0gIEEyDGVd0RYsJrg*wiA=)
+[原创镭神智能敲定B轮融资、并推出自动驾驶解决方案加速落地进程](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1k-DMZ7P0Y0l7XxEpZ7wqHO-Tgbdhr6K-PXEhOBPmutk4U9YkwNbTdb-WsGM62u-KthWgyPprcdCrQW*-B5xH*c=)
 
-[原创Velodyne宣布128线激光雷达国内开启预定，芯片化设计将在今年第三季度完成](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0GscfMkN0GQgtYzg*fJrs4dZa4wr8j*lG2qppXyEj*UIGlbGKoSgNowhE52etQxLmrTEu83s51XF1SsKEOYT0u8=)
+[原创福特瘦身，宣布停止在北美生产及销售轿车](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1k-DMZ7P0Y0l7XxEpZ7wqHP31N6FGANr*T*iSNfnp0p0w9WVcD7OV6tDZgVU1r4Vmk5wGRKY6QzyLXriG61hOGg=)
 
-[原创百度盼达之后，智行者牵手首汽Gofun，推动自动驾驶+共享汽车商业模式落地](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0GscfMkN0GQgtYzg*fJrs4f-r70gJ25PUzvjh-CCcbfbN0*DwZ-TlB6iDdd1M-jcMUzhyC4LZJPjlYbDDMJM75s=)
+[抓住最后7天新课福利，9大讲师联合出品的智能驾驶深度课程上线](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1k-DMZ7P0Y0l7XxEpZ7wqHPQ7OvOu2OcXqUoPWN3wPJuAm-raGCmJNAnPEK2GpW1lI9aXgJ2W9v9S-pLyPLEmec=)
 
-[原创苹果又申请自动驾驶专利，这次AR/VR都派上用场了](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0GscfMkN0GQgtYzg*fJrs4cFWJ0DADoO-NYKQjJWSCScmgqRX7-lceFw5py6gAMMH4hSe7kya4xLxP9jd4PJ7jA=)
+[原创体验宝沃BX7TS、参观宝沃智能工厂后，我们重新认识了这家“德系血统”车企](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1gwvNjy38rt4BI*ZJyCvSOxroB-qN3w0uaIyt18nZ2g4eFNOspVna3H*wK2l35FEEqMpkMKz2EVuG72-Zjv198k=)
 
-[抓住最后7天新课福利，9大讲师联合出品的智能驾驶深度课程上线](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0GscfMkN0GQgtYzg*fJrs4eysLaT-i*-etI8yshjQKjnmexy37X6nfcHUJRuqInjeLBXym*vIgTtcdQ4WdSIDw0=)
+[原创Velodyne宣布128线激光雷达国内开启预定，芯片化设计将在今年第三季度完成](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1gwvNjy38rt4BI*ZJyCvSOwNElAEOuilNEOfFwuk1QW5YFTtismzGHjZMR7XXZ2Sri*6jZEK1lvC4HsXGrrLzbU=)
 
-[原创2016年入局自动驾驶的易成，有什么独特的模式?](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0K7la2-f9-C-kcGk8k3Ot41ct31zd2ee1yxHn*gcN3g4PbRNp-jCSTNDOOj*uI0pJtWYW06P8aSgwnObfakh7-Y=)
+[原创百度盼达之后，智行者牵手首汽Gofun，推动自动驾驶+共享汽车商业模式落地](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1gwvNjy38rt4BI*ZJyCvSOzB2L5QhriH3f4ZnnW6AD*J6bcRDWrbxouh7fH5ntFFW3mc8WPmXtpc4P*2VUy6JU0=)
 
-[原创捷豹电动SUVI-Pace完成亚洲首秀并公布售价，它会是特斯拉的挑战者吗？\|北京车展2018](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0K7la2-f9-C-kcGk8k3Ot42C*qVxh24ZsG1aerEy9Jc3A8f8UxAkfTBRbrdTC3C2P0qbdKnV-YVCW8VzUeoxo6Q=)
+[原创苹果又申请自动驾驶专利，这次AR/VR都派上用场了](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1gwvNjy38rt4BI*ZJyCvSOxOykAwHfzPgWmExlqnLM6hDUk7KRXoO7gLUyEBnALEnXXY-iEMZbcD0f7gYvOqsf4=)
 
-[原创特斯拉Model3首次亮相中国，将在北上广3地巡展\|北京车展2018](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0K7la2-f9-C-kcGk8k3Ot407MWYZY-2abUbaYlQTVMLrCzPBxpbbB6fURVGj2W17wfZ*MeCS6Tn*khA8JQ6BrAU=)
+[抓住最后7天新课福利，9大讲师联合出品的智能驾驶深度课程上线](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1gwvNjy38rt4BI*ZJyCvSOy3R9j14C*dK7ketButg0C0zU2hv36CuhRBho-7Of1x5cKlKsvK34NYHFxPCGGlubs=)
 
-[原创何小鹏：本地化自动驾驶和贴近中国用户的车载互联功能是我们的优势\|GMIC2018](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0K7la2-f9-C-kcGk8k3Ot40kQFIyk2*bRCLSg*l5ykVlNEzxBKroKX14lNgG08GwtSmF0RopwdG1vE1se5D*gSc=)
+[原创2016年入局自动驾驶的易成，有什么独特的模式?](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1rOUOwcZHV8PYFXnlAFz1JP*8ZoToAf16z1WjvH2taFlJL7wLsxgZ87iAYiIhpmgEpRb3YtJhvB5VMfQDO7Ey7g=)
 
-[原创蔚来获北京自动驾驶车辆道路测试牌照，成为首批在北京获此资格的整车企业](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0K7la2-f9-C-kcGk8k3Ot422iHWZiC*eZ9mHcG8SYzt*cPZrHK5HzxQUZPVeHbqX-Kmacq552m2AHqST7p9fbso=)
+[原创捷豹电动SUVI-Pace完成亚洲首秀并公布售价，它会是特斯拉的挑战者吗？\|北京车展2018](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1rOUOwcZHV8PYFXnlAFz1JNX-KgW1brTHg7Ewjix4MktBulafKVBbN-YKdnIzuRF-JOgDQUr1Fl9BBey6XbIzZI=)
 
-[原创首发\|拿下宝马自动驾驶汽车订单，Innoviz还将在中国生产激光雷达](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0KDidRmEmDdWnu7i8N5kyHjg9rVtwAE5vRVErxlIdv9tldhMn*4a6*sbNj-TN5pMl7g2kRc9AWepGYTP6ZTWCd0=)
+[原创特斯拉Model3首次亮相中国，将在北上广3地巡展\|北京车展2018](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1rOUOwcZHV8PYFXnlAFz1JNZ*1o9c01GyWu382Ke0anDWyHBcta44AZkpy9UcVeiaTtYefRkEmxRJEcJO2SqL1o=)
 
-[原创特斯拉Autopilot领导层两年内第三次人事地震，传奇芯片设计师JimKeller转投英特尔](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0KDidRmEmDdWnu7i8N5kyHihyjdLzJuH-Q6qUFeK89cx0BnJEufFG*FMhHGmiNPfdDL55m84-d2W*v0Z9fupR6M=)
+[原创何小鹏：本地化自动驾驶和贴近中国用户的车载互联功能是我们的优势\|GMIC2018](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1rOUOwcZHV8PYFXnlAFz1JM0GRRKrayy88TLJcwPDPo6uJVGg8ObBUWd1nViA4WzskQs22zD322pEiRZcB1ZqtE=)
 
-[原创除了展出新一代日产聆风，日产又在中国推出了一款全新纯电车型\|北京车展2018](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0KDidRmEmDdWnu7i8N5kyHiaZ57Us88ZguZxTbbsMQSjyTuWB5gycIbj8kqdTqLtTw3Z7u0WXDifu2AImR0Ff54=)
+[原创蔚来获北京自动驾驶车辆道路测试牌照，成为首批在北京获此资格的整车企业](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1rOUOwcZHV8PYFXnlAFz1JP3D3SLpSsIqH-2I4IIpOeeAs61mZ8HQVElTiSvavjrGeZhKZuqSgmGqnI5wZs1DRo=)
 
-[比亚迪重磅发布秦Pro、全新一代唐以及E-SEED概念车\|北京车展2018](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0KDidRmEmDdWnu7i8N5kyHg-2FVWlZzVS2p5BA10Pg9dYp5kwjWOmixU*4cq1Inv838lRzYgDVdotQIngB30Wes=)
+[原创首发\|拿下宝马自动驾驶汽车订单，Innoviz还将在中国生产激光雷达](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1vWg7WcruejkvZNTkqadsaYIDJyBelfTV4G3bP7fZnWT*UPLd-maHK3zdmPiKR3cPwIVak4gfagd4o3ZuZxxg40=)
 
-[原创“斑马”真忙：联手东风雪铁龙推出首款合资互联网SUV后，下半年还有这些动作\|北京车展2018](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0F*CghfgQ-Ui0jEGt7qMBerfIfqzTYaD7PI4Yh-9s81kO2-26TWTwB0EwUpVjNa6LNEHw1-xLgBcTigUmIdrtCg=)
+[原创特斯拉Autopilot领导层两年内第三次人事地震，传奇芯片设计师JimKeller转投英特尔](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1vWg7WcruejkvZNTkqadsaYkuzA1V*yemxjtwGIEuR4ENMHjj1pcVkO9Mg6j3LIvWBRR8l0RcSr1DJAoNEMg1Uo=)
 
-[大众携全系品牌新车亮相北京车展，并首度公开了部分在华的出行布局\|北京车展2018](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0F*CghfgQ-Ui0jEGt7qMBep5kL9Sl3KJ1*PVg1BdGEhflKyw6OiW**mIwjVt0JXNaAQUf3i8Qbr2DrGYcVwTmJQ=)
+[原创除了展出新一代日产聆风，日产又在中国推出了一款全新纯电车型\|北京车展2018](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1vWg7WcruejkvZNTkqadsabZz7XcByFQucBg8Gw0ISyEZ36P5sqySkHLKzjieMLLaKuYoy6x1ZXqZ8KNpI5W5a0=)
 
-[北京车展前夜，滴滴柳青和5位汽车大佬这样预言了产业未来](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0F*CghfgQ-Ui0jEGt7qMBeq7trPlz5Q0xou6dvhUv5*IAA0W8Th2GIHDclIQG1y-RBHtK9biiye3XeM7FVzKa5o=)
-
-[原创30亿C轮融资完成，奇点汽车宣布与北汽新能源达成战略合作\|北京车展2018](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0F*CghfgQ-Ui0jEGt7qMBeoL7wzJlY5nKDxO51sq1Fc6rvn-RqveRZZkP-UsirA1-k-QqdIDWdDJjuoOfOPsJqY=)
-
-[除了在北京车展秀“无人车矩阵”，Velodyne还要送你车展门票\|福利](http://mp.weixin.qq.com/s?timestamp=1525419399&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*OVjT*IoiV77L6eXlHK06glIGAVGxJ4QlBB7qTPj9Fmqg9RyZelz3iVmCR66LW0U0F*CghfgQ-Ui0jEGt7qMBeofOHNXV9OAjTk6H95HE7yislM6G4Hkq2NSed5ruKAOUAnGPBu7cpuoOGRapM*TXJk=)
+[比亚迪重磅发布秦Pro、全新一代唐以及E-SEED概念车\|北京车展2018](http://mp.weixin.qq.com/s?timestamp=1525526021&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwuzrqrOmphwksifgAx8PedVs3qYxpX8X0OvHWNH6qX5ycCiegCwdKwa0q1oaFAuf1vWg7WcruejkvZNTkqadsaZX2YeU*UBXUyCQpEvZfMa5Cm2Ytgqeos9dllEQAJE3erY7kI9hNcqbCkBMqthrHRk=)
 
 ## ai科技评论 
  ---
-[UC伯克利ICLR论文：论如何教强化学习模型骑自行车去金门大桥？](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKomiO9qfPhMFICxPRNDYtsD0iaj5fJztSNmVENm-D8YGbH3ErRRPIW1ktLQVEkHJqYSqy5v14vJCOTAiB-0M0PA=)
+[原创五大顶尖研究院的116篇ICLR2018录用论文，七大趋势全解读](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiOwI8DfX*tzBSG6yDvYZ7XcOwc-5PqL0e-rYFxHGMN5xQ2yeurPm2joA1Rftb9iDXS0gAx5OCT00uVOLga0qPEA=)
 
-[开发\|新版PyTorch发布在即，融合Caffe2、ONNX](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKomiO9qfPhMFICxPRNDYtsBwszaPuDj3aiE4F4eCUcovmgpEGrPKpxDjdja9EeH5ocb-v*ooZANhXeoVLC1b5zc=)
+[原创学界\|哈工大人工智能研究院成立，四层次七方向引领AI发展](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiOwI8DfX*tzBSG6yDvYZ7Xd1hdDAeM22k6MFmhK09StW6tGAlzPSDKjOhGrzX53dWFTVaVIHCtVixZRsYG5eJpU=)
 
-[原创学界\|这2亿人民币或将奠定中国机器人理论基础](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKomiO9qfPhMFICxPRNDYtsCbXTZdlExfNp4LC559GRF1AvMR7Rqol9Z9oK5LT7RlAYgSQYvhPXwd8RThTeRxJmM=)
+[视频\|2分钟论文：论进化，计算可比生物厉害多了](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiOwI8DfX*tzBSG6yDvYZ7XfTHadThuSew5*IjN5VjBoBDO8dSZVNQkx9Cm3XQTJQfpnARWlTc5Qd9c*d7foZSvs=)
 
-[业界\|阿里全资收购先声互联，中科院声学所前研究员付强带队加盟](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKomiO9qfPhMFICxPRNDYtsDJH1OrAXTCYwtL*onKOWoU1ABARJYno1rQDaTwTaryTYuBvH4c728oBxmORpFjZfM=)
+[直播\|ICLR论文解读：如何利用变分自编码模型框架求解深度主题模型](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiOwI8DfX*tzBSG6yDvYZ7XdBZ5OL0lZohjD1qu*MwsvgGG0C0RKM7q4PDo6SAL0GXwU0Uvj5oMX0pPghaisHldA=)
 
-[AI领域的蝙蝠侠大战超人：LeCun与Manning如何看待神经网络中的结构设计](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKizXjmruujZosTnfBty8jt9jyyB7qjX1LTe3AXyELJ11eokVnjmfmh6-znMEAmdWgFjzYbyac7sXx8myILyQRxY=)
+[清华朱军团队包揽三项冠军，NIPS2017对抗样本攻防竞赛总结](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiIGkFzdmCrk01ZYFp-SU1A3k6wqnqah*-BTPEDsvtEMH0JoAC0PhwHX*LwfmGxJ2W4riYjH7shEAvoeZ*al46ho=)
 
-[动态\|前微软副院长李世鹏加入科大讯飞，任讯飞AI研究院联席院长](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKizXjmruujZosTnfBty8jt8UZzJ8ULIJomLolQ78VZh9skSjo4oTxK5x5ImCXT*xzj2JaimeurYuErxaJd1u5vY=)
+[学界\|发美照时打上「#」，还能帮Facebook提升图片识别率哟](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiIGkFzdmCrk01ZYFp-SU1A2lRYx16tkPvv-HHQ2KRlyAsYgzusU1-bsUMXZYbGTuv1E5EYJ4FIXHQrCiMqLSi*w=)
 
-[原创大会\|斯坦福ICLR2018录用论文：高效稀疏Winograd卷积神经网络](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKizXjmruujZosTnfBty8jt8WScJwNjFFDZjUEuasI730FtKGGljCaJeiUR8qLr6P56XDPcEONKvwmJeCjCs7XwI=)
+[原创观点\|中科院自动化所赫然：大规模人脸图像编辑理论、方法及应用](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiIGkFzdmCrk01ZYFp-SU1A00ioIAlVWFPdl-kVjFUyJUHJJ4MgiR6eYBlA1hNQ9GtcGlG85F2MA4OwcRaJik74c=)
 
-[福利\|AI硅谷技术峰会落户北京，多位硅谷技术大牛带来最干货的AI技术分享](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKizXjmruujZosTnfBty8jt-t5ztX32tiYDW1QPjmGvmw0v3my5xC7b1X-e8eDhdqkliZUN9dLLLcHxtfL7l2mOc=)
+[动态\|一文展示全球机器学习人才库，周志华张钹为国内领军代表](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiIGkFzdmCrk01ZYFp-SU1A3y3WeGnSxF11p-99usUlECk7XQ*ZHU5235w6yWAv4FeVKBszuv6fiHPp8pjmHXOvk=)
 
-[CMU教授MetinSitti：产学双栖的仿生机器人专家\|CCF-GAIR2018](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKuBrOyCjiBRq6b4EPZazgelAycygftPFQKw89oWIp1ERKvgsobPUYxRIhGhkfSNfUnNWkGNy40cq*MK9briUE44=)
+[UC伯克利ICLR论文：论如何教强化学习模型骑自行车去金门大桥？](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiPfCxe3Gn6-KTANPQ7kzOGVszvCQ*2JK4Icge3S45OhrcCJU6BbaONZPwgHEPQwbTHQHSkHUvVYAcJte6P7lEyc=)
 
-[原创大会\|ICLR2018开幕，参会2000人只有3.8%来自中国](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKuBrOyCjiBRq6b4EPZazgelLvYAabsMiLlXQdv-OXDEUeJlpuRQWn29pO-s7I9Qs5oh911qr10LQyj*3MYI6qug=)
+[开发\|新版PyTorch发布在即，融合Caffe2、ONNX](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiPfCxe3Gn6-KTANPQ7kzOGWNnVYtIkqNRKKXRERBurmxvUoEl6P6YDZqdIPu2cylKjq*XC*FeUiYa3pX*bMgLNw=)
 
-[原创干货\|杜克大学博士生温伟：云雾深度学习](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKuBrOyCjiBRq6b4EPZazgenCPwh9KU45YIeRdV0zmofMLRYa8TZGLJ2E98Jdfl9h22VI09h8ddz2PE-oJc7wnHM=)
+[原创学界\|这2亿人民币或将奠定中国机器人理论基础](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiPfCxe3Gn6-KTANPQ7kzOGVvZmQsSaMsfmXOLfq0rbRGrZp2ArnGZPUF3bi7LRaAEd4jPCMgDEvt9Q1xYd4m0w0=)
 
-[动态\|谷歌发布最大图像标注数据集，190万张图片开启公开图像挑战赛](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKuBrOyCjiBRq6b4EPZazgekaZ99nJ-ZRFxoAtTFGO-rStTJECwJ7sFzXtN7WjYOXcMA4zY5Io1aPI1VJ6AuzV5M=)
+[业界\|阿里全资收购先声互联，中科院声学所前研究员付强带队加盟](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiPfCxe3Gn6-KTANPQ7kzOGUG4qjN-6hTaSWOu5A3YugfawprTJs2Oig7mOpW0*z7E87OLEd-8d-rsux5RyCW1b8=)
 
-[「元学习」解析：学习如何梯度下降与学习新的算法](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKjGTfHsFN*VK9c69outDIQHbsxH5Toltmjju7c9SgGFIbbcWmdt8F922x3ouTtb0xLbfHz0VDiGNm7OVnkKb*-s=)
+[AI领域的蝙蝠侠大战超人：LeCun与Manning如何看待神经网络中的结构设计](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiF1JUQgh9FkV6m*25JBCq1BGVLZyxetBXYmdOU814RFoy7oQiEjChOAdyaYN0YkHO7cX7RR6GSGFQXS91uNzL3k=)
 
-[学界\|UCSB新作：「看图讲故事」中，现行的评价体系会失效](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKjGTfHsFN*VK9c69outDIQEtejNqEEd7dqEmy7StWADjLPMU54ssPvFvHkIw-2Hjv5Fo7-YBOyLTS5PMtnBW8B4=)
+[动态\|前微软副院长李世鹏加入科大讯飞，任讯飞AI研究院联席院长](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiF1JUQgh9FkV6m*25JBCq1BUeVvzg0aVXCRAWvNl9eo2yPqdkkR6k5LkOIrUuHxEcDxAdWwNULJSEzguTGabuCU=)
 
-[独家\|阿里搜索事业部产品负责人深入解析：技术如何驱动商业腾飞？](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKjGTfHsFN*VK9c69outDIQESX8656xi29afrB1EKKIynGQJmDPNOdj8oiG-Ggf5*Y3cKt9mN-msa-FhYqrK*m3c=)
+[原创大会\|斯坦福ICLR2018录用论文：高效稀疏Winograd卷积神经网络](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiF1JUQgh9FkV6m*25JBCq1BUJSFBrkWDVzLXKGfG4fUAtnrb1IL-0yFObqMT0m2DUBJZoomd8jK-XtFzm0vLgYA=)
 
-[原创张钹、朱军团队最新论文：深度隐式模型+概率图模型=Graphical-GAN](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKnRQcyNBcBV7Y9xO2ulac-vyYxHPqnIgACnRGndKjq1GmQMGuu14UmX7mTGLtLRXUuDRhbxVi4K0Hg8LJpj-PAw=)
+[福利\|AI硅谷技术峰会落户北京，多位硅谷技术大牛带来最干货的AI技术分享](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiF1JUQgh9FkV6m*25JBCq1COTV-tPmU6tjMHKL*qfxmzmtgnvz0274IigTweeyb3y8d0t3x9rDxc-letjgW9g3A=)
 
-[动态\|Nature机器学习子刊封闭式访问遭JeffDean等大牛联合抵制](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKnRQcyNBcBV7Y9xO2ulac-sI7-uDMYUKqrgOWKjwJtMFPxk5ojlI2LpHZm3r9UCe*nVA0qAId0*dwk7c4pMYRjY=)
+[CMU教授MetinSitti：产学双栖的仿生机器人专家\|CCF-GAIR2018](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiEwAanrU756qKiI5YP-BQKwzhfiqiKNVpkz88OWn3X*SkpCZssGgTwECMwmO1sI0iow7MknSl1xdj5KNLIc8f8w=)
 
-[招募\|​清华大学微电子与纳电子学系全国优秀大学生夏令营招募中](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKnRQcyNBcBV7Y9xO2ulac-si6fgu14qIlERuRGAGSkWama7XspqD4VQZFUNfjyWR3Bcg7x8UA1MUa0n3xdY8WIg=)
+[原创大会\|ICLR2018开幕，参会2000人只有3.8%来自中国](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiEwAanrU756qKiI5YP-BQKzekmKli8ubb2hQ*K9mWVc6btlp0u8LQy5Xgv6jzYON3L*JzWLgG3Kq0jqb8CVBEX4=)
 
-[原创港科大刘明：深度学习为机器人研究注入新能量，产业需求是新发展的源动力](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKq04cfonG9l93nFpM6rI-VAM1PwXWtlYhNgc96YhudqIdFaq8aX85e*yV5aUYRa7NHrfDR1HAXhwwS7QAGacVA8=)
+[原创干货\|杜克大学博士生温伟：云雾深度学习](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiEwAanrU756qKiI5YP-BQKwkbF1PgPTKgt-B1TrMp-3B5qYvHAFZ77-PhFVpThJsJqJOOFwqRmWoNU*73PtOfKQ=)
 
-[观点\|从CVPR'18谈谈华人研究者的Leadership](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKq04cfonG9l93nFpM6rI-VCponcnwqFEood04Lor05uuYOXCV6gTrCbEuDUASp-8yuUxFLo-vkJzlLNC5sOtgeI=)
+[动态\|谷歌发布最大图像标注数据集，190万张图片开启公开图像挑战赛](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiEwAanrU756qKiI5YP-BQKzkSjT-10Jv3NR0T-wCU9dgHxwirkrRvFtfO-0PbGp*LYkCFtB7hpFupVXnqP0QPtE=)
 
-[视频\|2分钟论文：谷歌新论文发现对抗样本也会骗人](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKq04cfonG9l93nFpM6rI-VBq1KwWZO9RJIGJDWV5DUJ3hHlyD5H69OGJi5rB0-yTqX3RwYql*PdamrgPJtBASto=)
+[「元学习」解析：学习如何梯度下降与学习新的算法](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiOyujvSTk2laxmuisCEMUJP8AlgD9dSi4s79Xeo9UIGtLhuAOw0l*GnkfE190qohWLEtGjAiWoSW2bbVpHyxIJU=)
 
-[原创谷歌大脑的全球之旅：日本东京达成](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKv956NjhHrEQEm2ykKze1VgzvhYcqVQh55r9at79l9WUyxv6ISj-vwlMfcorKqSLtE0XyGp15JVQJmSXhrUSuGg=)
+[学界\|UCSB新作：「看图讲故事」中，现行的评价体系会失效](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiOyujvSTk2laxmuisCEMUJNcfMlymNNoJdX4I2-MZB44QaPeDgkkhW1RgIeTaXHYtaFFrl7DeMZw62kXac7FSS4=)
 
-[学界\|NLP解决方案是如何被深度学习改写的？](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKv956NjhHrEQEm2ykKze1ViUYJJlOTSRsrGewQeiFQbNpAlq0xw32XhR5khgyKnx19LqMsW5kKU1oibx9x84CA0=)
+[独家\|阿里搜索事业部产品负责人深入解析：技术如何驱动商业腾飞？](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiOyujvSTk2laxmuisCEMUJNkd84Gb8pL39BWchcLnJLyPWlzot*WjtZAGo8lE*WxJkwCwFWK*kwVdpWIv8owFHA=)
 
-[干货\|北航博士生黄雷：标准化技术在训练深度神经网络中的应用](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKv956NjhHrEQEm2ykKze1VjjrTl1owtFLCov1ub6IqqJxt5R1rs9FRYuvM3Cll5XRDeMGIn*H6TBdEdZWBr62KA=)
+[原创张钹、朱军团队最新论文：深度隐式模型+概率图模型=Graphical-GAN](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiD1HYbB*O9iVrtjXZ24H*lC48ncMIHgXyhowX5dfky3GkWBwSHAkmdmrjeUIaQq*tm0FD*2K4CO8VJ6NdwWVGgs=)
 
-[从数据竞赛到专业第三方数据平台，科赛是如何高效提升「数据工作者」价值的？](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKv956NjhHrEQEm2ykKze1Vi-4wKiZqY36ytqcARfzCzRYWk5wflXXPumcwzfz41OxLQBhSX*mZxPZMMbCsMV1AA=)
+[动态\|Nature机器学习子刊封闭式访问遭JeffDean等大牛联合抵制](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiD1HYbB*O9iVrtjXZ24H*lBNl3Ee1M0hDrmfwNS9CzcZmbxOLMUNRsE5nH0hjeF5IfVzp4loHgWpxUKAP0qMPw4=)
 
-[原创YannLeCun演讲图文:如何让AI学习常识，AI未来趋势又在何方\|GMIC2018](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKgRs05pObjbdk1agzBltDuzQ-*AnnTwZgXpZJCJisJfo688xA8*XzSQhQwaAo3T2AscuMZX*1bfvMK0O-pSI7wY=)
+[招募\|​清华大学微电子与纳电子学系全国优秀大学生夏令营招募中](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiD1HYbB*O9iVrtjXZ24H*lDb6dlrSlvUm6jh-SDRsgBzxUQSh2Ec1epmTisCtwG2lkVE5baLrq5bAr-0SP-zh2M=)
 
-[观点\|LeCun、Jordan、李开复圆桌全文：AI的现状与未来](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKgRs05pObjbdk1agzBltDuzA3HEJgZQiwA7OxCSbcddQrmX41FFIPABD8ecML8jevxsAwmLYubNkRHoM-*v4Q5k=)
+[原创港科大刘明：深度学习为机器人研究注入新能量，产业需求是新发展的源动力](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiMl4cB-015rHdCrJPfsO0tDdnXJBwoihVL8-bzk*h7S3PksFkq1Y6*v1E9k8W4efBIQ6UotFH*2d83uOzeCJeqA=)
 
-[大会\|思必驰-上海交大实验室14篇ICASSP2018入选论文解读](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKgRs05pObjbdk1agzBltDuy8MqCxint-9frOpfIuqiMTmeaV3mXkZsL89KVxU1LNqhgf8CLE5palZTMOUubDJBk=)
+[观点\|从CVPR'18谈谈华人研究者的Leadership](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiMl4cB-015rHdCrJPfsO0tA3-Avc-4MCxjFO6ELWnghWbGUg7VO9G7OLzkTiz19gJhVQCSdS3rJ-AFaJkORPeo0=)
 
-[学界\|山世光等四位学者带来生物特征识别精彩报告](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKgRs05pObjbdk1agzBltDuw*EQRfQO287trLlqB-Pc96oqCrTPZ5Ox0YpJlJfNG5Dv2Jq57om49CboP6r9nUZK0=)
+[视频\|2分钟论文：谷歌新论文发现对抗样本也会骗人](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiMl4cB-015rHdCrJPfsO0tDK6WMmuepysM-*1B5mJZcE8YOjbnfzqfB8Cv9hBzsY1us0XJgYO0T9CeOh2aYByu4=)
 
-[动态\|吴恩达开了微信公众号，更新中文课程和资源](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKgRs05pObjbdk1agzBltDuwoCkrydUqwzMfV2l46qVK81GqNwh2zyMrIgScVFSc2ffEHscLNSYS5cS3HvwKiIMo=)
+[原创谷歌大脑的全球之旅：日本东京达成](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiNf9ztWQs9xSy8XDfgiKVH35EwzssUM6LC7XSWeJDOr2*44SqEoSkqXgptNsO5XNaY7pIUmrsAI2qkveOaRuUhw=)
 
-[防止顶尖人才外流美国，欧洲各国已「抱团」组建AI研究中心](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKo9V7SLF6Ly7ngEPtvF*YTsllz-Ut6VEBAcu2pSp2Eng-6GeGhq02*fWHiwhO-IAwgDEEnMjvWuGeh8fM2k4d*Q=)
+[学界\|NLP解决方案是如何被深度学习改写的？](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiNf9ztWQs9xSy8XDfgiKVH0fkNZwL2Lq5hUk2HgxfuSwbRb41tsqWcFdFb4buu9uGE6kEAS7-0cZjQapfgI4L1o=)
 
-[开发\|PyTorch重大更新，0.4.0版本支持Windows系统](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKo9V7SLF6Ly7ngEPtvF*YTstUmCvxwpr*An*09Qk*tvCIG5f0gidAc4NjxwcXO8DD2F8FBGOnugA1yTyitbLZxE=)
+[干货\|北航博士生黄雷：标准化技术在训练深度神经网络中的应用](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiNf9ztWQs9xSy8XDfgiKVH1h8MA7ZzIKKmDUgSVerXjL702Ybu7zwKl-x2ks6SgIEMjbrOlGTnEGZz5*AMGe3Pg=)
 
-[原创学界\|旷视、中科院在生物特征识别领域都有哪些研究成果？](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKo9V7SLF6Ly7ngEPtvF*YTtYfPHQLGV8cQjpQYpkOoNCrA5p4UHNfMPuhhbgVwmjNWlmCAGw2oVgXvRvJnzACGI=)
+[从数据竞赛到专业第三方数据平台，科赛是如何高效提升「数据工作者」价值的？](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiNf9ztWQs9xSy8XDfgiKVH2oM5H*aYf7aCUD7a1JLDmk7iza2w2J9y9DGA--LVwlRCSTfQbTNDhEGRdJbQBAmNU=)
 
-[大会\|清华对话式人工智能课题组六篇长文被ACL、IJCAI-ECAI录用](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKo9V7SLF6Ly7ngEPtvF*YTsnObFIuN8eQPiyFeONd2-8mKRb6l*ug4yQqoC2Q548lN4uaWoHZUVUtTc8wxVLk7A=)
+[原创YannLeCun演讲图文:如何让AI学习常识，AI未来趋势又在何方\|GMIC2018](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiG*ReDzTqqVa6ccpjzPd-dmEETryFpeqVuzLR12aKdVeMwgLSkiALJxQjZWlIwFY*7qziTni7U*e2lDdAHUVCos=)
 
-[原创Hinton新作「在线蒸馏」，提升深度学习分布式训练表现的利器](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKoe1wEL0yRKEd7FkzPoN0qZJenzYfpIhJYHSUgsWaqfo5t8pPxHiKvN7E1J7oAba9MGg2L16JN1URuo5q0pHPCo=)
+[观点\|LeCun、Jordan、李开复圆桌全文：AI的现状与未来](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiG*ReDzTqqVa6ccpjzPd-dl0SWRZxU4p08P*b-cAo8XEITbfvcEAmSdFv9uuRUeVXRHgwabgkEWTbqIz0FmsNJw=)
 
-[原创干货\|港科大博士生侯璐：基于损失函数的神经网络量化方法](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKoe1wEL0yRKEd7FkzPoN0qZSlU-Yj*grUXvFel8oR1CGX7Y2eLNtUBIepZFpMyE-eCzErmWHndNY6N9myys6YGI=)
+[大会\|思必驰-上海交大实验室14篇ICASSP2018入选论文解读](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiG*ReDzTqqVa6ccpjzPd-dkPDst90NIfUBsVMFdGoqLiad*ArequFlobXtktjB195f6cudgRDhFth0guSMTOstc=)
 
-[大会\|优必选悉尼AI研究院AAAI2018顶会论文一览](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKoe1wEL0yRKEd7FkzPoN0qZEx70wdz8b3jDJJjfMNU651DmZvkEb*MikWrwqO8IYFHPaYaw92ivkUG4dAIrgz0E=)
+[学界\|山世光等四位学者带来生物特征识别精彩报告](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiG*ReDzTqqVa6ccpjzPd-dkq27kGGdq9*0d5GKNFFgJkNr5C6SBlg-6Tg0T--ZLYda0Egs4ExRqdREPm0FviNl4=)
 
-[累计设计10亿次海报，阿里AI设计师「鲁班」核心技术详解](http://mp.weixin.qq.com/s?timestamp=1525419403&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*EybEdVgiw5eOPvalQt3Hxu36B16Wr1NunQFClu5XDuMbNIEVktwPOuBXnMx8a6GKoe1wEL0yRKEd7FkzPoN0qYpV*7h69nG7dNQI*mf4*ynVO9GIXhMrWBzNflxlRgAwTPXjTtuk7HuwLXZOcdVeL8=)
+[动态\|吴恩达开了微信公众号，更新中文课程和资源](http://mp.weixin.qq.com/s?timestamp=1525526025&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgBtD-8*gFk9SY6qUGx*ScaHaNhQjv5bKCY3Ab8rBq77yzmfS9XqzCJBtSOo1uZJiG*ReDzTqqVa6ccpjzPd-dkI5aGj4Wel8iJZXOpsH4lVaOxrgZJe1fgiY7qm4*AKYGXzqyNVazMSCFXu0TsBC3w=)
 
 ## 谷歌开发者 
  ---
-[原创在Google，我们是这样做产品原型的\|上篇](http://mp.weixin.qq.com/s?timestamp=1525419407&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BVThri3v*3ZlvdJwC58fRT5KF2RgTbnpRPlQm7ApJz8nQKCoclsOXyuBoLe2iqsV2sas5bKlfAGfILVqYmmmoRi3e3hq4H7MzmgC2owiWmdN2O9KL0WtPirupGixDwDRjOkUhgqtuNCWqMd7JfJOSM=)
+[原创在Google，我们是这样做产品原型的\|上篇](http://mp.weixin.qq.com/s?timestamp=1525526031&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwpGjC6ni8kmWgssMkbZ1tPqPn-0UODXxoLL4SpDUXivcs445fsHTbUUT1Fty0MjfBYgHLZ1RuTr5NBc0Z2Llw5qyAanL8-ZMb5yvgmTm2QV4KcBOUv9C6c-ELV7AgWOzXa8mVvxCAkJFOJpzs7jacpc=)
 
-[原创为了那份热爱，为了那个梦想，一直不断坚持的人不只是你一个](http://mp.weixin.qq.com/s?timestamp=1525419407&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BVThri3v*3ZlvdJwC58fRT5KF2RgTbnpRPlQm7ApJz8nQKCoclsOXyuBoLe2iqsV7MdNINRpp-NqA1MEfuiAyIjN9*Aoquf6O8CZeDN1sSoaSMq5k9heZhyIezDIFkQBdBguPPTI1affnhand*GqMc=)
+[原创为了那份热爱，为了那个梦想，一直不断坚持的人不只是你一个](http://mp.weixin.qq.com/s?timestamp=1525526031&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwpGjC6ni8kmWgssMkbZ1tPqPn-0UODXxoLL4SpDUXivcs445fsHTbUUT1Fty0MjfBVswwaBmllrrAGzoawGhcZO1OwfMCudVk19L1sRs-EauSnnLSJ6--gukbVjZPrbdJVLBvbCcVZqa7eVMTJjuFRQ=)
 
-[原创用户获取要不要花钱？花多少钱划算？一个简单的工具帮您轻松做决策](http://mp.weixin.qq.com/s?timestamp=1525419407&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BVThri3v*3ZlvdJwC58fRT5KF2RgTbnpRPlQm7ApJz8nQKCoclsOXyuBoLe2iqsV2s9tpG5zmxATn5cvYIY*JBF4cUhvqCPuRn2daN4VAZEUHgQ*8VlyCgiKFcmERJVOXtPxsQv2pq1tuJlcR4Z5WM=)
+[原创用户获取要不要花钱？花多少钱划算？一个简单的工具帮您轻松做决策](http://mp.weixin.qq.com/s?timestamp=1525526031&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwpGjC6ni8kmWgssMkbZ1tPqPn-0UODXxoLL4SpDUXivcs445fsHTbUUT1Fty0MjfBd2gPxDzFQdMMXtpmO0FDgnpDgvRA1mlOiptmK2K97xgq0xfLm9vIniDiRXw8KD7v8IE2E6zJTnwtbU1tp-chJs=)
 
-[原创最新政策解析\|GooglePlay线上培训营·五月](http://mp.weixin.qq.com/s?timestamp=1525419407&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BVThri3v*3ZlvdJwC58fRT5KF2RgTbnpRPlQm7ApJz8nQKCoclsOXyuBoLe2iqsV2s9tpG5zmxATn5cvYIY*JAaDTO5vQutTPx9qv22P-mV2*aM7618AU84khVbwH*xUjKFhUY5no3q9E59Mrklc4Q=)
+[原创最新政策解析\|GooglePlay线上培训营·五月](http://mp.weixin.qq.com/s?timestamp=1525526031&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwpGjC6ni8kmWgssMkbZ1tPqPn-0UODXxoLL4SpDUXivcs445fsHTbUUT1Fty0MjfBd2gPxDzFQdMMXtpmO0FDgmJnlMKW-NAauzislhQRuXalNanMpaNxtGXiiyg4hE1JSvfKSa-JxgH9u2bERlLryg=)
 
-[原创瞩目！2018GooglePlayAwards提名名单揭晓](http://mp.weixin.qq.com/s?timestamp=1525419407&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BVThri3v*3ZlvdJwC58fRT5KF2RgTbnpRPlQm7ApJz8nQKCoclsOXyuBoLe2iqsV*jmgrSbY2Z4HVQUwTiAN3mV2LwCJwwQfZStMz97meLsryBGqbgnz1*Zpgwf2rG870soFy0LzB1J4sT*KNW0fDc=)
+[原创瞩目！2018GooglePlayAwards提名名单揭晓](http://mp.weixin.qq.com/s?timestamp=1525526031&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwpGjC6ni8kmWgssMkbZ1tPqPn-0UODXxoLL4SpDUXivcs445fsHTbUUT1Fty0MjfBblI679pjks6mMOHfga84yyVR04*rEDKAkG92rqzPSeiCkvUXvn3YMNMs8LSvUPL3pfAatUGQvfaad993aM*wY0=)
 
-[原创带您了解PAX：Android网络交叉许可协议](http://mp.weixin.qq.com/s?timestamp=1525419407&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BVThri3v*3ZlvdJwC58fRT5KF2RgTbnpRPlQm7ApJz8nQKCoclsOXyuBoLe2iqsVybdTKWUzHiQMUX21FWaQdcb1vqF1-xlmqPkFbr96wj2-vb2LjlzsemkpiNAiehrLHWktw3b9cY70pX59ECpyDw=)
+[原创带您了解PAX：Android网络交叉许可协议](http://mp.weixin.qq.com/s?timestamp=1525526031&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwpGjC6ni8kmWgssMkbZ1tPqPn-0UODXxoLL4SpDUXivcs445fsHTbUUT1Fty0MjfBanDEI94FyYwqrks4Qlm6rWwxDa8hE7qh07g*Ryj33rGbI2ssqGP3atifwc9JiCSTWTaoMtRY1FSkvQeFUFibDY=)
 
-[原创AndroidP应用兼容常见错误及建议](http://mp.weixin.qq.com/s?timestamp=1525419407&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BVThri3v*3ZlvdJwC58fRT5KF2RgTbnpRPlQm7ApJz8nQKCoclsOXyuBoLe2iqsV6axcx0btMGF3WYNR8zJGVZUM3pT9rnOyDdAJ3p7QSuMTXge3vD4BtGQca5k1rAONu6qRbbvulKNVBWWDNLP4QE=)
+[原创AndroidP应用兼容常见错误及建议](http://mp.weixin.qq.com/s?timestamp=1525526031&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwpGjC6ni8kmWgssMkbZ1tPqPn-0UODXxoLL4SpDUXivcs445fsHTbUUT1Fty0MjfBesiGTEIyzPdeMp6iuZyPCOMyOwpxxGjxeuKay6mrUjqByxv02JLcL0UsANoes7-1PVqsBMMTCxiQ-DUySwl8qA=)
 
-[2018中美青年创客大赛等你来参加！](http://mp.weixin.qq.com/s?timestamp=1525419407&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BVThri3v*3ZlvdJwC58fRT5KF2RgTbnpRPlQm7ApJz8nQKCoclsOXyuBoLe2iqsV9kaT7I2WOIRqBXj2CJukWdRyYYVurJiaEXFmCBg5kohbXrDOkuLj9s3hIacoIUHQhuECU5F0yFraH9fBUPaLZw=)
+[2018中美青年创客大赛等你来参加！](http://mp.weixin.qq.com/s?timestamp=1525526031&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwpGjC6ni8kmWgssMkbZ1tPqPn-0UODXxoLL4SpDUXivcs445fsHTbUUT1Fty0MjfBUVL0Uz2SieFYR6y8xVbZFXSLngYT2QUvsiUOFWMXr1COs3*b1U6u2TonzJb24noJisjK0gIVXlomIzuIZzILak=)
 
-[开发者出海？这些市场洞察你不可不看【成熟市场篇】](http://mp.weixin.qq.com/s?timestamp=1525419407&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BVThri3v*3ZlvdJwC58fRT5KF2RgTbnpRPlQm7ApJz8nQKCoclsOXyuBoLe2iqsV9kaT7I2WOIRqBXj2CJukWd9rmR4u6TRkdTC0rpWNjfqKZo2Zd0lgFO9-fTGYH2leinttyG1grHMY-rXP8o3HnY=)
+[开发者出海？这些市场洞察你不可不看【成熟市场篇】](http://mp.weixin.qq.com/s?timestamp=1525526031&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwpGjC6ni8kmWgssMkbZ1tPqPn-0UODXxoLL4SpDUXivcs445fsHTbUUT1Fty0MjfBUVL0Uz2SieFYR6y8xVbZFVkaK94ICvZTRai1cXfxacjnwXW1GWphAjzGc-yav6mZfaosVEg2FqfYqHPAemCaIk=)
 
-[开发者出海？全球市场经理最精华点拨都在这里了【新兴市场篇】](http://mp.weixin.qq.com/s?timestamp=1525419407&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BVThri3v*3ZlvdJwC58fRT5KF2RgTbnpRPlQm7ApJz8nQKCoclsOXyuBoLe2iqsV1cVIWrOvyediCe2CrEEqq0-Mr6KM93lSARtsz7bdaOTp9OmJJRIInGUk9TyOjFcYXdcLUQnknzUIGgyBGv2W2M=)
+[开发者出海？全球市场经理最精华点拨都在这里了【新兴市场篇】](http://mp.weixin.qq.com/s?timestamp=1525526031&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwpGjC6ni8kmWgssMkbZ1tPqPn-0UODXxoLL4SpDUXivcs445fsHTbUUT1Fty0MjfBUltfvCeTPb5EsCjfJ0ooDXr8k2DsHH8zn4dVp-W-UpW8RBeR-kQyJXjqrvmhpxMtXwoPdkCzaA*dPFsMmcic6k=)
 
-[有道云笔记是如何使用TensorFlowLite的？](http://mp.weixin.qq.com/s?timestamp=1525419407&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BVThri3v*3ZlvdJwC58fRT5KF2RgTbnpRPlQm7ApJz8nQKCoclsOXyuBoLe2iqsV34nBapvHbgGk4J-RPJpYckOREHGBg1H3Dz-dFt*e*mCvvoSRkUdB9Em**6kDzqlOGGMo40LDUeK6e6uwmn7410=)
+[有道云笔记是如何使用TensorFlowLite的？](http://mp.weixin.qq.com/s?timestamp=1525526031&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwpGjC6ni8kmWgssMkbZ1tPqPn-0UODXxoLL4SpDUXivcs445fsHTbUUT1Fty0MjfBSqFYV5NQNtSc63ju7E2Dr*2rFv99E1-efNdyPk7wHd4mJ-TQdVo*8gqIOlv6cMzRhz4jJDYWNInjW8eIsNj-ok=)
 
-[原创使用情景转变API识别用户行为变化](http://mp.weixin.qq.com/s?timestamp=1525419407&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*BVThri3v*3ZlvdJwC58fRT5KF2RgTbnpRPlQm7ApJz8nQKCoclsOXyuBoLe2iqsV2qRkM0FqQ5ETzISvJ7GiN9LWOJhOphR4EuivvNvMjAV9VrwZn6NOvJtyCygncUJhcQfwLz5g*d3NnVfIUiD5Do=)
+[原创使用情景转变API识别用户行为变化](http://mp.weixin.qq.com/s?timestamp=1525526031&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwpGjC6ni8kmWgssMkbZ1tPqPn-0UODXxoLL4SpDUXivcs445fsHTbUUT1Fty0MjfBaoKLVoHToTEEPbFNskWn59aZjUv1Hk3UzLGU7v*9kQfnfhv2K4EKWDzaQY5FCtPEMDGEYe8IPDzS*GaIWI-394=)
 
 ## python开发者 
  ---
-[Flask1.0终于发布，放弃支持Python2.6和Python3.3](http://mp.weixin.qq.com/s?timestamp=1525419412&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*K0e*Qahh2Qr36yDzqi36oIR6kbqEsNveB0OggnEtUjUSYTeOGJqu3NP7iI52jU7ur*MoLPaBBENIIn2CLVnpMX5B3q8i*aklFquBuUniij3olWDFBYpAgXcTtouQk0K*h3JeSK9k0odZpaUtDv7V1M=)
+[Tensorflow载入数据的三种方式](http://mp.weixin.qq.com/s?timestamp=1525526036&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgbAZjR0XYSE8vV-N1tkPNkNuSICMF2YHLuat3c-fuKAp4B30bA5QTikFsBhnkSzNw*n3RXRkDHrHdTVbXnEzJG9Np4PQ0GVe3DUFWQez839FWe6OTR2bovP-yHhjw4xpVyS87qFKVlOv5KfjNhpeXo=)
 
-[一行代码蒸发了¥6,447,277,680人民币！](http://mp.weixin.qq.com/s?timestamp=1525419412&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*K0e*Qahh2Qr36yDzqi36oIR6kbqEsNveB0OggnEtUjUSYTeOGJqu3NP7iI52jU7uj3twjD5lfO9ZjWaj0LjI*6tevpgfRqY*pF*mYiBi4TcX9*fzU0S2Q28853CxIgTYI38bVO4dNjYMpHQwbz5KiQ=)
+[原创放弃支持Python2.x，已经有这些了](http://mp.weixin.qq.com/s?timestamp=1525526036&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgbAZjR0XYSE8vV-N1tkPNkNuSICMF2YHLuat3c-fuKAp4B30bA5QTikFsBhnkSzNyPSKLyYjvEUVsb302wqxNRuTIt3Z5ZlnxCfBT5gooOaU8Al7aiuCe*p7tAtm5IuCP25OI4938qXijcG62C9u6w=)
 
-[PyTorch0.4.0大更新，正式支持Windows平台](http://mp.weixin.qq.com/s?timestamp=1525419412&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*K0e*Qahh2Qr36yDzqi36oIR6kbqEsNveB0OggnEtUjUSYTeOGJqu3NP7iI52jU7um6vMFsqF3eoaDiexFkrdoP6nxEHStr92o4tkhYl*7H6lvNuri1kLZRie12e4hMgBZ9EjBXbACc7tMlIgBrRj3Y=)
+[Flask1.0终于发布，放弃支持Python2.6和Python3.3](http://mp.weixin.qq.com/s?timestamp=1525526036&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgbAZjR0XYSE8vV-N1tkPNkNuSICMF2YHLuat3c-fuKAp4B30bA5QTikFsBhnkSzN*HmMukRzMdPVOHBHT9rVvJxICI-x2IPu1pNKOrVafz3U2D5yKAzvAW5C1L1iEZI*5DpJxh4i0tpj0AmipTZCDw=)
 
-[一个月入门Python爬虫，快速获取大规模数据](http://mp.weixin.qq.com/s?timestamp=1525419412&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*K0e*Qahh2Qr36yDzqi36oIR6kbqEsNveB0OggnEtUjUSYTeOGJqu3NP7iI52jU7uonF3JpK4NTxo3GaKjglcvKAwlXyBVa-7zQGjo6T1oBvj-Oij0oPlkKf7tRGck8gqTKTFdTotwQsng1gPjXtZSM=)
+[一行代码蒸发了¥6,447,277,680人民币！](http://mp.weixin.qq.com/s?timestamp=1525526036&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgbAZjR0XYSE8vV-N1tkPNkNuSICMF2YHLuat3c-fuKAp4B30bA5QTikFsBhnkSzN5q89nXeQQBaaLGLaOrphQZq2Jy8xHlghEkEHxajw5WE2df496fWBSo5BGof7wj6ljPUPv*Qy5lUAqa4179CIVw=)
 
-[各种Python实现的简单介绍与比较](http://mp.weixin.qq.com/s?timestamp=1525419412&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*K0e*Qahh2Qr36yDzqi36oIR6kbqEsNveB0OggnEtUjUSYTeOGJqu3NP7iI52jU7uonF3JpK4NTxo3GaKjglcvIG3SL73kQzgtZaP5VQI7uwkywcbIcr0Xl5GPevc69rrBWx-BmtyIdMCXS7p4vNfwM=)
+[PyTorch0.4.0大更新，正式支持Windows平台](http://mp.weixin.qq.com/s?timestamp=1525526036&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgbAZjR0XYSE8vV-N1tkPNkNuSICMF2YHLuat3c-fuKAp4B30bA5QTikFsBhnkSzN85FVJ98ePktIrUdwYM*qRNax935j0AVP6FcumA-*9ceRXEM6bZ3OF06KGWBt*ZoMiqTkaQy2ZNvooCmW-6KDNA=)
 
-[趣图：用Python重构PHP代码](http://mp.weixin.qq.com/s?timestamp=1525419412&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*K0e*Qahh2Qr36yDzqi36oIR6kbqEsNveB0OggnEtUjUSYTeOGJqu3NP7iI52jU7uonF3JpK4NTxo3GaKjglcvK8tUlerA1mW0ZNNXpRyqggZbtWA7d*qJv7yZLTNCKjudIbN9vkBmPuKV1yKNZQMC0=)
+[一个月入门Python爬虫，快速获取大规模数据](http://mp.weixin.qq.com/s?timestamp=1525526036&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgbAZjR0XYSE8vV-N1tkPNkNuSICMF2YHLuat3c-fuKAp4B30bA5QTikFsBhnkSzN3i8wEZywkmFvcnmLrT5hIpUC9SI1gLecyXNCqI6e6oKN53iNRCYN1qIMe7rnOhegs2mePvuKfidCrXavtiattE=)
 
-[想转行人工智能？机会来了！](http://mp.weixin.qq.com/s?timestamp=1525419412&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*K0e*Qahh2Qr36yDzqi36oIR6kbqEsNveB0OggnEtUjUSYTeOGJqu3NP7iI52jU7unGPAvq5ptc8YkBs8Roy8vjSEKTJoqHD0ktNH4ET8eVRqH1aHmKIU*wYip1S72Uw8YryVUZmVYkFJrL0C7zJOiI=)
+[各种Python实现的简单介绍与比较](http://mp.weixin.qq.com/s?timestamp=1525526036&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgbAZjR0XYSE8vV-N1tkPNkNuSICMF2YHLuat3c-fuKAp4B30bA5QTikFsBhnkSzN3i8wEZywkmFvcnmLrT5hIpBxgKsKEKK7qYMV6S4dFrIzDMXiuIvEAEM8y27cENNm9XlDm6d9WNBToUiipzIESk=)
 
-[Python人气王，JS比Java更受公司青睐\|四月综合榜](http://mp.weixin.qq.com/s?timestamp=1525419412&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*K0e*Qahh2Qr36yDzqi36oIR6kbqEsNveB0OggnEtUjUSYTeOGJqu3NP7iI52jU7unGPAvq5ptc8YkBs8Roy8vj5IRr7URiJ10MTsMO7cFUdR170ltWwiyhdgLOa-x5WPXM1VHYS4HDmg6TFvKc0Tr8=)
+[趣图：用Python重构PHP代码](http://mp.weixin.qq.com/s?timestamp=1525526036&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgbAZjR0XYSE8vV-N1tkPNkNuSICMF2YHLuat3c-fuKAp4B30bA5QTikFsBhnkSzN3i8wEZywkmFvcnmLrT5hIpfb3SR106QEp-S7PqFD2TH9YTc9BaDxTMlv6dqJmWg9D2gNXYKzhhnA6uhOkiGwDw=)
 
-[快手x清华即日启动大数据挑战赛，60万大奖悬赏你的最佳解决方案](http://mp.weixin.qq.com/s?timestamp=1525419412&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*K0e*Qahh2Qr36yDzqi36oIR6kbqEsNveB0OggnEtUjUSYTeOGJqu3NP7iI52jU7uikvuOPoJ7nosn72tZPMno7jbCWn15YanhmgE46tArPUEqDEVTU9JUyQNuTkxXF-HHN3LC9QKUd-WMRjZbcYxUY=)
+[想转行人工智能？机会来了！](http://mp.weixin.qq.com/s?timestamp=1525526036&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgbAZjR0XYSE8vV-N1tkPNkNuSICMF2YHLuat3c-fuKAp4B30bA5QTikFsBhnkSzN7VcZ8n*pURMAFBvJruXc1IHEMidTmK6469y2kkttwsJgSxSwvW8hD6r5LG9L*thuEFQCFDn*K651yGf6ec7iwQ=)
 
-[Python3.7即将到来，引入数据类！](http://mp.weixin.qq.com/s?timestamp=1525419412&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*K0e*Qahh2Qr36yDzqi36oIR6kbqEsNveB0OggnEtUjUSYTeOGJqu3NP7iI52jU7uikvuOPoJ7nosn72tZPMno7EPMpbxpIwBYgNmATp8KUMGMWqQP6aByd6CsE56JefsEBWdmCu5bmC6UrjYYlJaH4=)
+[Python人气王，JS比Java更受公司青睐\|四月综合榜](http://mp.weixin.qq.com/s?timestamp=1525526036&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgbAZjR0XYSE8vV-N1tkPNkNuSICMF2YHLuat3c-fuKAp4B30bA5QTikFsBhnkSzN7VcZ8n*pURMAFBvJruXc1I75puOoMkew-JFEUt-tNxBd56jXnGJr14HI*k*PUyDOJVK79m6y14sMCSUAgvKZf4=)
 
-[用Python编写的Python解释器](http://mp.weixin.qq.com/s?timestamp=1525419412&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*K0e*Qahh2Qr36yDzqi36oIR6kbqEsNveB0OggnEtUjUSYTeOGJqu3NP7iI52jU7utIWc4NYkEUttlDgbh0HwOQmcQxBmQO7i9Xhsyl7BQ2UwAKn-rAB3WMB0kC2tUFuSx1zDlhKiuhubul896Qe2*k=)
+[快手x清华即日启动大数据挑战赛，60万大奖悬赏你的最佳解决方案](http://mp.weixin.qq.com/s?timestamp=1525526036&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgbAZjR0XYSE8vV-N1tkPNkNuSICMF2YHLuat3c-fuKAp4B30bA5QTikFsBhnkSzNzS119He75GU*XW0MBjs4wLTYNfOAQin49E7b4JY56b7Uqm-9tbWe4TAg*fyUjmFVpNB0I*KkllxIIPol6AVZwY=)
 
-[Python推出新的PyPI网站，旧PyPI于4月30日关闭](http://mp.weixin.qq.com/s?timestamp=1525419412&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*K0e*Qahh2Qr36yDzqi36oIR6kbqEsNveB0OggnEtUjUSYTeOGJqu3NP7iI52jU7usRaLfDRWiigC-VMpkTjL7CLUZx6y*aGRTG4dsJh6krM7eWVHJZJWmBm9bqlME80bifGJkZPprz44VihgpJywUY=)
+[Python3.7即将到来，引入数据类！](http://mp.weixin.qq.com/s?timestamp=1525526036&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgbAZjR0XYSE8vV-N1tkPNkNuSICMF2YHLuat3c-fuKAp4B30bA5QTikFsBhnkSzNzS119He75GU*XW0MBjs4wJATlctKkEPDMsBWUGw9YjsHcYvKChCMVbOr0yzLpt0vspblpwRQD0TKIgVyCE9fz8=)
 
-[15分钟参透比特币和区块链](http://mp.weixin.qq.com/s?timestamp=1525419412&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*K0e*Qahh2Qr36yDzqi36oIR6kbqEsNveB0OggnEtUjUSYTeOGJqu3NP7iI52jU7uoQNwKSLBbh8EXONXlydT85RcL2eSmQ2WiUEItPxlE*6r1FSjifw*Nfg-lpb5M0VruW6btWHe78UwPqcimTUQdo=)
+[用Python编写的Python解释器](http://mp.weixin.qq.com/s?timestamp=1525526036&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgbAZjR0XYSE8vV-N1tkPNkNuSICMF2YHLuat3c-fuKAp4B30bA5QTikFsBhnkSzN4BqAywpp8WsibQfU4Saun05wLwGmYtdvk*BjgqV85RUTzE23SlkWQoA2KfREsPqJnsAsrhzk*n7cos0Gq5gZsU=)
 
-[不懂Python，你在AI时代将成为新“文盲”](http://mp.weixin.qq.com/s?timestamp=1525419412&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*K0e*Qahh2Qr36yDzqi36oIR6kbqEsNveB0OggnEtUjUSYTeOGJqu3NP7iI52jU7unEylBBeKe8hnk8caW1hFAx8Dskn4Aw*VlNur0q-2SKZcygRqa5S8E56NQG7HIOhbgya9zyjVgADjcRVv2pCboc=)
-
-[Python数据处理库pandas入门教程](http://mp.weixin.qq.com/s?timestamp=1525419412&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*K0e*Qahh2Qr36yDzqi36oIR6kbqEsNveB0OggnEtUjUSYTeOGJqu3NP7iI52jU7unEylBBeKe8hnk8caW1hFAycMfQl4aEBgzd7dCUys1WcZ62wps5HAFgu9KiPvl-l2gPpVF2vzkoD*SsXKNSNHkU=)
+[Python推出新的PyPI网站，旧PyPI于4月30日关闭](http://mp.weixin.qq.com/s?timestamp=1525526036&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwgbAZjR0XYSE8vV-N1tkPNkNuSICMF2YHLuat3c-fuKAp4B30bA5QTikFsBhnkSzN*EFlBZZhlBxIqWF402CmkSCC-ea39TELd6K-KtW2YrfIdSyVlAxrMh4LueVyuVNBDvnaDkarXMy9HkjWBBenlc=)
 
 ## dronedev 
  ---
-[原创无人机如何在建筑行业大有可为？](http://mp.weixin.qq.com/s?timestamp=1525419417&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*MZk57IeVmRwLedfKloCmBrREqhpSZwUU-N-F5iq5j2FDY2prhX97E6EZ6ig71gVauqzITSDWh9P6Vy2NuNxgj9kioWHph00QxcgQv777mAJK3UCueUqPxio4l10lFd9124Dmk1TqrK8bs0SWQ9JV0o=)
+[原创无人机如何在建筑行业大有可为？](http://mp.weixin.qq.com/s?timestamp=1525526041&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoqcAJEEJ94WDG7RgUsgEpcFsPJ49yKVKJ*E8N7JlB1hs4pb*tq6i7fzZ3cDlRSIS8pU6D8mi8UUIjezEd0xAMhK8h0gopKWhtfIqlEvj*996ZuUVEd9SNuSMCNMhx8pgfFvZhQ7GqdeQSPiVeeinow=)
 
-[原创大疆无人机的新玩法？PayloadSDK了解一下](http://mp.weixin.qq.com/s?timestamp=1525419417&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*MZk57IeVmRwLedfKloCmBrREqhpSZwUU-N-F5iq5j2FDY2prhX97E6EZ6ig71gVaozDee0MIZ6phSOcIJj9PyS4Z0G7rxlyednR9q8nwMetacdsLki1Qj4rtL0dy60rec4eEzzpHudvRy7cqqYyTA4=)
+[原创大疆无人机的新玩法？PayloadSDK了解一下](http://mp.weixin.qq.com/s?timestamp=1525526041&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoqcAJEEJ94WDG7RgUsgEpcFsPJ49yKVKJ*E8N7JlB1hs4pb*tq6i7fzZ3cDlRSIS1gJtR7vFW39Z-YLuVuwQm04ivjmw6zUQI*p7PZ7jQNOTZ1UZFA8HYhGvAbUToNTT5jALmaQpxHs8XFRIj1jK18=)
 
-[新春限免App\|与家人一起分享无人机飞行的乐趣](http://mp.weixin.qq.com/s?timestamp=1525419417&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*MZk57IeVmRwLedfKloCmBrREqhpSZwUU-N-F5iq5j2FDY2prhX97E6EZ6ig71gVateUxJuzpnqugUGzMrALqIqRFrbUiatLHONE5oFX1L3ipCKa2Q43y6tLMcC1pqK1a38jvhVV8WuE3bu49DBClug=)
+[新春限免App\|与家人一起分享无人机飞行的乐趣](http://mp.weixin.qq.com/s?timestamp=1525526041&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoqcAJEEJ94WDG7RgUsgEpcFsPJ49yKVKJ*E8N7JlB1hs4pb*tq6i7fzZ3cDlRSIS-D1I1dRlWpU-rOCXS1gghQIaWfY5RsG7YOXaAC5EzBB*6VM7nlQEurIFrWXl6AgTOZuIbDBStkJuiwYZLh7c4I=)
 
-[原创无人机xBIM，可以怎么结合？](http://mp.weixin.qq.com/s?timestamp=1525419417&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*MZk57IeVmRwLedfKloCmBrREqhpSZwUU-N-F5iq5j2FDY2prhX97E6EZ6ig71gVaiJCIjdm3-kyk9TzDJOLdsoCstmxN4N8fSWuzdOZFiCGxcJKDQfxT*8oeY3qWbrVvZob6u7CvXqxOzr6JNNF5gU=)
+[原创无人机xBIM，可以怎么结合？](http://mp.weixin.qq.com/s?timestamp=1525526041&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoqcAJEEJ94WDG7RgUsgEpcFsPJ49yKVKJ*E8N7JlB1hs4pb*tq6i7fzZ3cDlRSIS7FutO*AH0fJ7aG*NGr0-70Yi01HedlgnX4bqNgRnKEeqlrxtpwnWccDzWWIrD41CyxGaeEdOiNStJtVYM35o2I=)
 
-[原创小白要懂的4个飞行控制的概念](http://mp.weixin.qq.com/s?timestamp=1525419417&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*MZk57IeVmRwLedfKloCmBrREqhpSZwUU-N-F5iq5j2FDY2prhX97E6EZ6ig71gVan4XSzRvQXnHe2LsXSlr9Qm9*BLNktvjLC0nB80dyZcXL4wyJErxGTnktArescYmGOkpHFB9bUIof7kiJ0FT8sQ=)
+[原创小白要懂的4个飞行控制的概念](http://mp.weixin.qq.com/s?timestamp=1525526041&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoqcAJEEJ94WDG7RgUsgEpcFsPJ49yKVKJ*E8N7JlB1hs4pb*tq6i7fzZ3cDlRSIS20*aSOBzIgmeqvMDYo0R23hOq3EpIRGSy6GNAE2zTgNiwZ8Ekb0gHXbn*7lBLhzdZQ2JbHgN2WoGSVFWoqnV5c=)
 
-[万事俱备，只欠一台OsmoMobile2](http://mp.weixin.qq.com/s?timestamp=1525419417&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*MZk57IeVmRwLedfKloCmBrREqhpSZwUU-N-F5iq5j2FDY2prhX97E6EZ6ig71gVanAOcOFf-P0ii07qZogVIkzTYbKzr4Mv9KlvwRg8xcOH*oILg8nDiHBZeGjEhSiBsqFvSFBO7WYFYP7seFRAXLU=)
+[万事俱备，只欠一台OsmoMobile2](http://mp.weixin.qq.com/s?timestamp=1525526041&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoqcAJEEJ94WDG7RgUsgEpcFsPJ49yKVKJ*E8N7JlB1hs4pb*tq6i7fzZ3cDlRSIS8FrDURRrX3CaEg*nfnwjvroTfLjiWYgi9nhDnfIsxoC6QJghTX7dMymQPO7yLDKoOO6JvX4s6KPHuxaNip7EfE=)
 
-[原创入门大疆SDK开发前，你需要了解这些…](http://mp.weixin.qq.com/s?timestamp=1525419417&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*MZk57IeVmRwLedfKloCmBrREqhpSZwUU-N-F5iq5j2FDY2prhX97E6EZ6ig71gVav-CUhHXlvMg*vQciOk*-0aSyTckh*qa3JRtMdaCoVZ051xae2xHM40Bh77jZb4wRe-SzktG5WwONw5WYRNWibI=)
+[原创入门大疆SDK开发前，你需要了解这些…](http://mp.weixin.qq.com/s?timestamp=1525526041&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoqcAJEEJ94WDG7RgUsgEpcFsPJ49yKVKJ*E8N7JlB1hs4pb*tq6i7fzZ3cDlRSIS52nHiLXH1reULyMp*kdBtyEX8tuZxgSiyzh*YVjSG9bfn2r3p5-LzrA1NLpY2jSjzSBIrAS2zYTrrZKatAgZAs=)
 
-[原创关于航拍建模，这里再推荐3款软件](http://mp.weixin.qq.com/s?timestamp=1525419417&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*MZk57IeVmRwLedfKloCmBrREqhpSZwUU-N-F5iq5j2FDY2prhX97E6EZ6ig71gVatz2RX-rdUahF6-ryutNF0cTMg0MwMvaPJo0xlQQrszz0cOu0-fe6obas-0oCJLNwWhgYujiFf*689hiFyu3wf8=)
+[原创关于航拍建模，这里再推荐3款软件](http://mp.weixin.qq.com/s?timestamp=1525526041&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoqcAJEEJ94WDG7RgUsgEpcFsPJ49yKVKJ*E8N7JlB1hs4pb*tq6i7fzZ3cDlRSISyWS1AG86zkMPw2iodWtgIi0FEnpB7GKR3*ofRdEBM23RuzDNFqLCdFgo4XWK29WlD23t8hQ63zQ77i9bAbnlfY=)
 
-[DroneApps\|有了这款小程序，十秒可查询无人机禁飞区](http://mp.weixin.qq.com/s?timestamp=1525419417&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*MZk57IeVmRwLedfKloCmBrREqhpSZwUU-N-F5iq5j2FDY2prhX97E6EZ6ig71gVavpsYVXgV0NtyWcOISjYuA-amkhUs6puUnQICCncYLNy8kLUBg9BzLEMHrgbyI7V8FFB3MrCvLveyFMVyZrPTU4=)
+[DroneApps\|有了这款小程序，十秒可查询无人机禁飞区](http://mp.weixin.qq.com/s?timestamp=1525526041&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoqcAJEEJ94WDG7RgUsgEpcFsPJ49yKVKJ*E8N7JlB1hs4pb*tq6i7fzZ3cDlRSIS*OgOJOjHPXhxVaP3FWdcxWnP6VNWy7Eji*amgVey5lnBGXWCnk9OocGE7YF9SuAhJI7EMLw*bMBaNGtRRNCzHA=)
 
-[原创无人机航测用什么软件？这里给大家推荐这7款](http://mp.weixin.qq.com/s?timestamp=1525419417&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*MZk57IeVmRwLedfKloCmBrREqhpSZwUU-N-F5iq5j2FDY2prhX97E6EZ6ig71gVakAwOG2xMbWQRlmhw8lK0iyJOs1VqSXq6QPKT7jPwZY29tyoIzScPMa4XKu6se6Ihxt55bJ3V1gs6fLCIF0aN-M=)
+[原创无人机航测用什么软件？这里给大家推荐这7款](http://mp.weixin.qq.com/s?timestamp=1525526041&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoqcAJEEJ94WDG7RgUsgEpcFsPJ49yKVKJ*E8N7JlB1hs4pb*tq6i7fzZ3cDlRSIS5Z1rYS32WwKM4p-atAYcPblXFfFmYL5lL786tpnzKOiwAade81BSI*UiQqwL8DbfZoUnqlHnAXTLFBfbbz4g3Y=)
 
 ## 微软研究院ai头条 
  ---
-[百廿北大，百分友谊](http://mp.weixin.qq.com/s?timestamp=1525419421&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LtZgtBf5E6gUR0TogJwyN--qo5vkG6vG*ZN1RobZQRmD2flEUS0tkHTEQ1B4mYSF3Wd76Mu9IkPt4nGG-krKf3AaZzkUfwSrndLu1GqFC8qzl4bgRWbhcYIuZ9xhv3-PKgXLSIzxNwa2Vpsy3E4fQ8=)
+[洪小文：AI，誓不作恶](http://mp.weixin.qq.com/s?timestamp=1525526046&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwqFt800TzuSHyZThRDEttHjC1kCh4yLdP7HcTkZIrvKlQ7q3oBLPY2GP52eaiIWJwooScdek0W37QHTMee13fVtdE-aU11p06-7ce1dBMNTXDoOCpKTsOfWe2bqG87PaUxbo2i-HsQIdBu4NVTYlOto=)
 
-[原创ICLR2018论文\|LearningtoTeach：让AI和机器学习算法教学相长](http://mp.weixin.qq.com/s?timestamp=1525419421&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LtZgtBf5E6gUR0TogJwyN--qo5vkG6vG*ZN1RobZQRmD2flEUS0tkHTEQ1B4mYSF6OAtsA2IF6IR6X8T7xZo9XwTm*Ldee5-osB2GyhPvT04fXdQ7ZK0c2v86Jhdi5H5tq0*Gw3WPV8ncyLfCMp3mk=)
+[百廿北大，百分友谊](http://mp.weixin.qq.com/s?timestamp=1525526046&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwqFt800TzuSHyZThRDEttHjC1kCh4yLdP7HcTkZIrvKlQ7q3oBLPY2GP52eaiIWJwhV1dIVxudaKIbijiqfAMUE0oZ5LcUPNNzYIspVnvhxW0o1KZ97KBM-3IzauKbAXe3jP19acDQF4kJWnjGZnyL4=)
 
-[“云栖·谈情说AI”院友团聚活动火热招募中！](http://mp.weixin.qq.com/s?timestamp=1525419421&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LtZgtBf5E6gUR0TogJwyN--qo5vkG6vG*ZN1RobZQRmD2flEUS0tkHTEQ1B4mYSF6OAtsA2IF6IR6X8T7xZo9Vx-MrBzIge3cyVohP6Rty2yauvfqtLF9B8oyePdsC3YYx1kyxj-FpavKrxNt6yVJc=)
+[原创ICLR2018论文\|LearningtoTeach：让AI和机器学习算法教学相长](http://mp.weixin.qq.com/s?timestamp=1525526046&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwqFt800TzuSHyZThRDEttHjC1kCh4yLdP7HcTkZIrvKlQ7q3oBLPY2GP52eaiIWJwsMNWM9ROnqB25pmhwU0V6A3aKcrlY-9f*WO2WDo61VdW4bwSEDvwUoeIHNK3mIu2cVLlw-vf0GXEDBrkTiZ238=)
 
-[原创讲堂\|邵斌：用符号学习生成精确、可解释模型](http://mp.weixin.qq.com/s?timestamp=1525419421&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LtZgtBf5E6gUR0TogJwyN--qo5vkG6vG*ZN1RobZQRmD2flEUS0tkHTEQ1B4mYSF28LeZkPJ3HmwyS78yMaEl*QK0f8OQ*NeN6GS70exmHIZnK*es4Vi*HQ04acYDbe*jWyphd-o9jJzdTVCj6kRN8=)
+[“云栖·谈情说AI”院友团聚活动火热招募中！](http://mp.weixin.qq.com/s?timestamp=1525526046&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwqFt800TzuSHyZThRDEttHjC1kCh4yLdP7HcTkZIrvKlQ7q3oBLPY2GP52eaiIWJwsMNWM9ROnqB25pmhwU0V6B4gM6QOHp4e6ZZDTPHU4o*TvjYWP3rvA*h616DnS*gW4B3iFsin5DQe*dA4kJxeYs=)
 
-[书单\|深入了解以太坊，就从这本书开始](http://mp.weixin.qq.com/s?timestamp=1525419421&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LtZgtBf5E6gUR0TogJwyN--qo5vkG6vG*ZN1RobZQRmD2flEUS0tkHTEQ1B4mYSFyW3uBLrX5d7l9cwHuBVRWW1JcpFKLmHo0Ua1qO-KMdykgDVIyZm1fZaYflr89phBjGm0jXR5T1qhX*FWQ7m5tU=)
+[原创讲堂\|邵斌：用符号学习生成精确、可解释模型](http://mp.weixin.qq.com/s?timestamp=1525526046&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwqFt800TzuSHyZThRDEttHjC1kCh4yLdP7HcTkZIrvKlQ7q3oBLPY2GP52eaiIWJws11MKWHluWB48r5MiIWDptO3qAcvwk6rN-0cY0VEDPyOe1bTB9DNAH87QXh-So017csGc4LGU3TAqOcRfORWNs=)
 
-[微软亚洲研究院携手东方海外航运，以人工智能推动数字化转型](http://mp.weixin.qq.com/s?timestamp=1525419421&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LtZgtBf5E6gUR0TogJwyN--qo5vkG6vG*ZN1RobZQRmD2flEUS0tkHTEQ1B4mYSF2lTFM4V7dtnAW1FpscVojJjvBSJw9y9AiQj2PVQ1HDW0OGIFIJ-iCwmjgpGmDLDab03CFOcuZ46lSaemSHbmww=)
+[书单\|深入了解以太坊，就从这本书开始](http://mp.weixin.qq.com/s?timestamp=1525526046&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwqFt800TzuSHyZThRDEttHjC1kCh4yLdP7HcTkZIrvKlQ7q3oBLPY2GP52eaiIWJwmDsE7qro3ox1O0EEiLRf3HHExB6zllCvVmCpu4kA1f2CTveOz1js9T4XkTsXLn2S84819nI8cxuY6nZpEJmacU=)
 
-[原创不只是高大上，AI也想让传统农业焕发生机](http://mp.weixin.qq.com/s?timestamp=1525419421&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LtZgtBf5E6gUR0TogJwyN--qo5vkG6vG*ZN1RobZQRmD2flEUS0tkHTEQ1B4mYSF40JEUDm9LOpwT24-wI3bM6L3gJHt5CsAICem-cu6aF09hArf0Ht4RnVSdANHN4ihmkjxutbzm4zTcLcqrhBRlY=)
+[微软亚洲研究院携手东方海外航运，以人工智能推动数字化转型](http://mp.weixin.qq.com/s?timestamp=1525526046&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwqFt800TzuSHyZThRDEttHjC1kCh4yLdP7HcTkZIrvKlQ7q3oBLPY2GP52eaiIWJwkV5Jb*Xch7dHWdvmEwX-Vf6FsXhtBk8LfMYlrJAb5a8Oat*q23OGZlBvBXD1q7swgB1f85Y27eLpJC9SDg8ML0=)
 
-[原创没有AI芯片，你的手机也能实现离线神经网络机器翻译](http://mp.weixin.qq.com/s?timestamp=1525419421&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LtZgtBf5E6gUR0TogJwyN--qo5vkG6vG*ZN1RobZQRmD2flEUS0tkHTEQ1B4mYSFzsaunK*u3dyD*OCjIMImsniUy6Jw12FP9Rwgp91k*wNV24pekjqbaKiJPCnxsuXoErUnOV-GSfTJnw7XivuO9w=)
+[原创不只是高大上，AI也想让传统农业焕发生机](http://mp.weixin.qq.com/s?timestamp=1525526046&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwqFt800TzuSHyZThRDEttHjC1kCh4yLdP7HcTkZIrvKlQ7q3oBLPY2GP52eaiIWJwp0DiKo23*frOX3KB9Ce8SZJx0eY-ZULtj6RSY6cY5MyE1Yjla4KW2Yx18dNlXX6WZm6DDVFLPLgkFG4lPJYvHg=)
 
-[原创人工智能为听障学生打造全新课堂](http://mp.weixin.qq.com/s?timestamp=1525419421&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LtZgtBf5E6gUR0TogJwyN--qo5vkG6vG*ZN1RobZQRmD2flEUS0tkHTEQ1B4mYSF3NsRZsKV-I*S1WegkLI-MLtTAV6gUsniRNgyri5CctRQo23s66YlRd5Z0JcHU5M5wnIo*eN*RFPbpMEp2nG6F0=)
+[原创没有AI芯片，你的手机也能实现离线神经网络机器翻译](http://mp.weixin.qq.com/s?timestamp=1525526046&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwqFt800TzuSHyZThRDEttHjC1kCh4yLdP7HcTkZIrvKlQ7q3oBLPY2GP52eaiIWJwlW7J0-3F5TExAfIO7y2u-As-6nw*KNNVt9141WVk1pFyq-PuwvLMQ8v00tBttPPoc5hoE*KBs0pE3oBLjnPErw=)
 
-[原创机器能做中/高考英语试题吗？](http://mp.weixin.qq.com/s?timestamp=1525419421&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LtZgtBf5E6gUR0TogJwyN--qo5vkG6vG*ZN1RobZQRmD2flEUS0tkHTEQ1B4mYSF06GkiuIFtBhMhMd2VT4yVBroHCMkqT-wE6yffGyydukuCVQfi3Ah5PoAs32hHvm9QEudV9rnCOZ67k*ee2J4hE=)
+[原创人工智能为听障学生打造全新课堂](http://mp.weixin.qq.com/s?timestamp=1525526046&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwqFt800TzuSHyZThRDEttHjC1kCh4yLdP7HcTkZIrvKlQ7q3oBLPY2GP52eaiIWJwg9ViLSQH*WL1eaNr0zUV7187JqO8nBPJg1-5vQWSQwFqcB28QJAGWylzCdJiuBA35VS0LIabOSFO2eqbGJ2mwU=)
 
-[原创面对人工智能的发展，人类该何去何从？](http://mp.weixin.qq.com/s?timestamp=1525419421&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*LtZgtBf5E6gUR0TogJwyN--qo5vkG6vG*ZN1RobZQRmD2flEUS0tkHTEQ1B4mYSFw8xbPYvBUYm1fM3Wm2pc2JNSTn6*p4sBO56hTv4Dehbf-RA-Gh72Rb8FxCZ0FXol1rDR4QTXZ4Kkx7Hn7WG*bM=)
+[原创机器能做中/高考英语试题吗？](http://mp.weixin.qq.com/s?timestamp=1525526046&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwqFt800TzuSHyZThRDEttHjC1kCh4yLdP7HcTkZIrvKlQ7q3oBLPY2GP52eaiIWJwqPSmO4JfqPBJIas*gKNy2h9DAYcA8Vn*UfTx1fInGTvcXVVF0Bxg4ykkUYlEaRb12VxkQivpBuASUVZx-La*d0=)
 
 ## 车东西 
  ---
-[原创今天，汽车进入iPhone时代！](http://mp.weixin.qq.com/s?timestamp=1525419425&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*Pe3QBk2iIhiynVc2sV6hhY2AirUs6adGe6mzUiKQWChe3O-tGa*lHaKl4flE2W1mPrBQbBhWyy5Q0KHIfI01z5gXyDGrBTNAivwbhEdokl9XTewpxUGSPhfegL6GRMVBA-mY4*ep8e*9gNbVkaaUQM=)
+[分享图片](http://mp.weixin.qq.com/s?timestamp=1525526050&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwmVCUq6UY4Q1dbgZCGHr1m9tVoG7oFmiHVOpWz6GD5h2xQplndLNesgtM0VRkSjJRPqK0rpFjRmlxCs1pPPsoijJ1egjVPVvyPD1*6F0ILLCNDsTehoDlS73ZToXNl2HVEXiDFVZddwpcXWxM*HVKkc=)
 
-[原创特斯拉Q1财报：Model3救我，中国救我！](http://mp.weixin.qq.com/s?timestamp=1525419425&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*Pe3QBk2iIhiynVc2sV6hhY2AirUs6adGe6mzUiKQWChe3O-tGa*lHaKl4flE2W1mPrBQbBhWyy5Q0KHIfI01z7hD3Nc8lYiW4w5wlYnrwUSNAu3aFcT3PHFuW2HupfMDgvDYVM7fgzIBsJL4*la9Xg=)
+[原创新造车向传统车企“投降”背后：一纸资质定生死！](http://mp.weixin.qq.com/s?timestamp=1525526050&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwmVCUq6UY4Q1dbgZCGHr1m9tVoG7oFmiHVOpWz6GD5h2xQplndLNesgtM0VRkSjJRFiR72Kt*lXAnqIh7ikovmiKP6jHqVx0gfAipGvXngv2PnjF12qakHf-Px9IgV0oU6nqqTQ82EW7bxnssK0JQS4=)
 
-[眼擎科技创始人朱继志90分钟讲透ISP如何克服复杂光线难题\|自动驾驶系列课](http://mp.weixin.qq.com/s?timestamp=1525419425&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*Pe3QBk2iIhiynVc2sV6hhY2AirUs6adGe6mzUiKQWChe3O-tGa*lHaKl4flE2W1mPrBQbBhWyy5Q0KHIfI01z4lnngCus9B7vg*15ZxPCivVxwfmOKaWm1ibzboY4kLe7Gw2eDCsav9O*Rh8owY9a8=)
+[原创今天，汽车进入iPhone时代！](http://mp.weixin.qq.com/s?timestamp=1525526050&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwmVCUq6UY4Q1dbgZCGHr1m9tVoG7oFmiHVOpWz6GD5h2xQplndLNesgtM0VRkSjJREEAtxMsD4Rp6D4czm2lRuTI6BFxW6hJd9IpfIcmpNzkodtC1XiNsCaQhZs0gKYjffgeNd7vZG2HFWVoYQR*LqI=)
 
-[原创朋友圈大升级滴滴凭何拿下半个出行圈？](http://mp.weixin.qq.com/s?timestamp=1525419425&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*Pe3QBk2iIhiynVc2sV6hhY2AirUs6adGe6mzUiKQWChe3O-tGa*lHaKl4flE2W1mIV-GPC*8l01d9xqkNi9ckOIGFY-j9BaA0Sy6krAI39WyV0yvuC3FBFRg26PAViPhcf75w5BKjvHmmzslPW8cD8=)
+[原创特斯拉Q1财报：Model3救我，中国救我！](http://mp.weixin.qq.com/s?timestamp=1525526050&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwmVCUq6UY4Q1dbgZCGHr1m9tVoG7oFmiHVOpWz6GD5h2xQplndLNesgtM0VRkSjJREEAtxMsD4Rp6D4czm2lRuQ6XpYQBsJWmlusHDwBCnyJ7L9R-Wp08eCi0bcLMYQKCmvZMU7Y5z3il*dYAkW-wgE=)
 
-[原创对话沈子瑜：吉利这样用车机干掉手机！](http://mp.weixin.qq.com/s?timestamp=1525419425&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*Pe3QBk2iIhiynVc2sV6hhY2AirUs6adGe6mzUiKQWChe3O-tGa*lHaKl4flE2W1mIV-GPC*8l01d9xqkNi9ckMiVOGhFb6jplqO69ADPuWwi5kjoEMJbcIb2VGOwpGgOXMw3559b6ZAkM0w4hLOSEM=)
+[眼擎科技创始人朱继志90分钟讲透ISP如何克服复杂光线难题\|自动驾驶系列课](http://mp.weixin.qq.com/s?timestamp=1525526050&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwmVCUq6UY4Q1dbgZCGHr1m9tVoG7oFmiHVOpWz6GD5h2xQplndLNesgtM0VRkSjJREEAtxMsD4Rp6D4czm2lRuS*6qjzQFh3XV8971OKshvrx8dqKV5CkEDYCmTzG4pNsmLyu3p4giasA8LjkPZr*9I=)
 
-[分享图片](http://mp.weixin.qq.com/s?timestamp=1525419425&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*Pe3QBk2iIhiynVc2sV6hhY2AirUs6adGe6mzUiKQWChe3O-tGa*lHaKl4flE2W1mIwOu-ietjcnH627OkJhi9WS1aYpy3f5rtSWpH5-vw*fXZ-We-7vftmSQfNvy5SnxtDSJJEFmwBsN1BlUD0UFQY=)
+[原创朋友圈大升级滴滴凭何拿下半个出行圈？](http://mp.weixin.qq.com/s?timestamp=1525526050&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwmVCUq6UY4Q1dbgZCGHr1m9tVoG7oFmiHVOpWz6GD5h2xQplndLNesgtM0VRkSjJRNbLOXu77MA0L7yF4EDTCIv3kDYZWAAqKoRgoiYTU2PqXAqMOHqojG4hIK8TFL4uSReQHSFTITr1nItwEcRGubo=)
 
-[原创发全新自动驾驶平台地平线B轮将融资数亿美元](http://mp.weixin.qq.com/s?timestamp=1525419425&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*Pe3QBk2iIhiynVc2sV6hhY2AirUs6adGe6mzUiKQWChe3O-tGa*lHaKl4flE2W1mKyTPpJgnBCL3G815YiO0zvO7F7jasYKealVdYw6EnOf*kPr0j7tn46HExqS6EyEbYSU9hR0IVVbHf5*M3e6Cyc=)
+[原创对话沈子瑜：吉利这样用车机干掉手机！](http://mp.weixin.qq.com/s?timestamp=1525526050&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwmVCUq6UY4Q1dbgZCGHr1m9tVoG7oFmiHVOpWz6GD5h2xQplndLNesgtM0VRkSjJRNbLOXu77MA0L7yF4EDTCIum6beUvB--jyoYL4T0aM53NxKqjcRwiZ2tmjy1K*738EreV09-T3OnVHypbCNX0EI=)
 
-[原创对话宝马人工智能SVP：2000人三地研发自动驾驶2021放大招](http://mp.weixin.qq.com/s?timestamp=1525419425&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*Pe3QBk2iIhiynVc2sV6hhY2AirUs6adGe6mzUiKQWChe3O-tGa*lHaKl4flE2W1mKyTPpJgnBCL3G815YiO0zvYeR4zcNp*MmptemVpJKV*ol*DgZPLc3OxrYkEtyRQvHY0uFpRitS-CXvsGnamQtA=)
+[分享图片](http://mp.weixin.qq.com/s?timestamp=1525526050&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwmVCUq6UY4Q1dbgZCGHr1m9tVoG7oFmiHVOpWz6GD5h2xQplndLNesgtM0VRkSjJRBGe6MjqnFj4R7yRN8YXf9hltC-4XCG2T*9AAde975pe941Xo0EdLtycVb*4IsqSzqhOuPb5WFfZeixBimeUQhM=)
 
-[原创96个小时看完1000台车！发现北京车展四个大秘密](http://mp.weixin.qq.com/s?timestamp=1525419425&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*Pe3QBk2iIhiynVc2sV6hhY2AirUs6adGe6mzUiKQWChe3O-tGa*lHaKl4flE2W1mNjL-rdGGFUo2SCs6l4v9yscfA-50H1*yeSJzOo0O968dpEp8JHsmcL10nOtE4aD3L64TXFu11FaQuVpVXwgP64=)
+[原创发全新自动驾驶平台地平线B轮将融资数亿美元](http://mp.weixin.qq.com/s?timestamp=1525526050&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwmVCUq6UY4Q1dbgZCGHr1m9tVoG7oFmiHVOpWz6GD5h2xQplndLNesgtM0VRkSjJRIdxJPA-4FEk25OoLVmaFLYOkhTCKV*ZaTQncJx*PU574m7*rFDJd8Y5udA-5VpEqnxh7*JdLnsOQWUR3C*rT0s=)
 
-[原创决战北京车展！这10家新造车公司拼了](http://mp.weixin.qq.com/s?timestamp=1525419425&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*Pe3QBk2iIhiynVc2sV6hhY2AirUs6adGe6mzUiKQWChe3O-tGa*lHaKl4flE2W1mNYE4ebzN9hhPIYxs1zYG8kc60WJHKnpv-otqOknpGR7Rygyj4IJbfR32-rZ44CvjQqXQ-veXXkEMwczbptFK4I=)
+[原创对话宝马人工智能SVP：2000人三地研发自动驾驶2021放大招](http://mp.weixin.qq.com/s?timestamp=1525526050&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwmVCUq6UY4Q1dbgZCGHr1m9tVoG7oFmiHVOpWz6GD5h2xQplndLNesgtM0VRkSjJRIdxJPA-4FEk25OoLVmaFLbqnZ0GlYwhFs9Hb6UlI0N0O7KPILM2PlTEXVhZv0rFv-F6TsnCeYrl*KX9hkbwseU=)
 
-[原创对话北汽新能源工程研究院尹颖：达尔文系统如何炼成](http://mp.weixin.qq.com/s?timestamp=1525419425&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*Pe3QBk2iIhiynVc2sV6hhY2AirUs6adGe6mzUiKQWChe3O-tGa*lHaKl4flE2W1mNYE4ebzN9hhPIYxs1zYG8k3796e7fReddJzhOm8yGgwjgirHR1euVLGdCKoFoaI3yuy6Rf1uyIW-4QogTXQGTI=)
+[原创96个小时看完1000台车！发现北京车展四个大秘密](http://mp.weixin.qq.com/s?timestamp=1525526050&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwmVCUq6UY4Q1dbgZCGHr1m9tVoG7oFmiHVOpWz6GD5h2xQplndLNesgtM0VRkSjJRJqCN*RR9ku*NWWdtZBpWh6CMjCnx7g08V5QwbU3LXWgiGpxXbkeLSqnJOboy261BFifGoowaWPOU2Mb-WfdXGU=)
 
-[原创长安神车CS75玩智能：语音助手慢半拍OTA还得蹭WiFi！](http://mp.weixin.qq.com/s?timestamp=1525419425&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*Pe3QBk2iIhiynVc2sV6hhY2AirUs6adGe6mzUiKQWChe3O-tGa*lHaKl4flE2W1mAZIr08nDK9-sDfUHmwu8RJCwfYiFGbhtW6P7mU-yjdoBBneb7e9KExnWEspJ5wuYg5xx7zCBLsNk*JhsDNVTjE=)
+[原创决战北京车展！这10家新造车公司拼了](http://mp.weixin.qq.com/s?timestamp=1525526050&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwmVCUq6UY4Q1dbgZCGHr1m9tVoG7oFmiHVOpWz6GD5h2xQplndLNesgtM0VRkSjJRCvUV0bq4w03iw*lJyGTDkuFEQ2yNUNEEln2cBiTjXm3YWgDZnomyAsiVC2til0mBdZTr9fQ5uJeYdbDoxFB5Q0=)
 
-[博世北京车展秀肌肉，造无人车你铁定离不开它](http://mp.weixin.qq.com/s?timestamp=1525419425&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*Pe3QBk2iIhiynVc2sV6hhY2AirUs6adGe6mzUiKQWChe3O-tGa*lHaKl4flE2W1mAZIr08nDK9-sDfUHmwu8RKoqPPQ9IwuwaJvHwvU3jtTTscD1dJ7YRNWUogIWc-RTmm8ASDDasdypnkVBsXkyv0=)
+[原创对话北汽新能源工程研究院尹颖：达尔文系统如何炼成](http://mp.weixin.qq.com/s?timestamp=1525526050&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwmVCUq6UY4Q1dbgZCGHr1m9tVoG7oFmiHVOpWz6GD5h2xQplndLNesgtM0VRkSjJRCvUV0bq4w03iw*lJyGTDkvQt*LtFMOcsEmZ-wOCA4ugJ6KQmCNUIUasIocV-8bJuiRse4EgMhX*5yR*5d0zeII=)
 
-[原创捷豹I-PACE国内68万开卖，但后排空间还不如飞度！](http://mp.weixin.qq.com/s?timestamp=1525419425&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*Pe3QBk2iIhiynVc2sV6hhY2AirUs6adGe6mzUiKQWChe3O-tGa*lHaKl4flE2W1mFm0b0RxdZTonpHdzpYjP13e2wdLToxBs66A3OZpK45QPCvzzRtNl8VrXLdIIOYz0wToWWYvgPt7m24z-Pv3DEM=)
+[原创长安神车CS75玩智能：语音助手慢半拍OTA还得蹭WiFi！](http://mp.weixin.qq.com/s?timestamp=1525526050&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwmVCUq6UY4Q1dbgZCGHr1m9tVoG7oFmiHVOpWz6GD5h2xQplndLNesgtM0VRkSjJRLOOan1XMgLK-i34lvnHxkGAbAUAZYO7nvylVj0cxHiO0G8vKWI22F-fHBG4ZECPL71TtuX*UGTVFMOfUxUkiO4=)
 
-[原创对话斑马网络CEO郝飞：今年开启融资斑马智行3.0年底前推出](http://mp.weixin.qq.com/s?timestamp=1525419425&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*Pe3QBk2iIhiynVc2sV6hhY2AirUs6adGe6mzUiKQWChe3O-tGa*lHaKl4flE2W1mFm0b0RxdZTonpHdzpYjP10YmzmEXpdGeSO9D-yyqI1Z1udkJw4US8VtrvOKfegmQ8ojJiS2B**YCK6TKbKrtBM=)
+[博世北京车展秀肌肉，造无人车你铁定离不开它](http://mp.weixin.qq.com/s?timestamp=1525526050&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwmVCUq6UY4Q1dbgZCGHr1m9tVoG7oFmiHVOpWz6GD5h2xQplndLNesgtM0VRkSjJRLOOan1XMgLK-i34lvnHxkHTtIVI7rCYkqVlXj2KWU6hlHqPnvt0dxONK-2WSPHKsr7IAY9*ScusA4gM72IoNKE=)
 
-[纵目科技智能交通事业部总经理王凡90分钟讲透自主代客泊车系统\|自动驾驶系列课报名](http://mp.weixin.qq.com/s?timestamp=1525419425&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*Pe3QBk2iIhiynVc2sV6hhY2AirUs6adGe6mzUiKQWChe3O-tGa*lHaKl4flE2W1mFm0b0RxdZTonpHdzpYjP123DdxUifxXjbi00XlByU04XwyIiT2JPUiCPUKLucWbwu4qitNKjn8358lAqTEo51I=)
+[原创捷豹I-PACE国内68万开卖，但后排空间还不如飞度！](http://mp.weixin.qq.com/s?timestamp=1525526050&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwmVCUq6UY4Q1dbgZCGHr1m9tVoG7oFmiHVOpWz6GD5h2xQplndLNesgtM0VRkSjJRIY5ucI-KkmA8DH0GAnNGzc20NIcsMA*ZksFPdyYFiIuMi2sUuLYuv55aztHNszww8NAnABHkYhfkCU4MxgGx6A=)
 
-[原创北京车展前，小鹏汽车搞出4件大事](http://mp.weixin.qq.com/s?timestamp=1525419425&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*Pe3QBk2iIhiynVc2sV6hhY2AirUs6adGe6mzUiKQWChe3O-tGa*lHaKl4flE2W1mHLdAyes6UjGgFfPaFM2njqJtJIU9jAkp60faP5lQXEL2WrREIKnB84DFE0HTq*Aef*zdHAMODZkyOdxxWAYoyQ=)
+[原创对话斑马网络CEO郝飞：今年开启融资斑马智行3.0年底前推出](http://mp.weixin.qq.com/s?timestamp=1525526050&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwmVCUq6UY4Q1dbgZCGHr1m9tVoG7oFmiHVOpWz6GD5h2xQplndLNesgtM0VRkSjJRIY5ucI-KkmA8DH0GAnNGzdrCLo2ZkgGN9vou*33Ui7E61rc4GPVLq1nBACqtmSfFez3SEIeHxJT-7n1vyzstMU=)
 
-[原创拉上IntelNvida搞无人小巴大陆集团这样转型出行服务公司](http://mp.weixin.qq.com/s?timestamp=1525419425&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*Pe3QBk2iIhiynVc2sV6hhY2AirUs6adGe6mzUiKQWChe3O-tGa*lHaKl4flE2W1mHLdAyes6UjGgFfPaFM2njqvdBxUnoNzLLJodZShQS0aP6AyMfrB4vk9Tda7ZvwKHhtu-Hu5KEsbqIEtNjwsTAo=)
-
-[原创最强国产电动SUV今日面世！加速4秒破百，还能无线充电](http://mp.weixin.qq.com/s?timestamp=1525419425&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*Pe3QBk2iIhiynVc2sV6hhY2AirUs6adGe6mzUiKQWChe3O-tGa*lHaKl4flE2W1mASAgq3eRVc*L8Hqy19WQAbK60B8OhwY9lJOMcQgRqM8erEuKgG2XW2t3blue1cpl-z7rVxBrMVHbDo7UiAZ*SQ=)
+[纵目科技智能交通事业部总经理王凡90分钟讲透自主代客泊车系统\|自动驾驶系列课报名](http://mp.weixin.qq.com/s?timestamp=1525526050&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwmVCUq6UY4Q1dbgZCGHr1m9tVoG7oFmiHVOpWz6GD5h2xQplndLNesgtM0VRkSjJRIY5ucI-KkmA8DH0GAnNGzd6Nbng5--V*e2QPE88vIos-nQ7x12dEoQingABpL0-Jvsz-x47YH0trxoYWoPxWOU=)
 
 ## 车云 
  ---
-[原创体验蔚来ES8：一张关于用户思维的「另类」答卷](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4bElnMirVVw0v626fzzPx-XW7PrMP7q6Ekmbiuu9w0luP7OTV6qi7OI42*8gKJtAJhr5PIHh6hcCQOgrfNSEoYM=)
+[原创日美混血的它要代表马自达的未来？](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRY9aR4dqrFxLFy7*UyWetLhNu*KqjLBvYfne3VRQK-pMv4DPYgTL08olzT9xMkan2dIRN7c6yBfVSHQbAmUc8Mc=)
 
-[原创混动，凑合吧\|企业号](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4Q24mhf56sRnnc7rbbWqbqatnZL6*yAoLBzPGCrrnF9oJb-cTNBehgCFlU6hJs5--cxlio6KrzaPIoq-s9D00Lc=)
+[原创国人愿意为好东西花钱\|李子曰](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRY9aR4dqrFxLFy7*UyWetLj6ptkTgHhIVohrv-sySAHtYl3ZCwjKkVsCcoE7KX8Fwiz97KBQUaFHtQC7Gmuk98U=)
 
-[原创马斯克：特斯拉二季度暂停生产10天，中国电池工厂选址将公布](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4Q24mhf56sRnnc7rbbWqbqaJbPK09F84VoPY05M7P-EoQd5asywE0l*fq41g2eAIKCntygSPhXGsL88SXk9*oPk=)
+[原创体验蔚来ES8：一张关于用户思维的「另类」答卷](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRYuYexOmRvw649ue-QLGLLgjw0IH-ckRqYj15hImPhOkk0oTjPImjaIfWoaR*YSlhc7Lu6XV5J83BjTTRpF4Fnc=)
 
-[宁德时代，是否面临与沃特玛同样的风险？](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4Q24mhf56sRnnc7rbbWqbqaPQm1CYkwhN5RYqyduJ9QRk*BHQVKTNnBujeFn0hcBzt1tM9LjX*eHDDD5TqA*hBc=)
+[原创混动，凑合吧\|企业号](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRealID*p-wtSRkijObRR6GJ6gJz8B0mwEb-GdpvdZz07yO3dhsevYvQ9COiAfRBOVUIjC91qT1tryIuKJhBm97U=)
 
-[原创佛吉亚副总裁：未来座舱变革不是渐变，而是一种彻底转型](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4Q24mhf56sRnnc7rbbWqbqYIUiPmLGsCi9zuNZnpRF3NF1Dupe12j7ivsDZckxsazdNMskDvyXIdKhMPfLdb*zM=)
+[原创马斯克：特斯拉二季度暂停生产10天，中国电池工厂选址将公布](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRealID*p-wtSRkijObRR6GKRZj*KcVaMAM9ubptAESd9nRFWNKeQhywwtDZrTE6C4pnm5b1shhitkr7hRHw*Gz4=)
 
-[原创禾赛完成2.5亿元B轮融资，光速中国和百度领投](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4Q24mhf56sRnnc7rbbWqbqbRh1OYha7PF9xbNgQYVDJPqPW50b8Vv7ltGsBIcfH6ML3iM9yQIi43INFlsMtTNAI=)
+[宁德时代，是否面临与沃特玛同样的风险？](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRealID*p-wtSRkijObRR6GKxx*Y-3otUEuYeSIJmbwcMFtD7NOWf8ujiTNG7mYXXGCRBdQ4-4fMMSME*qhGaqjY=)
 
-[原创混动不值得\|企业号](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4SEkG1TcDsiGDqIK-iPsO2jbOZCYviR4C9i0ReeEhK8nPlY9YP80Ia27MpSNuZIn9dXKIMIFrZ6DcVWWl*yBY6A=)
+[原创佛吉亚副总裁：未来座舱变革不是渐变，而是一种彻底转型](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRealID*p-wtSRkijObRR6GJDIH1NpMIEe7-*xwMdEm58hcJqY9cxjei4YoCxvI8g*O1mMVoggol6ur92hAVVNT0=)
 
-[大众确认与滴滴成立合资公司：大众持股40%，拓展出行版图](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4SEkG1TcDsiGDqIK-iPsO2jdYBXZMhEPSgIfFqB7fLS7fsvIYSh6WmcZv9Mj-WjAfoinSPkSgwxi5l7zY15YUAQ=)
+[原创禾赛完成2.5亿元B轮融资，光速中国和百度领投](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRealID*p-wtSRkijObRR6GKl9yTnVfCU*F4RvqLq37yMys8C1rT57hykJHbAvaDgpJZLyLKQ7vLrs44nmdW6pJk=)
 
-[电动汽车的价格战是否有出路？](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4SEkG1TcDsiGDqIK-iPsO2jHa4z1Nq0rem63aO*2VH06dHBUIuh1UDagxYJ3riAcVkETZ8HJdI78MJG8vJkXNVM=)
+[原创混动不值得\|企业号](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRWZHGPtmllKarVI3ZHkAPagmIU54WoJxUIDw97O4Nl8nhlKuK-yZvGqW2GmleNCTTkGOecW3RgPGm3Ce0L2CenY=)
 
-[原创专访捷豹路虎高层：国产化加速，I-PACE带动新能源产品研发输出](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4SEkG1TcDsiGDqIK-iPsO2jEJaH2nLl-Y2YgOk-ZTZOXax1wjuohDA8WkuNCQnOqVj7MXPfj9eyAeHfv6VKYHn4=)
+[大众确认与滴滴成立合资公司：大众持股40%，拓展出行版图](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRWZHGPtmllKarVI3ZHkAPajBUEV3Dv7av72XxhY02qO1YuZ6xsb99CvVNAr28z1r*RtvGl5-Ew5JCLV-u11mCDc=)
 
-[疯狂的混动：爬野山下赛道无所不能\|科技说](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4YcwJ6MUQhJd0Z8MEsftuY2ShAm9hNgSUy2aFGSh4hW1A1X-4tb2fA6xziEkKrmSi1ym48J6iDFqeyv0fKdPd58=)
+[电动汽车的价格战是否有出路？](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRWZHGPtmllKarVI3ZHkAPah4p-4bfeg-eowRvCvZUoHegKifCwc*xjMaF*ng6NTBzy-Pgk7dnyRgUDGGAlcPeT8=)
 
-[原创疯狂的发动机：W18发动机是个什么鬼？\|科技说](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4RhAglTRCyePCKBymKrXF*4zpfocjVfmXjVDOJIzwpt*AQK-56cmr*T9B0VazqCW-FNZVAbmPMdmN7YV4kyYcN8=)
+[原创专访捷豹路虎高层：国产化加速，I-PACE带动新能源产品研发输出](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRWZHGPtmllKarVI3ZHkAPahCmUOUVZD1QPDLp7oqaIHs-Oi*FDS1vDiNH7bJfxbNM63fLPePsDV0xISIWsNeS90=)
 
-[原创在北京车展高峰论坛上，行业大咖们都讲了些啥干货？](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4ZCCEZ3xbZPZmd9iR6Pun7OHEYvoEMzOg-ccHi6WXMKeKudvDN6Zr7nPVG28m*-zXR7gnPfotV819XpH55Zrevc=)
+[疯狂的混动：爬野山下赛道无所不能\|科技说](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRfUdoNbZrWdcWM3AUk-Ok4VzpZhtjICs33h0D9DkztHXYK10mTcUpz6i5vPlfrgKlbfvZ6C9qzy0L5EpUJluslM=)
 
-[原创【一周动态】高温来袭，逛车展千万别中暑啊！](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4ZCCEZ3xbZPZmd9iR6Pun7MM1An2yesZ7xzG52T6I*Du6MEYMFn0*T1k7N4bbP1qUAdmUk8TU5xgmj*QKZJbzxw=)
+[原创疯狂的发动机：W18发动机是个什么鬼？\|科技说](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRUmkSXc9EHmBhwnMbxBR5o0BPb5SKPqP9SbryTlWhebGpUW51TklmPz-sBat*tUJZiu*yvQNvyQ7cTQqvh8E8E0=)
 
-[对话李想、吴甘沙、朱岩：大出行领域，后来者机会不多了](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4Rq*ZkXxWdeTawch2Q5CrLMGkIASmT8h8Pedq7MsI3iqNKAeH*s2wANzyZ1LkZN2mMgKsl18TvX*-3jG*mx-AMY=)
+[原创在北京车展高峰论坛上，行业大咖们都讲了些啥干货？](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRTEloEkEeyAzvtSMW3z16-moVL90KiwDd2okqy7bHRAnTcJ6CicNCVBMUjpQ0oh*YHRi43LAGSpUsIFpP2BekI0=)
 
-[最佳的VQ接班人，英菲尼迪的VC-T是如何做到的？](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4Rq*ZkXxWdeTawch2Q5CrLMsYW2lKmmsg6IRj2gnxd9UCV6hrEEM6-HokP8oDY3FL4VKqizj6iRHgs*6Ws5*DHg=)
+[原创【一周动态】高温来袭，逛车展千万别中暑啊！](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRTEloEkEeyAzvtSMW3z16-kGeFnTS2L51ABn79FR82IFLx776oMjMAGYZtqEEq*WfqhOIn*nAQUMjO5kL-YHcTs=)
 
-[原创放不下旧爱，怎能拥抱新欢\|李子曰](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4Rq*ZkXxWdeTawch2Q5CrLORHOIatcmKxNnupwGW9mkkOqmNW737OCYq-U4uZGXWRI97Dz3trN-M9ZDeaYdThhs=)
+[对话李想、吴甘沙、朱岩：大出行领域，后来者机会不多了](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRfMBdo9Q2QjWhIVAWfNTjqt2r*tvBaI5B0MBWj1uy02Y3k58fd0ReplypG8LUf3u1XHXpgaRtlmo1eb2T4mmDRU=)
 
-[原创接力一汽大众2.0时代，新CC和探歌为何如此重要？](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4Rq*ZkXxWdeTawch2Q5CrLOSFZxTnJ7cDw0yk9YpdZ*x4Pka0W9Vl*76wsqozyLomEZ8OzXdZ8AuUW6r80o0ef0=)
+[最佳的VQ接班人，英菲尼迪的VC-T是如何做到的？](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRfMBdo9Q2QjWhIVAWfNTjquPo1xM5Iq0sZ2J2GEX3se87CwWq90HDjWhc39yNLPuj6xDKVq7Bx8nwdc4*wYXhb4=)
 
-[原创哈曼联手英特尔打造“智能驾驶舱”，搭载贯穿式QLED屏幕](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4Rq*ZkXxWdeTawch2Q5CrLP*PflPqyWd2PUHUQEJXZ44e8rC7xA2AN2tFJTwgi4RgOkTLh*E-SFtnSL9iu-OkYU=)
+[原创放不下旧爱，怎能拥抱新欢\|李子曰](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRfMBdo9Q2QjWhIVAWfNTjqs0-mzcRW8qCztxf6ONEiixJxHeS62vxhAzblzoAGlYt3y2dUhJbgrAkf0PNjAu2XA=)
 
-[原创推出超豪华版车型，会给哈弗H6“火上浇油”吗？](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4Rq*ZkXxWdeTawch2Q5CrLNNm16XX-qlFAKWUG8XNKvQvj9tviTc*TV-61LREh*Zah3BNrPyTWWbkdoxQiseGbc=)
+[原创接力一汽大众2.0时代，新CC和探歌为何如此重要？](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRfMBdo9Q2QjWhIVAWfNTjquI63lXR3S04vSPrUcUEQUJH3IbhkhIq0nlmNO1wWIAUhXyrAwwmcixE3L*IwZl6OM=)
 
-[原创零部件“巨擘”北京车展变形记](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4XxzfwEUrHCOMZJHM*cKo6RFJ*t7ZGB9Q*nSO2aRborenLcgIZbl-xIxCWFnuIhLKPBTMKagU3uBe-T-VCbnYWY=)
+[原创哈曼联手英特尔打造“智能驾驶舱”，搭载贯穿式QLED屏幕](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRfMBdo9Q2QjWhIVAWfNTjqsQ-N0-b5QHyQIMegfceqt0YK86QNClVy8T*e-kdS4lwbsRpLSDSMgRP5vqucubBMo=)
 
-[原创专访大众首席数字官：数字化转型成果正逐步导入现有量产车型](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4XxzfwEUrHCOMZJHM*cKo6SAQTeyJ2-ZBh*assMbHW-ZSuwG4rby0oa0NN0Cswy9Qj5S7XJG*8-8Pjqdsg8haWU=)
+[原创推出超豪华版车型，会给哈弗H6“火上浇油”吗？](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRfMBdo9Q2QjWhIVAWfNTjqvu*9oW7G0h8l3ss1BKtdE6dEteXNpeHDg2YPLr2tQ2mKKtP3BgZfQf3G1AJygcSBs=)
 
-[北京车展16款概念车盘点：都是电动的，汽油时代真要终结？](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4XxzfwEUrHCOMZJHM*cKo6SKX3qHdxeOB-gdyiYVKzqkUGMn7F94GeN*bp9TJNisvfa0TBy3mzLpHlxTaxswRPU=)
+[原创零部件“巨擘”北京车展变形记](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRZv-8MjXfcp8vaBVR52WKSvA3a1-5KDus8aH8dAUcCyY0iCI8qesCTtm*-2wkAccrBwr0jqt3B26GzcfJSdaGik=)
 
-[原创安波福将扩大自动驾驶车队规模，暂无在国内申请牌照计划](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4XxzfwEUrHCOMZJHM*cKo6SeqLQEiBKFULsPnxubFSXVWIgU5QR0yBnAIBWqNOID0-duIfQNaVsAUOR0gmZCQwI=)
+[原创专访大众首席数字官：数字化转型成果正逐步导入现有量产车型](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRZv-8MjXfcp8vaBVR52WKSvdTR8FdqfLVYNq0mfErK1nrSkgNKVJvkPgQLe4WGAfq-3HowfSDeGK-QJggpGikLc=)
 
-[江淮大众谜底揭晓：西雅特“曲线”国产，首批订单来自首汽约车](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4XxzfwEUrHCOMZJHM*cKo6S0dW20iYpa6TVt8cVhckR3SP5lM*IrHSqXVCQ-HbeQMchHRPAHWXek-bQ9VZyMASM=)
+[北京车展16款概念车盘点：都是电动的，汽油时代真要终结？](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRZv-8MjXfcp8vaBVR52WKSttH06L2eIlHpniUotSaJRdL8HOMy8HwcMASqJG6QYRSrh-v-HcP*CZG*6JlUySaJk=)
 
-[原创明明是北京车展，我却看到了清末民初\|企业号](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4fryh6R2B8kRUbM8yPmP*fHrxbWeJyqm4EPK2hE0XfcGug9I0qhEETs9ZiQOEtdgKIDmh3cHLbm3kILAy0y*-xc=)
+[原创安波福将扩大自动驾驶车队规模，暂无在国内申请牌照计划](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRZv-8MjXfcp8vaBVR52WKSssUAgI5BvuvtJpA3IZv*0cUZetJAwx57kn5VTsbUnUdC6bxUDqWXUa-LPl1z8M3Sk=)
 
-[体验飞行家Aviatorpreview：林肯加码中国市场的重型武器](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4fryh6R2B8kRUbM8yPmP*fFDjflsN9tcSG20Kn9MQri0MyD3DZf5VVQj0xZxI4iLE8yUtgxt*AteAq2o7hzgUho=)
+[江淮大众谜底揭晓：西雅特“曲线”国产，首批订单来自首汽约车](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRZv-8MjXfcp8vaBVR52WKSuic8eBm8MQxQ-LPxx3Lh7sWhx119MkZnK28yo1fVlPzr*3qJNvcF72b8dErPu6PIc=)
 
-[原创比亚迪发布DiLink智能系统，亮点丝毫不输全新一代唐](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4fryh6R2B8kRUbM8yPmP*fEhdaZvhCsAuLSFuHNBVP9G30*4-8D1inftl8LmWZia2q9g66UuQe4Ki1AXixMAmkw=)
+[原创明明是北京车展，我却看到了清末民初\|企业号](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRSuDWKulOisQXT-VdfWxXuuqfHGpZ*6geh8y0CfeLXWYCU-d4U0Zrk6mmacWG*M8VYcyelVTDV9SZwbBaLTW0qg=)
 
-[原创禾多科技谈自动驾驶落地，答案是「结构化道路」和「最后一公里」](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4fryh6R2B8kRUbM8yPmP*fG7m5-IeWyCARQsOlkqyObD5MZunbMfgepVfB8R3tPFRc7OltCbIWd5UnANzCIKkPs=)
+[体验飞行家Aviatorpreview：林肯加码中国市场的重型武器](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRSuDWKulOisQXT-VdfWxXuv7gePRuLYdsiB1fGtE5VmuLj3ohLUQg5t9OBJ4gy4jXjxJtU22u28nlATikNqGeZ8=)
 
-[原创本田电动化战略升级，2025年将在中国推至少20款电动车](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4fryh6R2B8kRUbM8yPmP*fFXjVH459Sz1EzqoAc42*n0wZwlBC2gcqMZ-OnKfCDTx3tdqmL1pVQ0SFPb7RmnSLs=)
+[原创比亚迪发布DiLink智能系统，亮点丝毫不输全新一代唐](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRSuDWKulOisQXT-VdfWxXuu8UnS8FH5HVV5EYt65FdU1KeHmyjVEz-mZ5sALe2hHvmCpPRd8aJ4ewgbDYYo0C*A=)
 
-[原创现场\|9大造车新势力北京车展“斗牛”：推21款新车，展台炫逼ABB！](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4Z6wtbbJ9dHI*d4YZCziedK*A5nQ6g9tjf4FVlPFoOka8lyQXHWi1Jg-eeTtuytecqOxEJbvKJ2xf4wuqlw2C50=)
+[原创禾多科技谈自动驾驶落地，答案是「结构化道路」和「最后一公里」](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRSuDWKulOisQXT-VdfWxXuuoG3n3qNZA7c53B8K33dKewDd3ZdF76vESkpO-1XHDYTg764frlDI-HYX2uFT3pgQ=)
 
-[原创国产X3，iX3概念车全球首秀，宝马带来史上最强首发阵营](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4Z6wtbbJ9dHI*d4YZCziedIeg92DhwO09SdMywA39KBYKt6nPvbCCptpNrVII*FxBdFPNAx*SWd1tZCiOAkV6to=)
-
-[奇点牵手北汽新能源打造智能汽车，宣布完成30亿元C轮融资](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4Z6wtbbJ9dHI*d4YZCziedJldPHxHNbcwgqg7*c9YYm8ueLhwRxMEuQLuDx237pWx7*BvPVckmH2ssHAz9M3QUM=)
-
-[原创北京车展：犹豫的、质疑的、反对的，都已成事实\|企业号](http://mp.weixin.qq.com/s?timestamp=1525419430&src=3&ver=1&signature=QYFkGEQB0ajCr4tV*Fxn*CuA2gt1vxWOtHmU2Zdh74nndSb8uwwZM9Gd1RfuZrl4CtnNJCN2s*xdykH73dee4Z6wtbbJ9dHI*d4YZCziedLTVuMp7FUp6olJvjOjm2lDwcpCSNpt79dJ0ntZ1POCERCHVIknMAc*607d9PDfqAI=)
+[原创本田电动化战略升级，2025年将在中国推至少20款电动车](http://mp.weixin.qq.com/s?timestamp=1525526058&src=3&ver=1&signature=aa1sVCbA8Iof*UltlWGXwoOUaJZiYBfCn*AUUsulvceQRZP1X0welp8R86rIedDe93lowqBptGLg-eyBdchSRSuDWKulOisQXT-VdfWxXuvNoRyxxPbXALQnZjqa*3xTofDztliwsaF9REjuMR9tCR4ov5*JhaRI9cUMEJKZ1uY=)
